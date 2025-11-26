@@ -1,0 +1,20 @@
+[
+  {
+    "timestamp_utc": "2025-11-11T05:56:00.846Z",
+    "context_time": 1762840560846,
+    "message_brand": null,
+    "message_connection_country": "AU",
+    "message_device_type": null,
+    "message_endpoint": "CAPABILITIES",
+    "message_error_reason": null,
+    "message_is_employee": null,
+    "message_license": null,
+    "message_model": null,
+    "message_response_status": 200,
+    "message_sdk_type": null,
+    "message_seq_num": null,
+    "message_spotify_domain": "gae2.spotify.net",
+    "message_timestamp": 1762840560829,
+    "message_user_country": "ID"
+  }
+]

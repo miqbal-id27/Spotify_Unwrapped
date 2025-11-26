@@ -1,0 +1,30 @@
+[
+  {
+    "message_cta_url": "https://open.spotify.com/cultural-moment/hub/0JQ5DAxqYqDhUkTE7Sjcqw?section=0JQ5DAsBvZ1t5WSw5MssCt",
+    "timestamp_utc": "2025-09-04T00:41:03.596Z",
+    "context_application_version": "9.0.74.1121",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "OPPO",
+    "context_device_model": "CPH2625",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "15",
+    "context_receiver_service_timestamp": 1756946486634,
+    "context_time": 1756946463596,
+    "message_button_identifier": "primaryCta-1",
+    "message_cmp_message_type": null,
+    "message_cta_identifier": "URL",
+    "message_interaction_type": "message_primaryCta-1_tapped",
+    "message_local_message_identifier": null,
+    "message_locale": "en",
+    "message_message_creative_campaign_id": 90501,
+    "message_message_creative_id": 18571177,
+    "message_message_creative_template_id": 99054,
+    "message_message_creative_version": "cards/V2",
+    "message_message_format": "MODAL",
+    "message_message_id": 178039,
+    "message_message_uuid": "ccc4ce4d-5b89-4cb4-ab75-71fbf6a6c1f7",
+    "message_opportunity_id": "ccc4ce4d-5b89-4cb4-ab75-71fbf6a6c1f7",
+    "message_trigger": "spotify:home"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp_utc": "2025-11-20T03:38:41.303Z",
+    "context_application_version": "1.0.0.1",
+    "context_conn_country": "AU",
+    "context_receiver_service_timestamp": 1763609920763,
+    "context_time": 1763609921303,
+    "context_user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+    "message_market": "au",
+    "message_name": "makeSAR",
+    "message_reason": "exception",
+    "message_success": true
+  },
+  {
+    "timestamp_utc": "2025-11-20T03:39:02.442Z",
+    "context_application_version": "1.0.0.1",
+    "context_conn_country": "AU",
+    "context_receiver_service_timestamp": 1763609944333,
+    "context_time": 1763609942442,
+    "context_user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Mobile Safari/537.36",
+    "message_market": "au",
+    "message_name": "confirmSAR",
+    "message_reason": "exception",
+    "message_success": true
+  },
+  {
+    "timestamp_utc": "2025-09-02T04:32:49.225Z",
+    "context_application_version": "1.0.0.1",
+    "context_conn_country": "AU",
+    "context_receiver_service_timestamp": 1756787569538,
+    "context_time": 1756787569225,
+    "context_user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36",
+    "message_market": "au",
+    "message_name": "confirmSAR",
+    "message_reason": "exception",
+    "message_success": true
+  },
+  {
+    "timestamp_utc": "2025-09-02T04:28:39.056Z",
+    "context_application_version": "1.0.0.1",
+    "context_conn_country": "AU",
+    "context_receiver_service_timestamp": 1756787318838,
+    "context_time": 1756787319056,
+    "context_user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "message_market": "us",
+    "message_name": "makeSAR",
+    "message_reason": "exception",
+    "message_success": true
+  }
+]

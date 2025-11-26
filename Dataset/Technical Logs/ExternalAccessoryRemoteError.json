@@ -1,0 +1,21 @@
+[
+  {
+    "timestamp_utc": "2025-09-30T03:29:00.855Z",
+    "context_application_version": "9.0.82.1032",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "OPPO",
+    "context_device_model": "CPH2625",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "15",
+    "context_receiver_service_timestamp": 1759202970921,
+    "context_time": 1759202940855,
+    "message_action": "resume",
+    "message_error_code": null,
+    "message_error_description": "Reasons:not_paused",
+    "message_error_domain": null,
+    "message_error_is_recoverable": null,
+    "message_impression_id": null,
+    "message_remote_session_id": null
+  }
+]

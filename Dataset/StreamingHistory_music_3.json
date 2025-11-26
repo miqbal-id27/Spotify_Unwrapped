@@ -1,0 +1,135 @@
+{
+  "topArtists": {
+    "numUniqueArtists": 1393,
+    "topArtists": [
+      {
+        "artistUri": "spotify:artist:3VQDqjQ4wJyw8PzpGdlZpB"
+      },
+      {
+        "artistUri": "spotify:artist:28ot3wh4oNmoFOdVajibBl"
+      },
+      {
+        "artistUri": "spotify:artist:5069JTmv5ZDyPeZaCCXiCg"
+      },
+      {
+        "artistUri": "spotify:artist:3pc0bOVB5whxmD50W79wwO"
+      },
+      {
+        "artistUri": "spotify:artist:2ODok2cPMF1Z1gZetfaL6n"
+      }
+    ],
+    "topArtistMilliseconds": 241754317,
+    "topArtistFanPercentage": 2.1989744E-4
+  },
+  "topPodcasts": {
+    "topPodcastsUri": [
+      "spotify:show:72q1XjiuFViF2tx7IbQ5X5"
+    ],
+    "topPodcastMilliseconds": 19326651,
+    "topPodcastPercentage": 0.0,
+    "totalPodcastMilliseconds": 32081961
+  },
+  "topTracks": {
+    "topTracks": [
+      "spotify:track:1ofi9JLp0snYiF6IpiH3G6",
+      "spotify:track:1aKvZDoLGkNMxoRYgkckZG",
+      "spotify:track:4gOwpU4kMZZNDWkoHYUj1Z",
+      "spotify:track:42lDvdAmBr7H5hLzvr882L",
+      "spotify:track:0NrObqc8nK1XcDNPJNBKRV"
+    ],
+    "topTrackPlayCount": 119,
+    "topTrackFirstPlayedDate": "2024-08-18",
+    "distinctTracksPlayed": 3001
+  },
+  "yearlyMetrics": {
+    "totalMsListened": 2811168237,
+    "mostListenedDay": "2024-10-14",
+    "mostListenedDayMinutes": 1342.7722,
+    "percentGreaterThanWorldwideUsers": 94.909515
+  },
+  "musicEvolution": {
+    "eras": [
+      {
+        "key": "0",
+        "peakMonth": 1,
+        "color": "red-green",
+        "genre": "soul",
+        "mood": "vlog",
+        "descriptor": "chill pop",
+        "pivotalArtists": [
+          "spotify:artist:6DglQ2XH6PeloHbusbZvHA",
+          "spotify:artist:5MwxRYT0ZWOpQQBPktD0Rf",
+          "spotify:artist:47jdlqzmvdk0SFUU0gweMz"
+        ],
+        "tracks": [
+          {
+            "trackName": "You're Sorry",
+            "trackUri": "spotify:track:0radZezmqKDFv3fSvbFQSz"
+          },
+          {
+            "trackName": "Memory On A Screen",
+            "trackUri": "spotify:track:0CgLM1F18yB5M8q8AYcs3p"
+          },
+          {
+            "trackName": "Can We Try Again",
+            "trackUri": "spotify:track:3B0oVh0K0Tv8HbYaS2Bcbs"
+          }
+        ]
+      },
+      {
+        "key": "1",
+        "peakMonth": 4,
+        "color": "red-blue",
+        "genre": "k-pop",
+        "mood": "hallyu",
+        "descriptor": "catwalk",
+        "pivotalArtists": [
+          "spotify:artist:28ot3wh4oNmoFOdVajibBl",
+          "spotify:artist:36cgvBn0aadzOijnjjwqMN",
+          "spotify:artist:4TEK9tIkcoxib4GxT3O4ky"
+        ],
+        "tracks": [
+          {
+            "trackName": "Magnetic",
+            "trackUri": "spotify:track:1aKvZDoLGkNMxoRYgkckZG"
+          },
+          {
+            "trackName": "해야 (HEYA)",
+            "trackUri": "spotify:track:4gOwpU4kMZZNDWkoHYUj1Z"
+          },
+          {
+            "trackName": "SOMETHING AIN'T RIGHT",
+            "trackUri": "spotify:track:3RxL9p66oXKuSdXYeFcJeT"
+          }
+        ]
+      },
+      {
+        "key": "2",
+        "peakMonth": 8,
+        "color": "green-blue",
+        "genre": "korean r&b",
+        "mood": "chill",
+        "descriptor": "ballroom",
+        "pivotalArtists": [
+          "spotify:artist:3VQDqjQ4wJyw8PzpGdlZpB",
+          "spotify:artist:0dTj3SqwE8kPnCzyzvYzhT",
+          "spotify:artist:6tjbcCaexKI8esvvEZPVnt"
+        ],
+        "tracks": [
+          {
+            "trackName": "Nirvana Blues",
+            "trackUri": "spotify:track:7Kg4EWw7TSiXAczXDQfhSn"
+          },
+          {
+            "trackName": "Tide",
+            "trackUri": "spotify:track:5vxI8T4A2wy2GNaS0qTDY7"
+          },
+          {
+            "trackName": "When Dawn Comes Again (feat. BAEKHYUN)",
+            "trackUri": "spotify:track:0mrgAyhYrP2JWT9yoUUFRj"
+          }
+        ]
+      }
+    ]
+  }
+}

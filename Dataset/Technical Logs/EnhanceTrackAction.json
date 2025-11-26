@@ -1,0 +1,98 @@
+[
+  {
+    "timestamp_utc": "2025-09-11T00:08:03Z",
+    "context_time": 1757549283000,
+    "message_backfill_rec_uris": [
+    ],
+    "message_context_revision": null,
+    "message_correlation_id": "ssp~063e7b17cd881dd47250f76b64d23665a12b",
+    "message_is_enhanced": true,
+    "message_operation_type": "ADD_ENHANCED",
+    "message_playlist_revision": null,
+    "message_playlist_uri": null,
+    "message_seed_index": null,
+    "message_session_id": "1757548800001",
+    "message_track_index": 140,
+    "message_track_uri": "spotify:track:6ueCHkTpNAzRE73hx4cHOn"
+  },
+  {
+    "timestamp_utc": "2025-09-11T00:11:35.796Z",
+    "context_time": 1757549495796,
+    "message_backfill_rec_uris": [
+    ],
+    "message_context_revision": null,
+    "message_correlation_id": "ssp~063e7b54b0c1dbbb7588dc73e93003ef6cfb",
+    "message_is_enhanced": true,
+    "message_operation_type": "ADD_ENHANCED",
+    "message_playlist_revision": null,
+    "message_playlist_uri": null,
+    "message_seed_index": null,
+    "message_session_id": "1757548800001",
+    "message_track_index": 109,
+    "message_track_uri": "spotify:track:1dBjp17ylpBJORpIHsQJw5"
+  },
+  {
+    "timestamp_utc": "2025-11-13T02:18:56.891Z",
+    "context_time": 1763000336891,
+    "message_backfill_rec_uris": [
+    ],
+    "message_context_revision": null,
+    "message_correlation_id": "ssp~06437061dbca8e6cb4f92c9c1bc9530b0cbd",
+    "message_is_enhanced": true,
+    "message_operation_type": "ADD_ENHANCED",
+    "message_playlist_revision": null,
+    "message_playlist_uri": null,
+    "message_seed_index": null,
+    "message_session_id": "1762992000001",
+    "message_track_index": 26,
+    "message_track_uri": "spotify:track:4yig4whQqGKgtjeYsVPRxG"
+  },
+  {
+    "timestamp_utc": "2025-09-10T23:23:47.295Z",
+    "context_time": 1757546627295,
+    "message_backfill_rec_uris": [
+    ],
+    "message_context_revision": null,
+    "message_correlation_id": "ssp~063e7a795bd603a38253f0685507727edf7a",
+    "message_is_enhanced": true,
+    "message_operation_type": "ADD_ENHANCED",
+    "message_playlist_revision": null,
+    "message_playlist_uri": null,
+    "message_seed_index": null,
+    "message_session_id": "1757548800001",
+    "message_track_index": 119,
+    "message_track_uri": "spotify:track:4IZC0v8Ts0rcj5XBm2dcYD"
+  },
+  {
+    "timestamp_utc": "2025-09-10T23:06:43.216Z",
+    "context_time": 1757545603216,
+    "message_backfill_rec_uris": [
+    ],
+    "message_context_revision": null,
+    "message_correlation_id": "ssp~063e798f9fcfbad81409eede5d3501898c76",
+    "message_is_enhanced": true,
+    "message_operation_type": "ADD_ENHANCED",
+    "message_playlist_revision": null,
+    "message_playlist_uri": null,
+    "message_seed_index": null,
+    "message_session_id": "1757548800001",
+    "message_track_index": 101,
+    "message_track_uri": "spotify:track:0vuM2H3oow8eATaF2lXNMN"
+  },
+  {
+    "timestamp_utc": "2025-09-10T23:51:01.464Z",
+    "context_time": 1757548261464,
+    "message_backfill_rec_uris": [
+    ],
+    "message_context_revision": null,
+    "message_correlation_id": "ssp~063e7ab665fd576ff9b18534dbd5865fbff4",
+    "message_is_enhanced": true,
+    "message_operation_type": "ADD_ENHANCED",
+    "message_playlist_revision": null,
+    "message_playlist_uri": null,
+    "message_seed_index": null,
+    "message_session_id": "1757548800001",
+    "message_track_index": 135,
+    "message_track_uri": "spotify:track:6qsXo7UJdVeirmiPLgBciE"
+  }
+]

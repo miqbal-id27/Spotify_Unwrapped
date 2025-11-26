@@ -1,0 +1,72 @@
+[
+  {
+    "timestamp_utc": "2025-11-17T11:11:38.184Z",
+    "context_time": 1763377898184,
+    "message_campaign_id": "in-app-referrals-rollout",
+    "message_market": "ID",
+    "message_resolved_locale": ""
+  },
+  {
+    "timestamp_utc": "2025-11-18T02:07:48.519Z",
+    "context_time": 1763431668519,
+    "message_campaign_id": "in-app-referrals-rollout",
+    "message_market": "ID",
+    "message_resolved_locale": ""
+  },
+  {
+    "timestamp_utc": "2025-11-20T01:45:41.455Z",
+    "context_time": 1763603141455,
+    "message_campaign_id": "in-app-referrals-rollout",
+    "message_market": "ID",
+    "message_resolved_locale": ""
+  },
+  {
+    "timestamp_utc": "2025-11-20T05:50:31.537Z",
+    "context_time": 1763617831537,
+    "message_campaign_id": "in-app-referrals-rollout",
+    "message_market": "ID",
+    "message_resolved_locale": ""
+  },
+  {
+    "timestamp_utc": "2025-11-20T12:41:16.061Z",
+    "context_time": 1763642476061,
+    "message_campaign_id": "in-app-referrals-rollout",
+    "message_market": "ID",
+    "message_resolved_locale": ""
+  },
+  {
+    "timestamp_utc": "2025-11-18T01:28:24.464Z",
+    "context_time": 1763429304464,
+    "message_campaign_id": "in-app-referrals-rollout",
+    "message_market": "ID",
+    "message_resolved_locale": ""
+  },
+  {
+    "timestamp_utc": "2025-11-20T01:42:31.001Z",
+    "context_time": 1763602951001,
+    "message_campaign_id": "in-app-referrals-rollout",
+    "message_market": "ID",
+    "message_resolved_locale": ""
+  },
+  {
+    "timestamp_utc": "2025-11-15T01:29:59.913Z",
+    "context_time": 1763170199913,
+    "message_campaign_id": "in-app-referrals-rollout",
+    "message_market": "ID",
+    "message_resolved_locale": ""
+  },
+  {
+    "timestamp_utc": "2025-11-15T01:31:06.386Z",
+    "context_time": 1763170266386,
+    "message_campaign_id": "in-app-referrals-rollout",
+    "message_market": "ID",
+    "message_resolved_locale": ""
+  },
+  {
+    "timestamp_utc": "2025-11-22T21:40:28.562Z",
+    "context_time": 1763847628562,
+    "message_campaign_id": "in-app-referrals-rollout",
+    "message_market": "ID",
+    "message_resolved_locale": ""
+  }
+]

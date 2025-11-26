@@ -1,0 +1,281 @@
+[
+  {
+    "timestamp_utc": "2025-09-02T04:26:40.194Z",
+    "context_time": 1756787200194,
+    "message_client_app_id": "",
+    "message_fronted_version": "NO_VERSION",
+    "message_redirect_uri": "https://support.spotify.com",
+    "message_response_type": "code",
+    "message_user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+  },
+  {
+    "timestamp_utc": "2025-11-20T03:36:55.665Z",
+    "context_time": 1763609815665,
+    "message_client_app_id": "",
+    "message_fronted_version": "NO_VERSION",
+    "message_redirect_uri": "https://support.spotify.com",
+    "message_response_type": "code",
+    "message_user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+  },
+  {
+    "timestamp_utc": "2025-09-02T04:27:08.381Z",
+    "context_time": 1756787228381,
+    "message_client_app_id": "",
+    "message_fronted_version": "NO_VERSION",
+    "message_redirect_uri": "https://support.spotify.com",
+    "message_response_type": "code",
+    "message_user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+  },
+  {
+    "timestamp_utc": "2025-09-02T04:27:03.704Z",
+    "context_time": 1756787223704,
+    "message_client_app_id": "",
+    "message_fronted_version": "NO_VERSION",
+    "message_redirect_uri": "https://support.spotify.com",
+    "message_response_type": "code",
+    "message_user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+  },
+  {
+    "timestamp_utc": "2025-10-14T02:46:37.908Z",
+    "context_time": 1760409997908,
+    "message_client_app_id": "",
+    "message_fronted_version": "NO_VERSION",
+    "message_redirect_uri": "https://support.spotify.com",
+    "message_response_type": "code",
+    "message_user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+  },
+  {
+    "timestamp_utc": "2025-10-14T02:46:37.892Z",
+    "context_time": 1760409997892,
+    "message_client_app_id": "",
+    "message_fronted_version": "NO_VERSION",
+    "message_redirect_uri": "https://support.spotify.com",
+    "message_response_type": "code",
+    "message_user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+  },
+  {
+    "timestamp_utc": "2025-09-02T04:27:08.331Z",
+    "context_time": 1756787228331,
+    "message_client_app_id": "",
+    "message_fronted_version": "NO_VERSION",
+    "message_redirect_uri": "https://support.spotify.com",
+    "message_response_type": "code",
+    "message_user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+  },
+  {
+    "timestamp_utc": "2025-09-02T04:29:00.088Z",
+    "context_time": 1756787340088,
+    "message_client_app_id": "",
+    "message_fronted_version": "NO_VERSION",
+    "message_redirect_uri": "https://support.spotify.com",
+    "message_response_type": "code",
+    "message_user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+  },
+  {
+    "timestamp_utc": "2025-09-02T04:26:40.117Z",
+    "context_time": 1756787200117,
+    "message_client_app_id": "",
+    "message_fronted_version": "NO_VERSION",
+    "message_redirect_uri": "https://support.spotify.com",
+    "message_response_type": "code",
+    "message_user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+  },
+  {
+    "timestamp_utc": "2025-10-14T02:46:37.866Z",
+    "context_time": 1760409997866,
+    "message_client_app_id": "",
+    "message_fronted_version": "NO_VERSION",
+    "message_redirect_uri": "https://support.spotify.com",
+    "message_response_type": "code",
+    "message_user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+  },
+  {
+    "timestamp_utc": "2025-11-20T03:37:15.824Z",
+    "context_time": 1763609835824,
+    "message_client_app_id": "",
+    "message_fronted_version": "NO_VERSION",
+    "message_redirect_uri": "https://support.spotify.com",
+    "message_response_type": "code",
+    "message_user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+  },
+  {
+    "timestamp_utc": "2025-11-20T03:37:15.908Z",
+    "context_time": 1763609835908,
+    "message_client_app_id": "",
+    "message_fronted_version": "NO_VERSION",
+    "message_redirect_uri": "https://support.spotify.com",
+    "message_response_type": "code",
+    "message_user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+  },
+  {
+    "timestamp_utc": "2025-09-02T04:26:40.176Z",
+    "context_time": 1756787200176,
+    "message_client_app_id": "",
+    "message_fronted_version": "NO_VERSION",
+    "message_redirect_uri": "https://support.spotify.com",
+    "message_response_type": "code",
+    "message_user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+  },
+  {
+    "timestamp_utc": "2025-09-02T04:29:00.138Z",
+    "context_time": 1756787340138,
+    "message_client_app_id": "",
+    "message_fronted_version": "NO_VERSION",
+    "message_redirect_uri": "https://support.spotify.com",
+    "message_response_type": "code",
+    "message_user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+  },
+  {
+    "timestamp_utc": "2025-09-02T04:29:00.088Z",
+    "context_time": 1756787340088,
+    "message_client_app_id": "",
+    "message_fronted_version": "NO_VERSION",
+    "message_redirect_uri": "https://support.spotify.com",
+    "message_response_type": "code",
+    "message_user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+  },
+  {
+    "timestamp_utc": "2025-09-02T04:27:08.376Z",
+    "context_time": 1756787228376,
+    "message_client_app_id": "",
+    "message_fronted_version": "NO_VERSION",
+    "message_redirect_uri": "https://support.spotify.com",
+    "message_response_type": "code",
+    "message_user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+  },
+  {
+    "timestamp_utc": "2025-09-02T04:27:08.332Z",
+    "context_time": 1756787228332,
+    "message_client_app_id": "",
+    "message_fronted_version": "NO_VERSION",
+    "message_redirect_uri": "https://support.spotify.com",
+    "message_response_type": "code",
+    "message_user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+  },
+  {
+    "timestamp_utc": "2025-09-02T04:26:40.117Z",
+    "context_time": 1756787200117,
+    "message_client_app_id": "",
+    "message_fronted_version": "NO_VERSION",
+    "message_redirect_uri": "https://support.spotify.com",
+    "message_response_type": "code",
+    "message_user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+  },
+  {
+    "timestamp_utc": "2025-11-20T03:36:55.611Z",
+    "context_time": 1763609815611,
+    "message_client_app_id": "",
+    "message_fronted_version": "NO_VERSION",
+    "message_redirect_uri": "https://support.spotify.com",
+    "message_response_type": "code",
+    "message_user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+  },
+  {
+    "timestamp_utc": "2025-09-02T04:27:08.342Z",
+    "context_time": 1756787228342,
+    "message_client_app_id": "",
+    "message_fronted_version": "NO_VERSION",
+    "message_redirect_uri": "https://support.spotify.com",
+    "message_response_type": "code",
+    "message_user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+  },
+  {
+    "timestamp_utc": "2025-11-20T03:37:15.821Z",
+    "context_time": 1763609835821,
+    "message_client_app_id": "",
+    "message_fronted_version": "NO_VERSION",
+    "message_redirect_uri": "https://support.spotify.com",
+    "message_response_type": "code",
+    "message_user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+  },
+  {
+    "timestamp_utc": "2025-11-20T03:36:55.600Z",
+    "context_time": 1763609815600,
+    "message_client_app_id": "",
+    "message_fronted_version": "NO_VERSION",
+    "message_redirect_uri": "https://support.spotify.com",
+    "message_response_type": "code",
+    "message_user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+  },
+  {
+    "timestamp_utc": "2025-09-02T04:27:03.706Z",
+    "context_time": 1756787223706,
+    "message_client_app_id": "",
+    "message_fronted_version": "NO_VERSION",
+    "message_redirect_uri": "https://support.spotify.com",
+    "message_response_type": "code",
+    "message_user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+  },
+  {
+    "timestamp_utc": "2025-10-14T02:46:37.873Z",
+    "context_time": 1760409997873,
+    "message_client_app_id": "",
+    "message_fronted_version": "NO_VERSION",
+    "message_redirect_uri": "https://support.spotify.com",
+    "message_response_type": "code",
+    "message_user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+  },
+  {
+    "timestamp_utc": "2025-09-02T04:26:40.110Z",
+    "context_time": 1756787200110,
+    "message_client_app_id": "",
+    "message_fronted_version": "NO_VERSION",
+    "message_redirect_uri": "https://support.spotify.com",
+    "message_response_type": "code",
+    "message_user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+  },
+  {
+    "timestamp_utc": "2025-09-02T04:29:00.132Z",
+    "context_time": 1756787340132,
+    "message_client_app_id": "",
+    "message_fronted_version": "NO_VERSION",
+    "message_redirect_uri": "https://support.spotify.com",
+    "message_response_type": "code",
+    "message_user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+  },
+  {
+    "timestamp_utc": "2025-09-02T04:27:03.728Z",
+    "context_time": 1756787223728,
+    "message_client_app_id": "",
+    "message_fronted_version": "NO_VERSION",
+    "message_redirect_uri": "https://support.spotify.com",
+    "message_response_type": "code",
+    "message_user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+  },
+  {
+    "timestamp_utc": "2025-09-02T04:27:03.737Z",
+    "context_time": 1756787223737,
+    "message_client_app_id": "",
+    "message_fronted_version": "NO_VERSION",
+    "message_redirect_uri": "https://support.spotify.com",
+    "message_response_type": "code",
+    "message_user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+  },
+  {
+    "timestamp_utc": "2025-11-20T03:36:55.627Z",
+    "context_time": 1763609815627,
+    "message_client_app_id": "",
+    "message_fronted_version": "NO_VERSION",
+    "message_redirect_uri": "https://support.spotify.com",
+    "message_response_type": "code",
+    "message_user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+  },
+  {
+    "timestamp_utc": "2025-09-02T04:27:03.689Z",
+    "context_time": 1756787223689,
+    "message_client_app_id": "",
+    "message_fronted_version": "NO_VERSION",
+    "message_redirect_uri": "https://support.spotify.com",
+    "message_response_type": "code",
+    "message_user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+  },
+  {
+    "timestamp_utc": "2025-11-20T03:37:15.853Z",
+    "context_time": 1763609835853,
+    "message_client_app_id": "",
+    "message_fronted_version": "NO_VERSION",
+    "message_redirect_uri": "https://support.spotify.com",
+    "message_response_type": "code",
+    "message_user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+  }
+]

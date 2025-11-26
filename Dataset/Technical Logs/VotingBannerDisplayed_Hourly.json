@@ -1,0 +1,72 @@
+[
+  {
+    "timestamp_utc": "2025-07-29T02:17:49.389Z",
+    "context_time": 1753755469389,
+    "message_banner_state": "VotingClosed",
+    "message_entity_uri": "spotify:playlist:37i9dQZF1Fj9OrNfyVGXF5",
+    "message_user_catalogue": "PREMIUM"
+  },
+  {
+    "timestamp_utc": "2025-07-30T00:01:07.120Z",
+    "context_time": 1753833667120,
+    "message_banner_state": "VotingClosed",
+    "message_entity_uri": "spotify:playlist:37i9dQZF1Fj9OrNfyVGXF5",
+    "message_user_catalogue": "PREMIUM"
+  },
+  {
+    "timestamp_utc": "2025-07-30T00:52:27.907Z",
+    "context_time": 1753836747907,
+    "message_banner_state": "VotingClosed",
+    "message_entity_uri": "spotify:playlist:37i9dQZF1Fj9OrNfyVGXF5",
+    "message_user_catalogue": "PREMIUM"
+  },
+  {
+    "timestamp_utc": "2025-07-29T03:32:18.830Z",
+    "context_time": 1753759938830,
+    "message_banner_state": "VotingClosed",
+    "message_entity_uri": "spotify:playlist:37i9dQZF1Fj9OrNfyVGXF5",
+    "message_user_catalogue": "PREMIUM"
+  },
+  {
+    "timestamp_utc": "2025-07-29T02:22:56.827Z",
+    "context_time": 1753755776827,
+    "message_banner_state": "VotingClosed",
+    "message_entity_uri": "spotify:playlist:37i9dQZF1Fj9OrNfyVGXF5",
+    "message_user_catalogue": "PREMIUM"
+  },
+  {
+    "timestamp_utc": "2025-07-29T03:40:32.848Z",
+    "context_time": 1753760432848,
+    "message_banner_state": "VotingClosed",
+    "message_entity_uri": "spotify:playlist:37i9dQZF1Fj9OrNfyVGXF5",
+    "message_user_catalogue": "PREMIUM"
+  },
+  {
+    "timestamp_utc": "2025-07-29T23:55:03.804Z",
+    "context_time": 1753833303804,
+    "message_banner_state": "VotingClosed",
+    "message_entity_uri": "spotify:playlist:37i9dQZF1Fj9OrNfyVGXF5",
+    "message_user_catalogue": "PREMIUM"
+  },
+  {
+    "timestamp_utc": "2025-07-30T01:25:03.615Z",
+    "context_time": 1753838703615,
+    "message_banner_state": "VotingClosed",
+    "message_entity_uri": "spotify:playlist:37i9dQZF1Fj9OrNfyVGXF5",
+    "message_user_catalogue": "PREMIUM"
+  },
+  {
+    "timestamp_utc": "2025-07-30T12:26:45.469Z",
+    "context_time": 1753878405469,
+    "message_banner_state": "VotingClosed",
+    "message_entity_uri": "spotify:playlist:37i9dQZF1Fj9OrNfyVGXF5",
+    "message_user_catalogue": "PREMIUM"
+  },
+  {
+    "timestamp_utc": "2025-07-30T00:25:27.078Z",
+    "context_time": 1753835127078,
+    "message_banner_state": "VotingClosed",
+    "message_entity_uri": "spotify:playlist:37i9dQZF1Fj9OrNfyVGXF5",
+    "message_user_catalogue": "PREMIUM"
+  }
+]

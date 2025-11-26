@@ -1,0 +1,4242 @@
+[
+  {
+    "timestamp_utc": "2025-11-03T09:40:05.620Z",
+    "context_application_version": "9.0.90.1229",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "OPPO",
+    "context_device_model": "CPH2625",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "15",
+    "context_receiver_service_timestamp": 1762162837320,
+    "context_time": 1762162805620,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 513,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-10-24T07:00:14.084Z",
+    "context_application_version": "1.2.75.510",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "Micro-Star International Co., Ltd.",
+    "context_device_model": "Cyborg 14 A13VE",
+    "context_device_type": "desktop",
+    "context_os_name": "windows",
+    "context_os_version": "10.0.26100",
+    "context_receiver_service_timestamp": 1761289239836,
+    "context_time": 1761289214084,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 187,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-09-26T05:11:12.816Z",
+    "context_application_version": "9.0.80.1343",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "OPPO",
+    "context_device_model": "CPH2625",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "15",
+    "context_receiver_service_timestamp": 1758863490980,
+    "context_time": 1758863472816,
+    "message_connection_type": "4g",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 272,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-09-25T03:28:46.996Z",
+    "context_application_version": "9.0.80.1343",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "OPPO",
+    "context_device_model": "CPH2625",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "15",
+    "context_receiver_service_timestamp": 1758770950155,
+    "context_time": 1758770926996,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 374,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-09-25T03:28:50.187Z",
+    "context_application_version": "9.0.80.1343",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "OPPO",
+    "context_device_model": "CPH2625",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "15",
+    "context_receiver_service_timestamp": 1758770950155,
+    "context_time": 1758770930187,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 540,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-11-02T11:18:27.385Z",
+    "context_application_version": "1.2.75.510",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "Micro-Star International Co., Ltd.",
+    "context_device_model": "Cyborg 14 A13VE",
+    "context_device_type": "desktop",
+    "context_os_name": "windows",
+    "context_os_version": "10.0.26100",
+    "context_receiver_service_timestamp": 1762082333076,
+    "context_time": 1762082307385,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 164,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-10-14T10:29:06.994Z",
+    "context_application_version": "9.0.86.1358",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "OPPO",
+    "context_device_model": "CPH2625",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "15",
+    "context_receiver_service_timestamp": 1760437777987,
+    "context_time": 1760437746994,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 204,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-11-10T01:53:05.672Z",
+    "context_application_version": "1.2.75.510",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "Micro-Star International Co., Ltd.",
+    "context_device_model": "Cyborg 14 A13VE",
+    "context_device_type": "desktop",
+    "context_os_name": "windows",
+    "context_os_version": "10.0.26100",
+    "context_receiver_service_timestamp": 1762739612102,
+    "context_time": 1762739585672,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 172,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-11-13T00:41:34.143Z",
+    "context_application_version": "1.2.75.510",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "Micro-Star International Co., Ltd.",
+    "context_device_model": "Cyborg 14 A13VE",
+    "context_device_type": "desktop",
+    "context_os_name": "windows",
+    "context_os_version": "10.0.26100",
+    "context_receiver_service_timestamp": 1762994497579,
+    "context_time": 1762994494143,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 179,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-10-03T01:19:49.229Z",
+    "context_application_version": "1.2.73.474",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "Micro-Star International Co., Ltd.",
+    "context_device_model": "Cyborg 14 A13VE",
+    "context_device_type": "desktop",
+    "context_os_name": "windows",
+    "context_os_version": "10.0.26100",
+    "context_receiver_service_timestamp": 1759454408374,
+    "context_time": 1759454389229,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 231,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-10-21T04:32:29.783Z",
+    "context_application_version": "1.2.74.477",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "Micro-Star International Co., Ltd.",
+    "context_device_model": "Cyborg 14 A13VE",
+    "context_device_type": "desktop",
+    "context_os_name": "windows",
+    "context_os_version": "10.0.26100",
+    "context_receiver_service_timestamp": 1761021162576,
+    "context_time": 1761021149783,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 251,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-08-22T22:27:49.273Z",
+    "context_application_version": "1.2.70.409",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "Micro-Star International Co., Ltd.",
+    "context_device_model": "Cyborg 14 A13VE",
+    "context_device_type": "desktop",
+    "context_os_name": "windows",
+    "context_os_version": "10.0.26100",
+    "context_receiver_service_timestamp": 1755901695780,
+    "context_time": 1755901669273,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 180,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-09-02T02:26:37.681Z",
+    "context_application_version": "1.2.71.421",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "Micro-Star International Co., Ltd.",
+    "context_device_model": "Cyborg 14 A13VE",
+    "context_device_type": "desktop",
+    "context_os_name": "windows",
+    "context_os_version": "10.0.26100",
+    "context_receiver_service_timestamp": 1756780019238,
+    "context_time": 1756779997681,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 192,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-09-28T02:08:12.376Z",
+    "context_application_version": "9.0.80.1343",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "OPPO",
+    "context_device_model": "CPH2625",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "15",
+    "context_receiver_service_timestamp": 1759025320856,
+    "context_time": 1759025292376,
+    "message_connection_type": "4g",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 237,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-10-03T04:14:45.862Z",
+    "context_application_version": "1.2.73.474",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "Micro-Star International Co., Ltd.",
+    "context_device_model": "Cyborg 14 A13VE",
+    "context_device_type": "desktop",
+    "context_os_name": "windows",
+    "context_os_version": "10.0.26100",
+    "context_receiver_service_timestamp": 1759464908345,
+    "context_time": 1759464885862,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 196,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-11-21T05:14:11.953Z",
+    "context_application_version": "9.0.96.826",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "OPPO",
+    "context_device_model": "CPH2625",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "15",
+    "context_receiver_service_timestamp": 1763702081628,
+    "context_time": 1763702051953,
+    "message_connection_type": "4g",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 390,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-10-12T23:02:14.172Z",
+    "context_application_version": "1.2.74.477",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "Micro-Star International Co., Ltd.",
+    "context_device_model": "Cyborg 14 A13VE",
+    "context_device_type": "desktop",
+    "context_os_name": "windows",
+    "context_os_version": "10.0.26100",
+    "context_receiver_service_timestamp": 1760310159921,
+    "context_time": 1760310134172,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 182,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-11-07T06:03:11.427Z",
+    "context_application_version": "1.2.75.510",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "Micro-Star International Co., Ltd.",
+    "context_device_model": "Cyborg 14 A13VE",
+    "context_device_type": "desktop",
+    "context_os_name": "windows",
+    "context_os_version": "10.0.26100",
+    "context_receiver_service_timestamp": 1762495415115,
+    "context_time": 1762495391427,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 171,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-11-16T10:07:40.475Z",
+    "context_application_version": "9.0.94.274",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "OPPO",
+    "context_device_model": "CPH2625",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "15",
+    "context_receiver_service_timestamp": 1763287681329,
+    "context_time": 1763287660475,
+    "message_connection_type": "unknown",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 340,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-11-20T02:34:07.255Z",
+    "context_application_version": "1.2.76.298",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "Micro-Star International Co., Ltd.",
+    "context_device_model": "Cyborg 14 A13VE",
+    "context_device_type": "desktop",
+    "context_os_name": "windows",
+    "context_os_version": "10.0.26100",
+    "context_receiver_service_timestamp": 1763606062199,
+    "context_time": 1763606047255,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 199,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-08-15T10:01:49.850Z",
+    "context_application_version": "9.0.68.632",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "OPPO",
+    "context_device_model": "CPH2625",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "15",
+    "context_receiver_service_timestamp": 1755252114689,
+    "context_time": 1755252109850,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 313,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-08-19T14:16:03.814Z",
+    "context_application_version": "1.2.70.409",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "Micro-Star International Co., Ltd.",
+    "context_device_model": "Cyborg 14 A13VE",
+    "context_device_type": "desktop",
+    "context_os_name": "windows",
+    "context_os_version": "10.0.26100",
+    "context_receiver_service_timestamp": 1755612975351,
+    "context_time": 1755612963814,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 204,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-10-16T00:35:50.738Z",
+    "context_application_version": "9.0.86.1358",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "OPPO",
+    "context_device_model": "CPH2625",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "15",
+    "context_receiver_service_timestamp": 1760574978608,
+    "context_time": 1760574950738,
+    "message_connection_type": "unknown",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 262,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-11-20T12:40:49.699Z",
+    "context_application_version": "9.0.96.826",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "OPPO",
+    "context_device_model": "CPH2625",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "15",
+    "context_receiver_service_timestamp": 1763642474611,
+    "context_time": 1763642449699,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 412,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-10-10T10:39:42.385Z",
+    "context_application_version": "1.2.74.477",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "Micro-Star International Co., Ltd.",
+    "context_device_model": "Cyborg 14 A13VE",
+    "context_device_type": "desktop",
+    "context_os_name": "windows",
+    "context_os_version": "10.0.26100",
+    "context_receiver_service_timestamp": 1760092797625,
+    "context_time": 1760092782385,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 189,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-10-09T09:54:02.646Z",
+    "context_application_version": "1.2.74.477",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "Micro-Star International Co., Ltd.",
+    "context_device_model": "Cyborg 14 A13VE",
+    "context_device_type": "desktop",
+    "context_os_name": "windows",
+    "context_os_version": "10.0.26100",
+    "context_receiver_service_timestamp": 1760003658519,
+    "context_time": 1760003642646,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 179,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-11-10T21:14:21.544Z",
+    "context_application_version": "1.2.75.510",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "Micro-Star International Co., Ltd.",
+    "context_device_model": "Cyborg 14 A13VE",
+    "context_device_type": "desktop",
+    "context_os_name": "windows",
+    "context_os_version": "10.0.26100",
+    "context_receiver_service_timestamp": 1762809291587,
+    "context_time": 1762809261544,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 165,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-10-26T03:21:48.674Z",
+    "context_application_version": "1.2.75.510",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "Micro-Star International Co., Ltd.",
+    "context_device_model": "Cyborg 14 A13VE",
+    "context_device_type": "desktop",
+    "context_os_name": "windows",
+    "context_os_version": "10.0.26100",
+    "context_receiver_service_timestamp": 1761448934343,
+    "context_time": 1761448908674,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 177,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-10-12T10:22:45.578Z",
+    "context_application_version": "1.2.74.477",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "Micro-Star International Co., Ltd.",
+    "context_device_model": "Cyborg 14 A13VE",
+    "context_device_type": "desktop",
+    "context_os_name": "windows",
+    "context_os_version": "10.0.26100",
+    "context_receiver_service_timestamp": 1760264570124,
+    "context_time": 1760264565578,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 174,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-09-30T09:12:48.962Z",
+    "context_application_version": "9.0.82.1032",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "OPPO",
+    "context_device_model": "CPH2625",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "15",
+    "context_receiver_service_timestamp": 1759223596075,
+    "context_time": 1759223568962,
+    "message_connection_type": "4g",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 274,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-09-26T04:33:24.788Z",
+    "context_application_version": "9.0.80.1343",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "OPPO",
+    "context_device_model": "CPH2625",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "15",
+    "context_receiver_service_timestamp": 1758861211533,
+    "context_time": 1758861204788,
+    "message_connection_type": "4g",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 193,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-09-06T13:36:59.947Z",
+    "context_application_version": "1.2.71.421",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "Micro-Star International Co., Ltd.",
+    "context_device_model": "Cyborg 14 A13VE",
+    "context_device_type": "desktop",
+    "context_os_name": "windows",
+    "context_os_version": "10.0.26100",
+    "context_receiver_service_timestamp": 1757165842678,
+    "context_time": 1757165819947,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 279,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-11-20T02:34:24.360Z",
+    "context_application_version": "1.2.76.298",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "Micro-Star International Co., Ltd.",
+    "context_device_model": "Cyborg 14 A13VE",
+    "context_device_type": "desktop",
+    "context_os_name": "windows",
+    "context_os_version": "10.0.26100",
+    "context_receiver_service_timestamp": 1763606068186,
+    "context_time": 1763606064360,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 165,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-10-23T02:45:21.672Z",
+    "context_application_version": "9.0.88.1404",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "OPPO",
+    "context_device_model": "CPH2625",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "15",
+    "context_receiver_service_timestamp": 1761187531440,
+    "context_time": 1761187521672,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 367,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-09-02T04:24:24.579Z",
+    "context_application_version": "1.2.71.421",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "Micro-Star International Co., Ltd.",
+    "context_device_model": "Cyborg 14 A13VE",
+    "context_device_type": "desktop",
+    "context_os_name": "windows",
+    "context_os_version": "10.0.26100",
+    "context_receiver_service_timestamp": 1756787076250,
+    "context_time": 1756787064579,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 214,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-09-24T11:37:53.147Z",
+    "context_application_version": "9.0.80.1343",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "OPPO",
+    "context_device_model": "CPH2625",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "15",
+    "context_receiver_service_timestamp": 1758713885363,
+    "context_time": 1758713873147,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 208,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-10-03T01:19:34.893Z",
+    "context_application_version": "1.2.73.474",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "Micro-Star International Co., Ltd.",
+    "context_device_model": "Cyborg 14 A13VE",
+    "context_device_type": "desktop",
+    "context_os_name": "windows",
+    "context_os_version": "10.0.26100",
+    "context_receiver_service_timestamp": 1759454378402,
+    "context_time": 1759454374893,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 170,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-11-18T13:07:17.174Z",
+    "context_application_version": "9.0.94.274",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "OPPO",
+    "context_device_model": "CPH2625",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "15",
+    "context_receiver_service_timestamp": 1763471244648,
+    "context_time": 1763471237174,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 231,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-09-12T15:56:29.722Z",
+    "context_application_version": "9.0.76.1126",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "OPPO",
+    "context_device_model": "CPH2625",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "15",
+    "context_receiver_service_timestamp": 1757692613055,
+    "context_time": 1757692589722,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 241,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-10-31T05:40:58.330Z",
+    "context_application_version": "9.0.90.1229",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "OPPO",
+    "context_device_model": "CPH2625",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "15",
+    "context_receiver_service_timestamp": 1761889273215,
+    "context_time": 1761889258330,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 338,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-08-17T06:38:52.111Z",
+    "context_application_version": "9.0.68.632",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "OPPO",
+    "context_device_model": "CPH2625",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "15",
+    "context_receiver_service_timestamp": 1755412755419,
+    "context_time": 1755412732111,
+    "message_connection_type": "unknown",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 231,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-11-20T05:50:31.732Z",
+    "context_application_version": "1.2.76.298",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "Micro-Star International Co., Ltd.",
+    "context_device_model": "Cyborg 14 A13VE",
+    "context_device_type": "desktop",
+    "context_os_name": "windows",
+    "context_os_version": "10.0.26100",
+    "context_receiver_service_timestamp": 1763617851806,
+    "context_time": 1763617831732,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 179,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-10-31T13:10:30.306Z",
+    "context_application_version": "1.2.75.510",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "Micro-Star International Co., Ltd.",
+    "context_device_model": "Cyborg 14 A13VE",
+    "context_device_type": "desktop",
+    "context_os_name": "windows",
+    "context_os_version": "10.0.26100",
+    "context_receiver_service_timestamp": 1761916237112,
+    "context_time": 1761916230306,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 177,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-08-31T06:10:08.322Z",
+    "context_application_version": "9.0.74.1121",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "OPPO",
+    "context_device_model": "CPH2625",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "15",
+    "context_receiver_service_timestamp": 1756620626214,
+    "context_time": 1756620608322,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 264,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-08-30T04:26:44.722Z",
+    "context_application_version": "9.0.74.1121",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "OPPO",
+    "context_device_model": "CPH2625",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "15",
+    "context_receiver_service_timestamp": 1756528034507,
+    "context_time": 1756528004722,
+    "message_connection_type": "4g",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 221,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-10-29T02:03:48.989Z",
+    "context_application_version": "9.0.90.1229",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "OPPO",
+    "context_device_model": "CPH2625",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "15",
+    "context_receiver_service_timestamp": 1761703454945,
+    "context_time": 1761703428989,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 425,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-11-20T12:35:09.952Z",
+    "context_application_version": "9.0.96.826",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "OPPO",
+    "context_device_model": "CPH2625",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "15",
+    "context_receiver_service_timestamp": 1763642116197,
+    "context_time": 1763642109952,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 235,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-10-24T03:07:13.034Z",
+    "context_application_version": "1.2.75.510",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "Micro-Star International Co., Ltd.",
+    "context_device_model": "Cyborg 14 A13VE",
+    "context_device_type": "desktop",
+    "context_os_name": "windows",
+    "context_os_version": "10.0.26100",
+    "context_receiver_service_timestamp": 1761275259127,
+    "context_time": 1761275233034,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 178,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-11-01T12:40:48.678Z",
+    "context_application_version": "9.0.90.1229",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "OPPO",
+    "context_device_model": "CPH2625",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "15",
+    "context_receiver_service_timestamp": 1762000876037,
+    "context_time": 1762000848678,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 6856,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-11-22T21:40:22.755Z",
+    "context_application_version": "9.0.96.826",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "OPPO",
+    "context_device_model": "CPH2625",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "15",
+    "context_receiver_service_timestamp": 1763847638487,
+    "context_time": 1763847622755,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 179,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-08-17T00:51:11.361Z",
+    "context_application_version": "9.0.68.632",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "OPPO",
+    "context_device_model": "CPH2625",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "15",
+    "context_receiver_service_timestamp": 1755391897211,
+    "context_time": 1755391871361,
+    "message_connection_type": "unknown",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 494,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-10-11T03:43:10.513Z",
+    "context_application_version": "9.0.86.1358",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "OPPO",
+    "context_device_model": "CPH2625",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "15",
+    "context_receiver_service_timestamp": 1760154213843,
+    "context_time": 1760154190513,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 1551,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-09-28T10:23:01.166Z",
+    "context_application_version": "9.0.80.1343",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "OPPO",
+    "context_device_model": "CPH2625",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "15",
+    "context_receiver_service_timestamp": 1759054986038,
+    "context_time": 1759054981166,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 498,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-08-30T04:26:37.138Z",
+    "context_application_version": "9.0.74.1121",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "OPPO",
+    "context_device_model": "CPH2625",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "15",
+    "context_receiver_service_timestamp": 1756528004471,
+    "context_time": 1756527997138,
+    "message_connection_type": "4g",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 394,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-09-12T15:16:37.947Z",
+    "context_application_version": "9.0.76.1126",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "OPPO",
+    "context_device_model": "CPH2625",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "15",
+    "context_receiver_service_timestamp": 1757690213072,
+    "context_time": 1757690197947,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 218,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-08-28T05:54:02.785Z",
+    "context_application_version": "1.2.71.421",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "Micro-Star International Co., Ltd.",
+    "context_device_model": "Cyborg 14 A13VE",
+    "context_device_type": "desktop",
+    "context_os_name": "windows",
+    "context_os_version": "10.0.26100",
+    "context_receiver_service_timestamp": 1756360465059,
+    "context_time": 1756360442785,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 447,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-11-15T01:31:06.286Z",
+    "context_application_version": "1.2.76.298",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "Micro-Star International Co., Ltd.",
+    "context_device_model": "Cyborg 14 A13VE",
+    "context_device_type": "desktop",
+    "context_os_name": "windows",
+    "context_os_version": "10.0.26100",
+    "context_receiver_service_timestamp": 1763170281654,
+    "context_time": 1763170266286,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 172,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-09-17T03:42:53.402Z",
+    "context_application_version": "9.0.78.1116",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "OPPO",
+    "context_device_model": "CPH2625",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "15",
+    "context_receiver_service_timestamp": 1758080586652,
+    "context_time": 1758080573402,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 385,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-09-14T03:37:11.346Z",
+    "context_application_version": "1.2.72.438",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "Micro-Star International Co., Ltd.",
+    "context_device_model": "Cyborg 14 A13VE",
+    "context_device_type": "desktop",
+    "context_os_name": "windows",
+    "context_os_version": "10.0.26100",
+    "context_receiver_service_timestamp": 1757821047553,
+    "context_time": 1757821031346,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 202,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-10-31T06:14:30.899Z",
+    "context_application_version": "9.0.90.1229",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "OPPO",
+    "context_device_model": "CPH2625",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "15",
+    "context_receiver_service_timestamp": 1761891282843,
+    "context_time": 1761891270899,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 206,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-10-01T20:49:30.255Z",
+    "context_application_version": "9.0.82.1032",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "OPPO",
+    "context_device_model": "CPH2625",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "15",
+    "context_receiver_service_timestamp": 1759351774755,
+    "context_time": 1759351770255,
+    "message_connection_type": "4g",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 251,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-09-21T08:46:07.488Z",
+    "context_application_version": "1.2.72.438",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "Micro-Star International Co., Ltd.",
+    "context_device_model": "Cyborg 14 A13VE",
+    "context_device_type": "desktop",
+    "context_os_name": "windows",
+    "context_os_version": "10.0.26100",
+    "context_receiver_service_timestamp": 1758444384968,
+    "context_time": 1758444367488,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 315,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-08-15T08:25:53.026Z",
+    "context_application_version": "1.2.69.449",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "Micro-Star International Co., Ltd.",
+    "context_device_model": "Cyborg 14 A13VE",
+    "context_device_type": "desktop",
+    "context_os_name": "windows",
+    "context_os_version": "10.0.26100",
+    "context_receiver_service_timestamp": 1755246376783,
+    "context_time": 1755246353026,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 195,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-09-12T15:55:59.923Z",
+    "context_application_version": "9.0.76.1126",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "OPPO",
+    "context_device_model": "CPH2625",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "15",
+    "context_receiver_service_timestamp": 1757692583057,
+    "context_time": 1757692559923,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 292,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-08-24T10:24:12.902Z",
+    "context_application_version": "1.2.70.409",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "Micro-Star International Co., Ltd.",
+    "context_device_model": "Cyborg 14 A13VE",
+    "context_device_type": "desktop",
+    "context_os_name": "windows",
+    "context_os_version": "10.0.26100",
+    "context_receiver_service_timestamp": 1756031059794,
+    "context_time": 1756031052902,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 212,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-10-26T04:32:32.939Z",
+    "context_application_version": "1.2.75.510",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "Micro-Star International Co., Ltd.",
+    "context_device_model": "Cyborg 14 A13VE",
+    "context_device_type": "desktop",
+    "context_os_name": "windows",
+    "context_os_version": "10.0.26100",
+    "context_receiver_service_timestamp": 1761453155246,
+    "context_time": 1761453152939,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 181,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-08-19T08:11:00.128Z",
+    "context_application_version": "1.2.70.409",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "Micro-Star International Co., Ltd.",
+    "context_device_model": "Cyborg 14 A13VE",
+    "context_device_type": "desktop",
+    "context_os_name": "windows",
+    "context_os_version": "10.0.26100",
+    "context_receiver_service_timestamp": 1755591086174,
+    "context_time": 1755591060128,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 179,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-09-21T08:41:57.288Z",
+    "context_application_version": "1.2.72.438",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "Micro-Star International Co., Ltd.",
+    "context_device_model": "Cyborg 14 A13VE",
+    "context_device_type": "desktop",
+    "context_os_name": "windows",
+    "context_os_version": "10.0.26100",
+    "context_receiver_service_timestamp": 1758444124069,
+    "context_time": 1758444117288,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 353,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-10-09T09:57:37.562Z",
+    "context_application_version": "1.2.74.477",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "Micro-Star International Co., Ltd.",
+    "context_device_model": "Cyborg 14 A13VE",
+    "context_device_type": "desktop",
+    "context_os_name": "windows",
+    "context_os_version": "10.0.26100",
+    "context_receiver_service_timestamp": 1760003883436,
+    "context_time": 1760003857562,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 178,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-09-24T11:38:02.081Z",
+    "context_application_version": "9.0.80.1343",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "OPPO",
+    "context_device_model": "CPH2625",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "15",
+    "context_receiver_service_timestamp": 1758713885601,
+    "context_time": 1758713882081,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 200,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-10-28T10:16:47.785Z",
+    "context_application_version": "1.2.75.510",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "Micro-Star International Co., Ltd.",
+    "context_device_model": "Cyborg 14 A13VE",
+    "context_device_type": "desktop",
+    "context_os_name": "windows",
+    "context_os_version": "10.0.26100",
+    "context_receiver_service_timestamp": 1761646633980,
+    "context_time": 1761646607785,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 168,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-09-12T13:45:15.366Z",
+    "context_application_version": "1.2.72.438",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "Micro-Star International Co., Ltd.",
+    "context_device_model": "Cyborg 14 A13VE",
+    "context_device_type": "desktop",
+    "context_os_name": "windows",
+    "context_os_version": "10.0.26100",
+    "context_receiver_service_timestamp": 1757684740748,
+    "context_time": 1757684715366,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 209,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-11-09T08:20:51.006Z",
+    "context_application_version": "1.2.75.510",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "Micro-Star International Co., Ltd.",
+    "context_device_model": "Cyborg 14 A13VE",
+    "context_device_type": "desktop",
+    "context_os_name": "windows",
+    "context_os_version": "10.0.26100",
+    "context_receiver_service_timestamp": 1762676476136,
+    "context_time": 1762676451006,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 177,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-10-21T22:34:37.443Z",
+    "context_application_version": "1.2.74.477",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "Micro-Star International Co., Ltd.",
+    "context_device_model": "Cyborg 14 A13VE",
+    "context_device_type": "desktop",
+    "context_os_name": "windows",
+    "context_os_version": "10.0.26100",
+    "context_receiver_service_timestamp": 1761086089381,
+    "context_time": 1761086077443,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 159,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-09-16T09:34:47.984Z",
+    "context_application_version": "1.2.72.438",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "Micro-Star International Co., Ltd.",
+    "context_device_model": "Cyborg 14 A13VE",
+    "context_device_type": "desktop",
+    "context_os_name": "windows",
+    "context_os_version": "10.0.26100",
+    "context_receiver_service_timestamp": 1758015308209,
+    "context_time": 1758015287984,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 185,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-11-10T21:13:47.293Z",
+    "context_application_version": "1.2.75.510",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "Micro-Star International Co., Ltd.",
+    "context_device_model": "Cyborg 14 A13VE",
+    "context_device_type": "desktop",
+    "context_os_name": "windows",
+    "context_os_version": "10.0.26100",
+    "context_receiver_service_timestamp": 1762809231486,
+    "context_time": 1762809227293,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 165,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-09-21T08:47:18.380Z",
+    "context_application_version": "1.2.72.438",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "Micro-Star International Co., Ltd.",
+    "context_device_model": "Cyborg 14 A13VE",
+    "context_device_type": "desktop",
+    "context_os_name": "windows",
+    "context_os_version": "10.0.26100",
+    "context_receiver_service_timestamp": 1758444444955,
+    "context_time": 1758444438380,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 273,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-09-21T08:38:27.133Z",
+    "context_application_version": "1.2.72.438",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "Micro-Star International Co., Ltd.",
+    "context_device_model": "Cyborg 14 A13VE",
+    "context_device_type": "desktop",
+    "context_os_name": "windows",
+    "context_os_version": "10.0.26100",
+    "context_receiver_service_timestamp": 1758443935020,
+    "context_time": 1758443907133,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 189,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-11-14T15:13:57.697Z",
+    "context_application_version": "9.0.94.274",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "OPPO",
+    "context_device_model": "CPH2625",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "15",
+    "context_receiver_service_timestamp": 1763133255214,
+    "context_time": 1763133237697,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 1026,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-11-17T11:11:39.288Z",
+    "context_application_version": "1.2.76.298",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "Micro-Star International Co., Ltd.",
+    "context_device_model": "Cyborg 14 A13VE",
+    "context_device_type": "desktop",
+    "context_os_name": "windows",
+    "context_os_version": "10.0.26100",
+    "context_receiver_service_timestamp": 1763431665074,
+    "context_time": 1763377899288,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 167,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-10-31T06:14:39.840Z",
+    "context_application_version": "9.0.90.1229",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "OPPO",
+    "context_device_model": "CPH2625",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "15",
+    "context_receiver_service_timestamp": 1761891283424,
+    "context_time": 1761891279840,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 574,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-11-20T12:41:15.607Z",
+    "context_application_version": "1.2.76.298",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "Micro-Star International Co., Ltd.",
+    "context_device_model": "Cyborg 14 A13VE",
+    "context_device_type": "desktop",
+    "context_os_name": "windows",
+    "context_os_version": "10.0.26100",
+    "context_receiver_service_timestamp": 1763642501194,
+    "context_time": 1763642475607,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 266,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-10-02T08:38:48.029Z",
+    "context_application_version": "9.0.82.1032",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "OPPO",
+    "context_device_model": "CPH2625",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "15",
+    "context_receiver_service_timestamp": 1759394337007,
+    "context_time": 1759394328029,
+    "message_connection_type": "4g",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 2239,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-08-18T05:28:11.114Z",
+    "context_application_version": "9.0.68.632",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "OPPO",
+    "context_device_model": "CPH2625",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "15",
+    "context_receiver_service_timestamp": 1755494911255,
+    "context_time": 1755494891114,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 828,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-11-03T09:40:11.315Z",
+    "context_application_version": "9.0.90.1229",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "OPPO",
+    "context_device_model": "CPH2625",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "15",
+    "context_receiver_service_timestamp": 1762162837524,
+    "context_time": 1762162811315,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 602,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-10-05T05:12:00.974Z",
+    "context_application_version": "1.2.73.474",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "Micro-Star International Co., Ltd.",
+    "context_device_model": "Cyborg 14 A13VE",
+    "context_device_type": "desktop",
+    "context_os_name": "windows",
+    "context_os_version": "10.0.26100",
+    "context_receiver_service_timestamp": 1759641132763,
+    "context_time": 1759641120974,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 225,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-11-03T14:32:26.623Z",
+    "context_application_version": "9.0.90.1229",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "OPPO",
+    "context_device_model": "CPH2625",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "15",
+    "context_receiver_service_timestamp": 1762181401467,
+    "context_time": 1762180346623,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 475,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-09-28T01:33:26.759Z",
+    "context_application_version": "9.0.80.1343",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "OPPO",
+    "context_device_model": "CPH2625",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "15",
+    "context_receiver_service_timestamp": 1759023220831,
+    "context_time": 1759023206759,
+    "message_connection_type": "4g",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 211,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-09-25T08:13:59.338Z",
+    "context_application_version": "9.0.80.1343",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "OPPO",
+    "context_device_model": "CPH2625",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "15",
+    "context_receiver_service_timestamp": 1758788060683,
+    "context_time": 1758788039338,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 178,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-11-10T23:38:37.161Z",
+    "context_application_version": "1.2.75.510",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "Micro-Star International Co., Ltd.",
+    "context_device_model": "Cyborg 14 A13VE",
+    "context_device_type": "desktop",
+    "context_os_name": "windows",
+    "context_os_version": "10.0.26100",
+    "context_receiver_service_timestamp": 1762817931390,
+    "context_time": 1762817917161,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 172,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-08-23T10:37:11.668Z",
+    "context_application_version": "9.0.72.967",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "OPPO",
+    "context_device_model": "CPH2625",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "15",
+    "context_receiver_service_timestamp": 1755945440798,
+    "context_time": 1755945431668,
+    "message_connection_type": "4g",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 315,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-10-12T23:02:24.831Z",
+    "context_application_version": "1.2.74.477",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "Micro-Star International Co., Ltd.",
+    "context_device_model": "Cyborg 14 A13VE",
+    "context_device_type": "desktop",
+    "context_os_name": "windows",
+    "context_os_version": "10.0.26100",
+    "context_receiver_service_timestamp": 1760310159921,
+    "context_time": 1760310144831,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 175,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-11-18T13:06:59.209Z",
+    "context_application_version": "9.0.94.274",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "OPPO",
+    "context_device_model": "CPH2625",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "15",
+    "context_receiver_service_timestamp": 1763471233855,
+    "context_time": 1763471219209,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 225,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-10-21T04:14:54.374Z",
+    "context_application_version": "1.2.74.477",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "Micro-Star International Co., Ltd.",
+    "context_device_model": "Cyborg 14 A13VE",
+    "context_device_type": "desktop",
+    "context_os_name": "windows",
+    "context_os_version": "10.0.26100",
+    "context_receiver_service_timestamp": 1761020120616,
+    "context_time": 1761020094374,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 174,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-11-15T01:30:01.748Z",
+    "context_application_version": "1.2.76.298",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "Micro-Star International Co., Ltd.",
+    "context_device_model": "Cyborg 14 A13VE",
+    "context_device_type": "desktop",
+    "context_os_name": "windows",
+    "context_os_version": "10.0.26100",
+    "context_receiver_service_timestamp": 1763170225934,
+    "context_time": 1763170201748,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 164,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-10-20T07:48:47.537Z",
+    "context_application_version": "9.0.88.1404",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "OPPO",
+    "context_device_model": "CPH2625",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "15",
+    "context_receiver_service_timestamp": 1760946548678,
+    "context_time": 1760946527537,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 368,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-09-22T12:04:21.974Z",
+    "context_application_version": "9.0.80.1343",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "OPPO",
+    "context_device_model": "CPH2625",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "15",
+    "context_receiver_service_timestamp": 1758542683055,
+    "context_time": 1758542661974,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 341,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-09-17T04:51:39.781Z",
+    "context_application_version": "9.0.78.1116",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "OPPO",
+    "context_device_model": "CPH2625",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "15",
+    "context_receiver_service_timestamp": 1758084713999,
+    "context_time": 1758084699781,
+    "message_connection_type": "4g",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 213,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-10-07T11:22:32.531Z",
+    "context_application_version": "9.0.84.1340",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "OPPO",
+    "context_device_model": "CPH2625",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "15",
+    "context_receiver_service_timestamp": 1759836173019,
+    "context_time": 1759836152531,
+    "message_connection_type": "4g",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 247,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-08-23T10:32:09.269Z",
+    "context_application_version": "9.0.72.967",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "OPPO",
+    "context_device_model": "CPH2625",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "15",
+    "context_receiver_service_timestamp": 1755945140785,
+    "context_time": 1755945129269,
+    "message_connection_type": "4g",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 258,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-10-24T12:48:21.239Z",
+    "context_application_version": "1.2.75.510",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "Micro-Star International Co., Ltd.",
+    "context_device_model": "Cyborg 14 A13VE",
+    "context_device_type": "desktop",
+    "context_os_name": "windows",
+    "context_os_version": "10.0.26100",
+    "context_receiver_service_timestamp": 1761310117134,
+    "context_time": 1761310101239,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 182,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-09-01T21:12:16.347Z",
+    "context_application_version": "1.2.71.421",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "Micro-Star International Co., Ltd.",
+    "context_device_model": "Cyborg 14 A13VE",
+    "context_device_type": "desktop",
+    "context_os_name": "windows",
+    "context_os_version": "10.0.26100",
+    "context_receiver_service_timestamp": 1756761161457,
+    "context_time": 1756761136347,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 188,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-11-20T02:34:13.748Z",
+    "context_application_version": "1.2.76.298",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "Micro-Star International Co., Ltd.",
+    "context_device_model": "Cyborg 14 A13VE",
+    "context_device_type": "desktop",
+    "context_os_name": "windows",
+    "context_os_version": "10.0.26100",
+    "context_receiver_service_timestamp": 1763606062199,
+    "context_time": 1763606053748,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 163,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-09-25T08:14:01.970Z",
+    "context_application_version": "9.0.80.1343",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "OPPO",
+    "context_device_model": "CPH2625",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "15",
+    "context_receiver_service_timestamp": 1758788060683,
+    "context_time": 1758788041970,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 178,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-09-28T08:36:49.572Z",
+    "context_application_version": "1.2.73.474",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "Micro-Star International Co., Ltd.",
+    "context_device_model": "Cyborg 14 A13VE",
+    "context_device_type": "desktop",
+    "context_os_name": "windows",
+    "context_os_version": "10.0.26100",
+    "context_receiver_service_timestamp": 1759048622827,
+    "context_time": 1759048609572,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 279,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-10-12T09:31:54.998Z",
+    "context_application_version": "1.2.74.477",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "Micro-Star International Co., Ltd.",
+    "context_device_model": "Cyborg 14 A13VE",
+    "context_device_type": "desktop",
+    "context_os_name": "windows",
+    "context_os_version": "10.0.26100",
+    "context_receiver_service_timestamp": 1760261540248,
+    "context_time": 1760261514998,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 214,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-09-25T08:13:25.850Z",
+    "context_application_version": "9.0.80.1343",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "OPPO",
+    "context_device_model": "CPH2625",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "15",
+    "context_receiver_service_timestamp": 1758788030682,
+    "context_time": 1758788005850,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 247,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-08-28T09:24:14.352Z",
+    "context_application_version": "1.2.71.421",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "Micro-Star International Co., Ltd.",
+    "context_device_model": "Cyborg 14 A13VE",
+    "context_device_type": "desktop",
+    "context_os_name": "windows",
+    "context_os_version": "10.0.26100",
+    "context_receiver_service_timestamp": 1756373078321,
+    "context_time": 1756373054352,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 214,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-11-18T02:07:46.991Z",
+    "context_application_version": "1.2.76.298",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "Micro-Star International Co., Ltd.",
+    "context_device_model": "Cyborg 14 A13VE",
+    "context_device_type": "desktop",
+    "context_os_name": "windows",
+    "context_os_version": "10.0.26100",
+    "context_receiver_service_timestamp": 1763431693576,
+    "context_time": 1763431666991,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 360,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-10-14T03:49:35.960Z",
+    "context_application_version": "1.2.74.477",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "Micro-Star International Co., Ltd.",
+    "context_device_model": "Cyborg 14 A13VE",
+    "context_device_type": "desktop",
+    "context_os_name": "windows",
+    "context_os_version": "10.0.26100",
+    "context_receiver_service_timestamp": 1760413801730,
+    "context_time": 1760413775960,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 184,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-10-12T09:49:21.835Z",
+    "context_application_version": "1.2.74.477",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "Micro-Star International Co., Ltd.",
+    "context_device_model": "Cyborg 14 A13VE",
+    "context_device_type": "desktop",
+    "context_os_name": "windows",
+    "context_os_version": "10.0.26100",
+    "context_receiver_service_timestamp": 1760262567048,
+    "context_time": 1760262561835,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 181,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-08-29T09:16:07.806Z",
+    "context_application_version": "9.0.74.1121",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "OPPO",
+    "context_device_model": "CPH2625",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "15",
+    "context_receiver_service_timestamp": 1756458992831,
+    "context_time": 1756458967806,
+    "message_connection_type": "4g",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 456,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-09-12T15:56:51.253Z",
+    "context_application_version": "9.0.76.1126",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "OPPO",
+    "context_device_model": "CPH2625",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "15",
+    "context_receiver_service_timestamp": 1757692613494,
+    "context_time": 1757692611253,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 235,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-08-22T22:09:34.589Z",
+    "context_application_version": "9.0.72.967",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "OPPO",
+    "context_device_model": "CPH2625",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "15",
+    "context_receiver_service_timestamp": 1755900603292,
+    "context_time": 1755900574589,
+    "message_connection_type": "unknown",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 266,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-09-26T05:50:04.061Z",
+    "context_application_version": "1.2.73.474",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "Micro-Star International Co., Ltd.",
+    "context_device_model": "Cyborg 14 A13VE",
+    "context_device_type": "desktop",
+    "context_os_name": "windows",
+    "context_os_version": "10.0.26100",
+    "context_receiver_service_timestamp": 1758865830962,
+    "context_time": 1758865804061,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 187,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-10-03T01:18:48.232Z",
+    "context_application_version": "1.2.73.474",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "Micro-Star International Co., Ltd.",
+    "context_device_model": "Cyborg 14 A13VE",
+    "context_device_type": "desktop",
+    "context_os_name": "windows",
+    "context_os_version": "10.0.26100",
+    "context_receiver_service_timestamp": 1759454348394,
+    "context_time": 1759454328232,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 199,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-09-28T01:06:36.547Z",
+    "context_application_version": "9.0.80.1343",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "OPPO",
+    "context_device_model": "CPH2625",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "15",
+    "context_receiver_service_timestamp": 1759021625710,
+    "context_time": 1759021596547,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 192,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-08-24T10:24:20.562Z",
+    "context_application_version": "1.2.70.409",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "Micro-Star International Co., Ltd.",
+    "context_device_model": "Cyborg 14 A13VE",
+    "context_device_type": "desktop",
+    "context_os_name": "windows",
+    "context_os_version": "10.0.26100",
+    "context_receiver_service_timestamp": 1756031071008,
+    "context_time": 1756031060562,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 190,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-10-23T10:47:44.984Z",
+    "context_application_version": "1.2.74.477",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "Micro-Star International Co., Ltd.",
+    "context_device_model": "Cyborg 14 A13VE",
+    "context_device_type": "desktop",
+    "context_os_name": "windows",
+    "context_os_version": "10.0.26100",
+    "context_receiver_service_timestamp": 1761216481533,
+    "context_time": 1761216464984,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 174,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-09-11T09:48:59.140Z",
+    "context_application_version": "9.0.76.1126",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "OPPO",
+    "context_device_model": "CPH2625",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "15",
+    "context_receiver_service_timestamp": 1757584168900,
+    "context_time": 1757584139140,
+    "message_connection_type": "unknown",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 429,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-08-17T07:29:33.679Z",
+    "context_application_version": "1.2.69.449",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "Micro-Star International Co., Ltd.",
+    "context_device_model": "Cyborg 14 A13VE",
+    "context_device_type": "desktop",
+    "context_os_name": "windows",
+    "context_os_version": "10.0.26100",
+    "context_receiver_service_timestamp": 1755415796375,
+    "context_time": 1755415773679,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 188,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-09-09T04:57:31.915Z",
+    "context_application_version": "9.0.76.1126",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "OPPO",
+    "context_device_model": "CPH2625",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "15",
+    "context_receiver_service_timestamp": 1757393858243,
+    "context_time": 1757393851915,
+    "message_connection_type": "4g",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 376,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-10-19T07:54:03.264Z",
+    "context_application_version": "1.2.74.477",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "Micro-Star International Co., Ltd.",
+    "context_device_model": "Cyborg 14 A13VE",
+    "context_device_type": "desktop",
+    "context_os_name": "windows",
+    "context_os_version": "10.0.26100",
+    "context_receiver_service_timestamp": 1760860469982,
+    "context_time": 1760860443264,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 195,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-10-09T09:53:58.122Z",
+    "context_application_version": "1.2.74.477",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "Micro-Star International Co., Ltd.",
+    "context_device_model": "Cyborg 14 A13VE",
+    "context_device_type": "desktop",
+    "context_os_name": "windows",
+    "context_os_version": "10.0.26100",
+    "context_receiver_service_timestamp": 1760003658519,
+    "context_time": 1760003638122,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 186,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-08-30T00:16:21.762Z",
+    "context_application_version": "9.0.74.1121",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "OPPO",
+    "context_device_model": "CPH2625",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "15",
+    "context_receiver_service_timestamp": 1756512985810,
+    "context_time": 1756512981762,
+    "message_connection_type": "4g",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 228,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-11-18T13:06:38.395Z",
+    "context_application_version": "9.0.94.274",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "OPPO",
+    "context_device_model": "CPH2625",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "15",
+    "context_receiver_service_timestamp": 1763471203848,
+    "context_time": 1763471198395,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 202,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-08-19T05:53:28.153Z",
+    "context_application_version": "9.0.68.632",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "OPPO",
+    "context_device_model": "CPH2625",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "15",
+    "context_receiver_service_timestamp": 1755582829969,
+    "context_time": 1755582808153,
+    "message_connection_type": "4g",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 316,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-11-02T11:29:04.235Z",
+    "context_application_version": "1.2.75.510",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "Micro-Star International Co., Ltd.",
+    "context_device_model": "Cyborg 14 A13VE",
+    "context_device_type": "desktop",
+    "context_os_name": "windows",
+    "context_os_version": "10.0.26100",
+    "context_receiver_service_timestamp": 1762082949935,
+    "context_time": 1762082944235,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 168,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-09-25T07:27:56.669Z",
+    "context_application_version": "9.0.80.1343",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "OPPO",
+    "context_device_model": "CPH2625",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "15",
+    "context_receiver_service_timestamp": 1758785300682,
+    "context_time": 1758785276669,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 228,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-09-25T07:18:20.209Z",
+    "context_application_version": "9.0.80.1343",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "OPPO",
+    "context_device_model": "CPH2625",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "15",
+    "context_receiver_service_timestamp": 1758784730652,
+    "context_time": 1758784700209,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 504,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-09-27T23:41:37.229Z",
+    "context_application_version": "1.2.73.474",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "Micro-Star International Co., Ltd.",
+    "context_device_model": "Cyborg 14 A13VE",
+    "context_device_type": "desktop",
+    "context_os_name": "windows",
+    "context_os_version": "10.0.26100",
+    "context_receiver_service_timestamp": 1759016523249,
+    "context_time": 1759016497229,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 248,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-08-22T04:57:45.403Z",
+    "context_application_version": "1.2.70.409",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "Micro-Star International Co., Ltd.",
+    "context_device_model": "Cyborg 14 A13VE",
+    "context_device_type": "desktop",
+    "context_os_name": "windows",
+    "context_os_version": "10.0.26100",
+    "context_receiver_service_timestamp": 1755838688796,
+    "context_time": 1755838665403,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 194,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-08-31T16:51:13.257Z",
+    "context_application_version": "9.0.74.1121",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "OPPO",
+    "context_device_model": "CPH2625",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "15",
+    "context_receiver_service_timestamp": 1756659088389,
+    "context_time": 1756659073257,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 245,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-11-01T12:42:06.102Z",
+    "context_application_version": "9.0.90.1229",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "OPPO",
+    "context_device_model": "CPH2625",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "15",
+    "context_receiver_service_timestamp": 1762000954920,
+    "context_time": 1762000926102,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 1860,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-09-25T07:27:51.799Z",
+    "context_application_version": "9.0.80.1343",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "OPPO",
+    "context_device_model": "CPH2625",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "15",
+    "context_receiver_service_timestamp": 1758785300682,
+    "context_time": 1758785271799,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 319,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-08-30T12:17:15.349Z",
+    "context_application_version": "9.0.74.1121",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "OPPO",
+    "context_device_model": "CPH2625",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "15",
+    "context_receiver_service_timestamp": 1756556247769,
+    "context_time": 1756556235349,
+    "message_connection_type": "4g",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 269,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-09-27T05:18:59.197Z",
+    "context_application_version": "9.0.80.1343",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "OPPO",
+    "context_device_model": "CPH2625",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "15",
+    "context_receiver_service_timestamp": 1758950360801,
+    "context_time": 1758950339197,
+    "message_connection_type": "4g",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 412,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-09-21T08:38:45.866Z",
+    "context_application_version": "1.2.72.438",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "Micro-Star International Co., Ltd.",
+    "context_device_model": "Cyborg 14 A13VE",
+    "context_device_type": "desktop",
+    "context_os_name": "windows",
+    "context_os_version": "10.0.26100",
+    "context_receiver_service_timestamp": 1758443935020,
+    "context_time": 1758443925866,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 231,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-10-12T10:22:00.669Z",
+    "context_application_version": "1.2.74.477",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "Micro-Star International Co., Ltd.",
+    "context_device_model": "Cyborg 14 A13VE",
+    "context_device_type": "desktop",
+    "context_os_name": "windows",
+    "context_os_version": "10.0.26100",
+    "context_receiver_service_timestamp": 1760264540135,
+    "context_time": 1760264520669,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 214,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-09-28T06:51:56.949Z",
+    "context_application_version": "9.0.80.1343",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "OPPO",
+    "context_device_model": "CPH2625",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "15",
+    "context_receiver_service_timestamp": 1759042345242,
+    "context_time": 1759042316949,
+    "message_connection_type": "4g",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 988,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-09-12T16:15:49.780Z",
+    "context_application_version": "9.0.76.1126",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "OPPO",
+    "context_device_model": "CPH2625",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "15",
+    "context_receiver_service_timestamp": 1757693753165,
+    "context_time": 1757693749780,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 215,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-09-30T07:32:29.543Z",
+    "context_application_version": "9.0.82.1032",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "OPPO",
+    "context_device_model": "CPH2625",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "15",
+    "context_receiver_service_timestamp": 1759217562279,
+    "context_time": 1759217549543,
+    "message_connection_type": "4g",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 344,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-10-02T08:38:47.993Z",
+    "context_application_version": "9.0.82.1032",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "OPPO",
+    "context_device_model": "CPH2625",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "15",
+    "context_receiver_service_timestamp": 1759394337007,
+    "context_time": 1759394327993,
+    "message_connection_type": "4g",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 6470,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-08-30T04:27:11.357Z",
+    "context_application_version": "9.0.74.1121",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "OPPO",
+    "context_device_model": "CPH2625",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "15",
+    "context_receiver_service_timestamp": 1756528034901,
+    "context_time": 1756528031357,
+    "message_connection_type": "4g",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 269,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-10-01T11:11:33.224Z",
+    "context_application_version": "9.0.82.1032",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "OPPO",
+    "context_device_model": "CPH2625",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "15",
+    "context_receiver_service_timestamp": 1759317104598,
+    "context_time": 1759317093224,
+    "message_connection_type": "4g",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 321,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-11-07T12:43:05.055Z",
+    "context_application_version": "1.2.75.510",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "Micro-Star International Co., Ltd.",
+    "context_device_model": "Cyborg 14 A13VE",
+    "context_device_type": "desktop",
+    "context_os_name": "windows",
+    "context_os_version": "10.0.26100",
+    "context_receiver_service_timestamp": 1762519408930,
+    "context_time": 1762519385055,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 198,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-09-27T05:19:07.731Z",
+    "context_application_version": "9.0.80.1343",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "OPPO",
+    "context_device_model": "CPH2625",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "15",
+    "context_receiver_service_timestamp": 1758950361259,
+    "context_time": 1758950347731,
+    "message_connection_type": "4g",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 2586,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-08-18T05:23:03.178Z",
+    "context_application_version": "9.0.68.632",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "OPPO",
+    "context_device_model": "CPH2625",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "15",
+    "context_receiver_service_timestamp": 1755494611250,
+    "context_time": 1755494583178,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 206,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-09-26T01:35:42.608Z",
+    "context_application_version": "1.2.73.474",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "Micro-Star International Co., Ltd.",
+    "context_device_model": "Cyborg 14 A13VE",
+    "context_device_type": "desktop",
+    "context_os_name": "windows",
+    "context_os_version": "10.0.26100",
+    "context_receiver_service_timestamp": 1758850564246,
+    "context_time": 1758850542608,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 176,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-10-21T12:00:18.260Z",
+    "context_application_version": "1.2.74.477",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "Micro-Star International Co., Ltd.",
+    "context_device_model": "Cyborg 14 A13VE",
+    "context_device_type": "desktop",
+    "context_os_name": "windows",
+    "context_os_version": "10.0.26100",
+    "context_receiver_service_timestamp": 1761048031685,
+    "context_time": 1761048018260,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 223,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-10-03T14:54:08.258Z",
+    "context_application_version": "9.0.82.1032",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "OPPO",
+    "context_device_model": "CPH2625",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "15",
+    "context_receiver_service_timestamp": 1759503256621,
+    "context_time": 1759503248258,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 188,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-11-19T11:10:40.425Z",
+    "context_application_version": "9.0.94.274",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "OPPO",
+    "context_device_model": "CPH2625",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "15",
+    "context_receiver_service_timestamp": 1763550653117,
+    "context_time": 1763550640425,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 474,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-09-30T14:35:28.239Z",
+    "context_application_version": "1.2.73.474",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "Micro-Star International Co., Ltd.",
+    "context_device_model": "Cyborg 14 A13VE",
+    "context_device_type": "desktop",
+    "context_os_name": "windows",
+    "context_os_version": "10.0.26100",
+    "context_receiver_service_timestamp": 1759242934918,
+    "context_time": 1759242928239,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 251,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-10-20T09:19:21.034Z",
+    "context_application_version": "1.2.74.477",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "Micro-Star International Co., Ltd.",
+    "context_device_model": "Cyborg 14 A13VE",
+    "context_device_type": "desktop",
+    "context_os_name": "windows",
+    "context_os_version": "10.0.26100",
+    "context_receiver_service_timestamp": 1760951986307,
+    "context_time": 1760951961034,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 175,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-09-24T11:37:45.813Z",
+    "context_application_version": "9.0.80.1343",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "OPPO",
+    "context_device_model": "CPH2625",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "15",
+    "context_receiver_service_timestamp": 1758713884889,
+    "context_time": 1758713865813,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 256,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-09-16T00:24:42.955Z",
+    "context_application_version": "1.2.72.438",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "Micro-Star International Co., Ltd.",
+    "context_device_model": "Cyborg 14 A13VE",
+    "context_device_type": "desktop",
+    "context_os_name": "windows",
+    "context_os_version": "10.0.26100",
+    "context_receiver_service_timestamp": 1757982308474,
+    "context_time": 1757982282955,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 173,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-11-02T08:10:41.643Z",
+    "context_application_version": "9.0.90.1229",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "OPPO",
+    "context_device_model": "CPH2625",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "15",
+    "context_receiver_service_timestamp": 1762071070191,
+    "context_time": 1762071041643,
+    "message_connection_type": "4g",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 465,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-11-22T21:30:55.481Z",
+    "context_application_version": "9.0.96.826",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "OPPO",
+    "context_device_model": "CPH2625",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "15",
+    "context_receiver_service_timestamp": 1763847068487,
+    "context_time": 1763847055481,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 367,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-09-26T18:06:30.631Z",
+    "context_application_version": "9.0.80.1343",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "OPPO",
+    "context_device_model": "CPH2625",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "15",
+    "context_receiver_service_timestamp": 1758910017359,
+    "context_time": 1758909990631,
+    "message_connection_type": "unknown",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 275,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-10-01T19:06:21.015Z",
+    "context_application_version": "1.2.73.474",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "Micro-Star International Co., Ltd.",
+    "context_device_model": "Cyborg 14 A13VE",
+    "context_device_type": "desktop",
+    "context_os_name": "windows",
+    "context_os_version": "10.0.26100",
+    "context_receiver_service_timestamp": 1759345603000,
+    "context_time": 1759345581015,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 229,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-11-12T13:45:40.621Z",
+    "context_application_version": "9.0.94.274",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "OPPO",
+    "context_device_model": "CPH2625",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "15",
+    "context_receiver_service_timestamp": 1762955154902,
+    "context_time": 1762955140621,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 313,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-09-02T11:02:26.762Z",
+    "context_application_version": "1.2.71.421",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "Micro-Star International Co., Ltd.",
+    "context_device_model": "Cyborg 14 A13VE",
+    "context_device_type": "desktop",
+    "context_os_name": "windows",
+    "context_os_version": "10.0.26100",
+    "context_receiver_service_timestamp": 1756810968117,
+    "context_time": 1756810946762,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 220,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-11-04T05:18:16.854Z",
+    "context_application_version": "9.0.90.1229",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "OPPO",
+    "context_device_model": "CPH2625",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "15",
+    "context_receiver_service_timestamp": 1762233521922,
+    "context_time": 1762233496854,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 302,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-10-25T07:41:06.461Z",
+    "context_application_version": "1.2.75.510",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "Micro-Star International Co., Ltd.",
+    "context_device_model": "Cyborg 14 A13VE",
+    "context_device_type": "desktop",
+    "context_os_name": "windows",
+    "context_os_version": "10.0.26100",
+    "context_receiver_service_timestamp": 1761378091957,
+    "context_time": 1761378066461,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 171,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-10-16T02:37:39.901Z",
+    "context_application_version": "1.2.74.477",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "Micro-Star International Co., Ltd.",
+    "context_device_model": "Cyborg 14 A13VE",
+    "context_device_type": "desktop",
+    "context_os_name": "windows",
+    "context_os_version": "10.0.26100",
+    "context_receiver_service_timestamp": 1760582285842,
+    "context_time": 1760582259901,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 256,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-09-14T20:13:42.657Z",
+    "context_application_version": "9.0.76.1126",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "OPPO",
+    "context_device_model": "CPH2625",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "15",
+    "context_receiver_service_timestamp": 1757880847980,
+    "context_time": 1757880822657,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 490,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-10-14T01:45:53.460Z",
+    "context_application_version": "9.0.86.1358",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "OPPO",
+    "context_device_model": "CPH2625",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "15",
+    "context_receiver_service_timestamp": 1760406356539,
+    "context_time": 1760406353460,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 317,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-10-03T01:19:12.214Z",
+    "context_application_version": "1.2.73.474",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "Micro-Star International Co., Ltd.",
+    "context_device_model": "Cyborg 14 A13VE",
+    "context_device_type": "desktop",
+    "context_os_name": "windows",
+    "context_os_version": "10.0.26100",
+    "context_receiver_service_timestamp": 1759454378402,
+    "context_time": 1759454352214,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 168,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-10-03T14:53:00.297Z",
+    "context_application_version": "9.0.82.1032",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "OPPO",
+    "context_device_model": "CPH2625",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "15",
+    "context_receiver_service_timestamp": 1759503195766,
+    "context_time": 1759503180297,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 434,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-08-24T10:22:04.579Z",
+    "context_application_version": "1.2.70.409",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "Micro-Star International Co., Ltd.",
+    "context_device_model": "Cyborg 14 A13VE",
+    "context_device_type": "desktop",
+    "context_os_name": "windows",
+    "context_os_version": "10.0.26100",
+    "context_receiver_service_timestamp": 1756030951203,
+    "context_time": 1756030924579,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 182,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-09-12T15:56:10.996Z",
+    "context_application_version": "9.0.76.1126",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "OPPO",
+    "context_device_model": "CPH2625",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "15",
+    "context_receiver_service_timestamp": 1757692583271,
+    "context_time": 1757692570996,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 198,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-10-07T07:07:59.743Z",
+    "context_application_version": "9.0.84.1340",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "OPPO",
+    "context_device_model": "CPH2625",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "15",
+    "context_receiver_service_timestamp": 1759820900566,
+    "context_time": 1759820879743,
+    "message_connection_type": "unknown",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 1347,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-09-30T14:35:09.347Z",
+    "context_application_version": "1.2.73.474",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "Micro-Star International Co., Ltd.",
+    "context_device_model": "Cyborg 14 A13VE",
+    "context_device_type": "desktop",
+    "context_os_name": "windows",
+    "context_os_version": "10.0.26100",
+    "context_receiver_service_timestamp": 1759242934918,
+    "context_time": 1759242909347,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 162,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-09-26T01:36:07.877Z",
+    "context_application_version": "1.2.73.474",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "Micro-Star International Co., Ltd.",
+    "context_device_model": "Cyborg 14 A13VE",
+    "context_device_type": "desktop",
+    "context_os_name": "windows",
+    "context_os_version": "10.0.26100",
+    "context_receiver_service_timestamp": 1758850590839,
+    "context_time": 1758850567877,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 194,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-10-05T09:44:33.307Z",
+    "context_application_version": "9.0.82.1032",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "OPPO",
+    "context_device_model": "CPH2625",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "15",
+    "context_receiver_service_timestamp": 1759657503667,
+    "context_time": 1759657473307,
+    "message_connection_type": "4g",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 590,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-10-10T10:40:07.784Z",
+    "context_application_version": "1.2.74.477",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "Micro-Star International Co., Ltd.",
+    "context_device_model": "Cyborg 14 A13VE",
+    "context_device_type": "desktop",
+    "context_os_name": "windows",
+    "context_os_version": "10.0.26100",
+    "context_receiver_service_timestamp": 1760092827610,
+    "context_time": 1760092807784,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 223,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-09-30T07:32:30.606Z",
+    "context_application_version": "9.0.82.1032",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "OPPO",
+    "context_device_model": "CPH2625",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "15",
+    "context_receiver_service_timestamp": 1759217562658,
+    "context_time": 1759217550606,
+    "message_connection_type": "4g",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 433,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-08-30T04:26:40.165Z",
+    "context_application_version": "9.0.74.1121",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "OPPO",
+    "context_device_model": "CPH2625",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "15",
+    "context_receiver_service_timestamp": 1756528004735,
+    "context_time": 1756528000165,
+    "message_connection_type": "4g",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 987,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-10-14T02:24:55.846Z",
+    "context_application_version": "1.2.74.477",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "Micro-Star International Co., Ltd.",
+    "context_device_model": "Cyborg 14 A13VE",
+    "context_device_type": "desktop",
+    "context_os_name": "windows",
+    "context_os_version": "10.0.26100",
+    "context_receiver_service_timestamp": 1760408722730,
+    "context_time": 1760408695846,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 178,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-10-26T04:32:45.055Z",
+    "context_application_version": "1.2.75.510",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "Micro-Star International Co., Ltd.",
+    "context_device_model": "Cyborg 14 A13VE",
+    "context_device_type": "desktop",
+    "context_os_name": "windows",
+    "context_os_version": "10.0.26100",
+    "context_receiver_service_timestamp": 1761453185296,
+    "context_time": 1761453165055,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 183,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-09-13T05:28:02.123Z",
+    "context_application_version": "1.2.72.438",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "Micro-Star International Co., Ltd.",
+    "context_device_model": "Cyborg 14 A13VE",
+    "context_device_type": "desktop",
+    "context_os_name": "windows",
+    "context_os_version": "10.0.26100",
+    "context_receiver_service_timestamp": 1757741307301,
+    "context_time": 1757741282123,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 212,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-10-26T01:47:00.559Z",
+    "context_application_version": "9.0.88.1405",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "OPPO",
+    "context_device_model": "CPH2625",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "15",
+    "context_receiver_service_timestamp": 1761443224357,
+    "context_time": 1761443220559,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 248,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-09-28T01:06:34.187Z",
+    "context_application_version": "9.0.80.1343",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "OPPO",
+    "context_device_model": "CPH2625",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "15",
+    "context_receiver_service_timestamp": 1759021595402,
+    "context_time": 1759021594187,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 196,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-10-05T08:52:31.360Z",
+    "context_application_version": "1.2.73.474",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "Micro-Star International Co., Ltd.",
+    "context_device_model": "Cyborg 14 A13VE",
+    "context_device_type": "desktop",
+    "context_os_name": "windows",
+    "context_os_version": "10.0.26100",
+    "context_receiver_service_timestamp": 1759654358208,
+    "context_time": 1759654351360,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 176,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-08-17T21:54:20.236Z",
+    "context_application_version": "1.2.70.409",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "Micro-Star International Co., Ltd.",
+    "context_device_model": "Cyborg 14 A13VE",
+    "context_device_type": "desktop",
+    "context_os_name": "windows",
+    "context_os_version": "10.0.26100",
+    "context_receiver_service_timestamp": 1755467686759,
+    "context_time": 1755467660236,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 174,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-11-03T09:40:11.062Z",
+    "context_application_version": "9.0.90.1229",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "OPPO",
+    "context_device_model": "CPH2625",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "15",
+    "context_receiver_service_timestamp": 1762162837524,
+    "context_time": 1762162811062,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 1545,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-09-12T16:26:02.528Z",
+    "context_application_version": "9.0.76.1126",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "OPPO",
+    "context_device_model": "CPH2625",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "15",
+    "context_receiver_service_timestamp": 1757694383264,
+    "context_time": 1757694362528,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 541,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-08-16T04:15:52.116Z",
+    "context_application_version": "9.0.68.632",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "OPPO",
+    "context_device_model": "CPH2625",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "15",
+    "context_receiver_service_timestamp": 1755317760685,
+    "context_time": 1755317752116,
+    "message_connection_type": "4g",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 241,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-10-13T20:17:10.325Z",
+    "context_application_version": "1.2.74.477",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "Micro-Star International Co., Ltd.",
+    "context_device_model": "Cyborg 14 A13VE",
+    "context_device_type": "desktop",
+    "context_os_name": "windows",
+    "context_os_version": "10.0.26100",
+    "context_receiver_service_timestamp": 1760386656883,
+    "context_time": 1760386630325,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 159,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-09-30T07:22:38.583Z",
+    "context_application_version": "9.0.82.1032",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "OPPO",
+    "context_device_model": "CPH2625",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "15",
+    "context_receiver_service_timestamp": 1759216984250,
+    "context_time": 1759216958583,
+    "message_connection_type": "unknown",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 1414,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-09-25T09:37:49.225Z",
+    "context_application_version": "1.2.72.438",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "Micro-Star International Co., Ltd.",
+    "context_device_model": "Cyborg 14 A13VE",
+    "context_device_type": "desktop",
+    "context_os_name": "windows",
+    "context_os_version": "10.0.26100",
+    "context_receiver_service_timestamp": 1758793096712,
+    "context_time": 1758793069225,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 185,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-08-19T06:15:44.056Z",
+    "context_application_version": "1.2.70.409",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "Micro-Star International Co., Ltd.",
+    "context_device_model": "Cyborg 14 A13VE",
+    "context_device_type": "desktop",
+    "context_os_name": "windows",
+    "context_os_version": "10.0.26100",
+    "context_receiver_service_timestamp": 1755584169132,
+    "context_time": 1755584144056,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 214,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-11-21T04:34:40.454Z",
+    "context_application_version": "9.0.96.826",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "OPPO",
+    "context_device_model": "CPH2625",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "15",
+    "context_receiver_service_timestamp": 1763699681568,
+    "context_time": 1763699680454,
+    "message_connection_type": "4g",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 251,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-08-22T05:41:12.348Z",
+    "context_application_version": "9.0.72.967",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "OPPO",
+    "context_device_model": "CPH2625",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "15",
+    "context_receiver_service_timestamp": 1755841284907,
+    "context_time": 1755841272348,
+    "message_connection_type": "4g",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 484,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-10-30T12:50:47.385Z",
+    "context_application_version": "1.2.75.510",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "Micro-Star International Co., Ltd.",
+    "context_device_model": "Cyborg 14 A13VE",
+    "context_device_type": "desktop",
+    "context_os_name": "windows",
+    "context_os_version": "10.0.26100",
+    "context_receiver_service_timestamp": 1761828673969,
+    "context_time": 1761828647385,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 217,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-11-03T13:17:31.026Z",
+    "context_application_version": "1.2.75.510",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "Micro-Star International Co., Ltd.",
+    "context_device_model": "Cyborg 14 A13VE",
+    "context_device_type": "desktop",
+    "context_os_name": "windows",
+    "context_os_version": "10.0.26100",
+    "context_receiver_service_timestamp": 1762175874587,
+    "context_time": 1762175851026,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 278,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-09-30T07:32:11.592Z",
+    "context_application_version": "9.0.82.1032",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "OPPO",
+    "context_device_model": "CPH2625",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "15",
+    "context_receiver_service_timestamp": 1759217562014,
+    "context_time": 1759217531592,
+    "message_connection_type": "4g",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 551,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-08-18T11:30:43.632Z",
+    "context_application_version": "1.2.70.409",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "Micro-Star International Co., Ltd.",
+    "context_device_model": "Cyborg 14 A13VE",
+    "context_device_type": "desktop",
+    "context_os_name": "windows",
+    "context_os_version": "10.0.26100",
+    "context_receiver_service_timestamp": 1755516669479,
+    "context_time": 1755516643632,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 256,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-10-16T23:36:00.581Z",
+    "context_application_version": "1.2.74.477",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "Micro-Star International Co., Ltd.",
+    "context_device_model": "Cyborg 14 A13VE",
+    "context_device_type": "desktop",
+    "context_os_name": "windows",
+    "context_os_version": "10.0.26100",
+    "context_receiver_service_timestamp": 1760657779448,
+    "context_time": 1760657760581,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 171,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-10-09T15:07:34.032Z",
+    "context_application_version": "9.0.84.1340",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "OPPO",
+    "context_device_model": "CPH2625",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "15",
+    "context_receiver_service_timestamp": 1760022466975,
+    "context_time": 1760022454032,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 314,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-10-26T03:50:09.211Z",
+    "context_application_version": "1.2.75.510",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "Micro-Star International Co., Ltd.",
+    "context_device_model": "Cyborg 14 A13VE",
+    "context_device_type": "desktop",
+    "context_os_name": "windows",
+    "context_os_version": "10.0.26100",
+    "context_receiver_service_timestamp": 1761450635419,
+    "context_time": 1761450609211,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 183,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-11-20T01:42:32.056Z",
+    "context_application_version": "1.2.76.298",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "Micro-Star International Co., Ltd.",
+    "context_device_model": "Cyborg 14 A13VE",
+    "context_device_type": "desktop",
+    "context_os_name": "windows",
+    "context_os_version": "10.0.26100",
+    "context_receiver_service_timestamp": 1763602978403,
+    "context_time": 1763602952056,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 185,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-08-15T10:27:23.136Z",
+    "context_application_version": "1.2.69.449",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "Micro-Star International Co., Ltd.",
+    "context_device_model": "Cyborg 14 A13VE",
+    "context_device_type": "desktop",
+    "context_os_name": "windows",
+    "context_os_version": "10.0.26100",
+    "context_receiver_service_timestamp": 1755253669998,
+    "context_time": 1755253643136,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 202,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-11-19T11:10:40.686Z",
+    "context_application_version": "9.0.94.274",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "OPPO",
+    "context_device_model": "CPH2625",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "15",
+    "context_receiver_service_timestamp": 1763550653117,
+    "context_time": 1763550640686,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 276,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-11-22T22:07:41.735Z",
+    "context_application_version": "9.0.96.826",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "OPPO",
+    "context_device_model": "CPH2625",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "15",
+    "context_receiver_service_timestamp": 1763849272865,
+    "context_time": 1763849261735,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 355,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-11-10T21:14:07.093Z",
+    "context_application_version": "1.2.75.510",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "Micro-Star International Co., Ltd.",
+    "context_device_model": "Cyborg 14 A13VE",
+    "context_device_type": "desktop",
+    "context_os_name": "windows",
+    "context_os_version": "10.0.26100",
+    "context_receiver_service_timestamp": 1762809261452,
+    "context_time": 1762809247093,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 178,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-10-11T03:54:16.716Z",
+    "context_application_version": "9.0.86.1358",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "OPPO",
+    "context_device_model": "CPH2625",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "15",
+    "context_receiver_service_timestamp": 1760154871855,
+    "context_time": 1760154856716,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 280,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-09-09T19:16:06.351Z",
+    "context_application_version": "1.2.71.421",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "Micro-Star International Co., Ltd.",
+    "context_device_model": "Cyborg 14 A13VE",
+    "context_device_type": "desktop",
+    "context_os_name": "windows",
+    "context_os_version": "10.0.26100",
+    "context_receiver_service_timestamp": 1757445391058,
+    "context_time": 1757445366351,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 182,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-10-14T01:46:02.389Z",
+    "context_application_version": "9.0.86.1358",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "OPPO",
+    "context_device_model": "CPH2625",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "15",
+    "context_receiver_service_timestamp": 1760406386075,
+    "context_time": 1760406362389,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 470,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-09-30T09:11:50.449Z",
+    "context_application_version": "9.0.82.1032",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "OPPO",
+    "context_device_model": "CPH2625",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "15",
+    "context_receiver_service_timestamp": 1759223536200,
+    "context_time": 1759223510449,
+    "message_connection_type": "4g",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 280,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-09-04T00:41:04.032Z",
+    "context_application_version": "9.0.74.1121",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "OPPO",
+    "context_device_model": "CPH2625",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "15",
+    "context_receiver_service_timestamp": 1756946486983,
+    "context_time": 1756946464032,
+    "message_connection_type": "unknown",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_slots",
+    "message_http_error_code": 0,
+    "message_latency_ms": 284,
+    "message_requested_ad_types": [
+      "marquee"
+    ]
+  },
+  {
+    "timestamp_utc": "2025-11-10T10:33:40.343Z",
+    "context_application_version": "1.2.75.510",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "Micro-Star International Co., Ltd.",
+    "context_device_model": "Cyborg 14 A13VE",
+    "context_device_type": "desktop",
+    "context_os_name": "windows",
+    "context_os_version": "10.0.26100",
+    "context_receiver_service_timestamp": 1762770847567,
+    "context_time": 1762770820343,
+    "message_connection_type": "wlan",
+    "message_content_uri": null,
+    "message_feature_identifier": "esperanto_ads",
+    "message_http_error_code": 0,
+    "message_latency_ms": 249,
+    "message_requested_ad_types": [
+      "hpto"
+    ]
+  }
+]

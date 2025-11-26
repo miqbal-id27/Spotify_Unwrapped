@@ -1,0 +1,34 @@
+[
+  {
+    "message_previous_connected_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "timestamp_utc": "2025-09-07T01:27:46.573Z",
+    "context_application_version": "9.0.76.1126",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "OPPO",
+    "context_device_model": "CPH2625",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "15",
+    "context_receiver_service_timestamp": 1757208471253,
+    "context_time": 1757208466573,
+    "message_accessory_type": "bluetooth",
+    "message_app_state": "foreground",
+    "message_playback_state": "paused"
+  },
+  {
+    "message_previous_connected_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "timestamp_utc": "2025-11-07T09:33:39.910Z",
+    "context_application_version": "9.0.90.1229",
+    "context_conn_country": "AU",
+    "context_device_manufacturer": "OPPO",
+    "context_device_model": "CPH2625",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "15",
+    "context_receiver_service_timestamp": 1762508022581,
+    "context_time": 1762508019910,
+    "message_accessory_type": "wired",
+    "message_app_state": "foreground",
+    "message_playback_state": "paused"
+  }
+]
