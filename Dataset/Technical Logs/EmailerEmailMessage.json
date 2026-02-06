@@ -1,8 +1,0 @@
-[
-  {
-    "timestamp_utc": "2025-09-09T23:19:22.382Z",
-    "context_time": 1757459962382,
-    "message_event_type": "EMAIL_PROVIDER_SUCCESS",
-    "message_send_at": "null"
-  }
-]

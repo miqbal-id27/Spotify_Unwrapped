@@ -1,8 +1,0 @@
-[
-  {
-    "timestamp_utc": "2025-11-02T23:41:38.941Z",
-    "context_time": 1762126898941,
-    "message_fulfilment_responded_to_fulfillment_event_timestamp": 1762126898941,
-    "message_request_type": "SUBS_FULFILMENT"
-  }
-]
