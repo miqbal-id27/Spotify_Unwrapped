@@ -14,3 +14,4 @@ Unwrapping the Analysis and Algorithm behind Annual Spotify Wrapped with the tho
 
 ## Future Development ##
 1. Web For all the Output (Dashboard, Predictive Wrapped / Daily, Monthly, Annually, XAI)
+2. Personalized & Costumized Wrapped (MBTI-referenced or similar)
