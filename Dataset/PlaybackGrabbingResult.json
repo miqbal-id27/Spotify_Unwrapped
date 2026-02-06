@@ -1,0 +1,23 @@
+[
+  {
+    "context_time": 1762508019911,
+    "context_receiver_service_timestamp": 1762508022581,
+    "context_device_manufacturer": "OPPO",
+    "context_device_model": "CPH2625",
+    "context_device_type": "mobile",
+    "context_os_name": "android",
+    "context_os_version": "15",
+    "context_application_version": "9.0.90.1229",
+    "context_conn_country": "AU",
+    "message_grabbing_result": "grab",
+    "message_active_remote_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_app_state": "foreground",
+    "message_playback_state": "paused",
+    "message_current_audio_route": "wired",
+    "message_grabbing_trigger": "app_became_foreground",
+    "message_grabbing_exceptions_result": "[AutomotivePlaybackGrabbingException: indifferent, ProjectedCarPlaybackGrabbingException: indifferent, SpeakerDeeplinkPlaybackGrabbingException: indifferent, PlaybackGrabbingExceptionDefault: grab]",
+    "message_active_remote_device_type": "computer",
+    "message_current_accessory": "headphones",
+    "timestamp_utc": "2025-11-07T09:33:39.911Z"
+  }
+]

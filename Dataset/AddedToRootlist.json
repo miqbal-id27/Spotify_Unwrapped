@@ -1,0 +1,65 @@
+[
+  {
+    "context_time": 1761266172887,
+    "message_item_uri": "spotify:playlist:1pm5EVS8hChDbpM5jOVSrJ",
+    "message_item_uri_kind": "playlist_v2",
+    "message_client_platform": 40,
+    "timestamp_utc": "2025-10-24T00:36:12.887Z"
+  },
+  {
+    "context_time": 1761866003197,
+    "message_item_uri": "spotify:playlist:37i9dQZF1E8LQ8pvPcnQMV",
+    "message_item_uri_kind": "playlist_v2",
+    "message_client_platform": 6,
+    "timestamp_utc": "2025-10-30T23:13:23.197Z"
+  },
+  {
+    "context_time": 1767175994315,
+    "message_item_uri": "spotify:playlist:7n5WDyGOmGoh0ePKbUODWZ",
+    "message_item_uri_kind": "playlist_v2",
+    "message_client_platform": 40,
+    "timestamp_utc": "2025-12-31T10:13:14.315Z"
+  },
+  {
+    "context_time": 1767638659264,
+    "message_item_uri": "spotify:playlist:5v4eFfvmpbDJEcZ9MKI0sA",
+    "message_item_uri_kind": "playlist_v2",
+    "message_client_platform": 40,
+    "timestamp_utc": "2026-01-05T18:44:19.264Z"
+  },
+  {
+    "context_time": 1768613423120,
+    "message_item_uri": "spotify:playlist:7pMvgFSI6o94GW6sj2DxIt",
+    "message_item_uri_kind": "playlist_v2",
+    "message_client_platform": 40,
+    "timestamp_utc": "2026-01-17T01:30:23.120Z"
+  },
+  {
+    "context_time": 1767581193462,
+    "message_item_uri": "spotify:playlist:0Wf1yK0CaocZ90BwzLEyyp",
+    "message_item_uri_kind": "playlist_v2",
+    "message_client_platform": 40,
+    "timestamp_utc": "2026-01-05T02:46:33.462Z"
+  },
+  {
+    "context_time": 1768310768676,
+    "message_item_uri": "spotify:playlist:0ktZGvTp3FxWZ5t1ZKTVDX",
+    "message_item_uri_kind": "playlist_v2",
+    "message_client_platform": 40,
+    "timestamp_utc": "2026-01-13T13:26:08.676Z"
+  },
+  {
+    "context_time": 1768111044397,
+    "message_item_uri": "spotify:playlist:4ZVzahiwsiHCUMJVrwBLtB",
+    "message_item_uri_kind": "playlist_v2",
+    "message_client_platform": 6,
+    "timestamp_utc": "2026-01-11T05:57:24.397Z"
+  },
+  {
+    "context_time": 1767497286363,
+    "message_item_uri": "spotify:playlist:7DEqwvpfyZYvN2oIIVZh7m",
+    "message_item_uri_kind": "playlist_v2",
+    "message_client_platform": 6,
+    "timestamp_utc": "2026-01-04T03:28:06.363Z"
+  }
+]

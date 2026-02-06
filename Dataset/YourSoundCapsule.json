@@ -1,0 +1,1985 @@
+{
+  "stats" : [ {
+    "date" : "2026-01-12",
+    "streamCount" : 0,
+    "secondsPlayed" : 0,
+    "topTracks" : [ {
+      "name" : "Wherever - Live Session",
+      "streamCount" : 65,
+      "secondsPlayed" : 11971
+    }, {
+      "name" : "Waves",
+      "streamCount" : 64,
+      "secondsPlayed" : 9972
+    }, {
+      "name" : "Waves - Live Session",
+      "streamCount" : 64,
+      "secondsPlayed" : 9456
+    }, {
+      "name" : "Wherever",
+      "streamCount" : 62,
+      "secondsPlayed" : 11236
+    }, {
+      "name" : "Make Up",
+      "streamCount" : 61,
+      "secondsPlayed" : 11468
+    }, {
+      "name" : "Promises",
+      "streamCount" : 61,
+      "secondsPlayed" : 11163
+    }, {
+      "name" : "Lose",
+      "streamCount" : 61,
+      "secondsPlayed" : 10949
+    }, {
+      "name" : "a dream",
+      "streamCount" : 43,
+      "secondsPlayed" : 10922
+    }, {
+      "name" : "I'll be",
+      "streamCount" : 28,
+      "secondsPlayed" : 5718
+    }, {
+      "name" : "Like No One's Done",
+      "streamCount" : 28,
+      "secondsPlayed" : 6444
+    } ],
+    "topArtists" : [ {
+      "name" : "Arabelle",
+      "streamCount" : 500,
+      "secondsPlayed" : 91754
+    }, {
+      "name" : "Sincere",
+      "streamCount" : 472,
+      "secondsPlayed" : 96192
+    }, {
+      "name" : "BunnieZ",
+      "streamCount" : 233,
+      "secondsPlayed" : 29668
+    }, {
+      "name" : "Eiko Ishibashi",
+      "streamCount" : 167,
+      "secondsPlayed" : 38507
+    }, {
+      "name" : "Chocoholic",
+      "streamCount" : 71,
+      "secondsPlayed" : 14621
+    }, {
+      "name" : "pami",
+      "streamCount" : 68,
+      "secondsPlayed" : 12414
+    }, {
+      "name" : "mindfreakkk",
+      "streamCount" : 40,
+      "secondsPlayed" : 8995
+    }, {
+      "name" : "HYNGSN",
+      "streamCount" : 32,
+      "secondsPlayed" : 5617
+    }, {
+      "name" : "Yeye Cat",
+      "streamCount" : 30,
+      "secondsPlayed" : 4105
+    }, {
+      "name" : "FIG",
+      "streamCount" : 24,
+      "secondsPlayed" : 3120
+    } ],
+    "topGenres" : [ ]
+  }, {
+    "date" : "2026-01-05",
+    "streamCount" : 0,
+    "secondsPlayed" : 0,
+    "topTracks" : [ {
+      "name" : "Wherever - Live Session",
+      "streamCount" : 74,
+      "secondsPlayed" : 13403
+    }, {
+      "name" : "Make Up",
+      "streamCount" : 73,
+      "secondsPlayed" : 13535
+    }, {
+      "name" : "Waves",
+      "streamCount" : 72,
+      "secondsPlayed" : 11058
+    }, {
+      "name" : "a dream",
+      "streamCount" : 71,
+      "secondsPlayed" : 17131
+    }, {
+      "name" : "Wherever",
+      "streamCount" : 71,
+      "secondsPlayed" : 13006
+    }, {
+      "name" : "Waves - Live Session",
+      "streamCount" : 71,
+      "secondsPlayed" : 10488
+    }, {
+      "name" : "Lose",
+      "streamCount" : 56,
+      "secondsPlayed" : 10021
+    }, {
+      "name" : "Promises",
+      "streamCount" : 55,
+      "secondsPlayed" : 10065
+    }, {
+      "name" : "call my name",
+      "streamCount" : 14,
+      "secondsPlayed" : 2349
+    }, {
+      "name" : "Hola",
+      "streamCount" : 9,
+      "secondsPlayed" : 1706
+    } ],
+    "topArtists" : [ {
+      "name" : "Arabelle",
+      "streamCount" : 545,
+      "secondsPlayed" : 99091
+    }, {
+      "name" : "pami",
+      "streamCount" : 81,
+      "secondsPlayed" : 14598
+    }, {
+      "name" : "SE SO NEON",
+      "streamCount" : 36,
+      "secondsPlayed" : 8090
+    }, {
+      "name" : "JUNNY",
+      "streamCount" : 34,
+      "secondsPlayed" : 6576
+    }, {
+      "name" : "Moon Sujin",
+      "streamCount" : 31,
+      "secondsPlayed" : 5837
+    }, {
+      "name" : "GEMINI",
+      "streamCount" : 24,
+      "secondsPlayed" : 4601
+    }, {
+      "name" : "Kyle Dion",
+      "streamCount" : 23,
+      "secondsPlayed" : 4233
+    }, {
+      "name" : "Colde",
+      "streamCount" : 27,
+      "secondsPlayed" : 5526
+    }, {
+      "name" : "Tabber",
+      "streamCount" : 22,
+      "secondsPlayed" : 4226
+    }, {
+      "name" : "DEAN",
+      "streamCount" : 21,
+      "secondsPlayed" : 4372
+    } ],
+    "topGenres" : [ ]
+  }, {
+    "date" : "2025-12-29",
+    "streamCount" : 0,
+    "secondsPlayed" : 0,
+    "topTracks" : [ {
+      "name" : "call my name",
+      "streamCount" : 23,
+      "secondsPlayed" : 3915
+    }, {
+      "name" : "I Color You",
+      "streamCount" : 15,
+      "secondsPlayed" : 3420
+    }, {
+      "name" : "Twit Winter",
+      "streamCount" : 12,
+      "secondsPlayed" : 3142
+    }, {
+      "name" : "Go Back",
+      "streamCount" : 12,
+      "secondsPlayed" : 2726
+    }, {
+      "name" : "Aibo (feat. Bratty)",
+      "streamCount" : 11,
+      "secondsPlayed" : 1551
+    }, {
+      "name" : "A Long Dream",
+      "streamCount" : 10,
+      "secondsPlayed" : 2474
+    }, {
+      "name" : "Winter",
+      "streamCount" : 10,
+      "secondsPlayed" : 2320
+    }, {
+      "name" : "NAN CHUN",
+      "streamCount" : 10,
+      "secondsPlayed" : 2291
+    }, {
+      "name" : "Remember!",
+      "streamCount" : 10,
+      "secondsPlayed" : 2110
+    }, {
+      "name" : "DIM",
+      "streamCount" : 10,
+      "secondsPlayed" : 2012
+    } ],
+    "topArtists" : [ {
+      "name" : "SE SO NEON",
+      "streamCount" : 209,
+      "secondsPlayed" : 46742
+    }, {
+      "name" : "Colde",
+      "streamCount" : 168,
+      "secondsPlayed" : 36764
+    }, {
+      "name" : "Yves",
+      "streamCount" : 125,
+      "secondsPlayed" : 21102
+    }, {
+      "name" : "アトラスサウンドチーム",
+      "streamCount" : 124,
+      "secondsPlayed" : 20907
+    }, {
+      "name" : "Sincere",
+      "streamCount" : 90,
+      "secondsPlayed" : 17714
+    }, {
+      "name" : "Khakii",
+      "streamCount" : 49,
+      "secondsPlayed" : 8777
+    }, {
+      "name" : "平田志穂子",
+      "streamCount" : 33,
+      "secondsPlayed" : 7069
+    }, {
+      "name" : "JUNNY",
+      "streamCount" : 23,
+      "secondsPlayed" : 3915
+    }, {
+      "name" : "来兎",
+      "streamCount" : 20,
+      "secondsPlayed" : 4269
+    }, {
+      "name" : "Noridogam",
+      "streamCount" : 19,
+      "secondsPlayed" : 3687
+    } ],
+    "topGenres" : [ ]
+  }, {
+    "date" : "2025-12",
+    "streamCount" : 2115,
+    "secondsPlayed" : 396130,
+    "topTracks" : [ {
+      "name" : "White cat",
+      "streamCount" : 14,
+      "secondsPlayed" : 2656
+    }, {
+      "name" : "Soap (feat. PinkPantheress)",
+      "streamCount" : 14,
+      "secondsPlayed" : 2065
+    }, {
+      "name" : "Twit Winter",
+      "streamCount" : 13,
+      "secondsPlayed" : 3402
+    }, {
+      "name" : "Remember!",
+      "streamCount" : 12,
+      "secondsPlayed" : 2532
+    }, {
+      "name" : "Jayu",
+      "streamCount" : 11,
+      "secondsPlayed" : 2253
+    }, {
+      "name" : "New Romantic",
+      "streamCount" : 11,
+      "secondsPlayed" : 1948
+    }, {
+      "name" : "Aibo (feat. Bratty)",
+      "streamCount" : 11,
+      "secondsPlayed" : 1551
+    }, {
+      "name" : "Go Back",
+      "streamCount" : 10,
+      "secondsPlayed" : 2044
+    }, {
+      "name" : "NOW",
+      "streamCount" : 9,
+      "secondsPlayed" : 2248
+    }, {
+      "name" : "Psychopathic Nostalgia",
+      "streamCount" : 9,
+      "secondsPlayed" : 2223
+    } ],
+    "topArtists" : [ {
+      "name" : "SE SO NEON",
+      "streamCount" : 206,
+      "secondsPlayed" : 44830
+    }, {
+      "name" : "Yves",
+      "streamCount" : 139,
+      "secondsPlayed" : 23651
+    }, {
+      "name" : "_BY.ALEXANDER",
+      "streamCount" : 94,
+      "secondsPlayed" : 16606
+    }, {
+      "name" : "Colde",
+      "streamCount" : 87,
+      "secondsPlayed" : 17965
+    }, {
+      "name" : "Sincere",
+      "streamCount" : 79,
+      "secondsPlayed" : 15534
+    }, {
+      "name" : "広橋真紀子",
+      "streamCount" : 35,
+      "secondsPlayed" : 10512
+    }, {
+      "name" : "Tame Impala",
+      "streamCount" : 26,
+      "secondsPlayed" : 6118
+    }, {
+      "name" : "XG",
+      "streamCount" : 25,
+      "secondsPlayed" : 4848
+    }, {
+      "name" : "MEOVV",
+      "streamCount" : 20,
+      "secondsPlayed" : 3425
+    }, {
+      "name" : "ITZY",
+      "streamCount" : 20,
+      "secondsPlayed" : 3289
+    } ],
+    "topGenres" : [ {
+      "name" : "k-pop",
+      "streamCount" : 164,
+      "secondsPlayed" : 74624
+    }, {
+      "name" : "korean r&b",
+      "streamCount" : 239,
+      "secondsPlayed" : 64070
+    }, {
+      "name" : "k-indie",
+      "streamCount" : 168,
+      "secondsPlayed" : 58019
+    }, {
+      "name" : "indie",
+      "streamCount" : 90,
+      "secondsPlayed" : 34604
+    }, {
+      "name" : "k-rock",
+      "streamCount" : 97,
+      "secondsPlayed" : 34148
+    }, {
+      "name" : "indie pop",
+      "streamCount" : 74,
+      "secondsPlayed" : 23341
+    }, {
+      "name" : "k-rap",
+      "streamCount" : 54,
+      "secondsPlayed" : 12509
+    }, {
+      "name" : "r&b",
+      "streamCount" : 54,
+      "secondsPlayed" : 12015
+    }, {
+      "name" : "j-pop",
+      "streamCount" : 34,
+      "secondsPlayed" : 11660
+    }, {
+      "name" : "gamelan",
+      "streamCount" : 11,
+      "secondsPlayed" : 9662
+    } ],
+    "timeOfDayStats" : [ {
+      "period" : "late_evening",
+      "secondsPlayed" : 63354
+    }, {
+      "period" : "afternoon",
+      "secondsPlayed" : 58668
+    }, {
+      "period" : "morning",
+      "secondsPlayed" : 55635
+    }, {
+      "period" : "evening",
+      "secondsPlayed" : 78657
+    }, {
+      "period" : "early_morning",
+      "secondsPlayed" : 59043
+    }, {
+      "period" : "night",
+      "secondsPlayed" : 80744
+    } ]
+  }, {
+    "date" : "2025-11",
+    "streamCount" : 2097,
+    "secondsPlayed" : 369865,
+    "topTracks" : [ {
+      "name" : "luigi's mansione",
+      "streamCount" : 36,
+      "secondsPlayed" : 4819
+    }, {
+      "name" : "endlessly",
+      "streamCount" : 22,
+      "secondsPlayed" : 3990
+    }, {
+      "name" : "lost & confused",
+      "streamCount" : 21,
+      "secondsPlayed" : 4356
+    }, {
+      "name" : "election year",
+      "streamCount" : 20,
+      "secondsPlayed" : 4018
+    }, {
+      "name" : "striking vipers",
+      "streamCount" : 20,
+      "secondsPlayed" : 3332
+    }, {
+      "name" : "air ride",
+      "streamCount" : 20,
+      "secondsPlayed" : 3300
+    }, {
+      "name" : "❥attack",
+      "streamCount" : 20,
+      "secondsPlayed" : 3934
+    }, {
+      "name" : "jungle",
+      "streamCount" : 19,
+      "secondsPlayed" : 3151
+    }, {
+      "name" : "liquid iron",
+      "streamCount" : 19,
+      "secondsPlayed" : 3053
+    }, {
+      "name" : "ooweeooweeoo",
+      "streamCount" : 18,
+      "secondsPlayed" : 2140
+    } ],
+    "topArtists" : [ {
+      "name" : "Chanpan",
+      "streamCount" : 250,
+      "secondsPlayed" : 44097
+    }, {
+      "name" : "Yves",
+      "streamCount" : 102,
+      "secondsPlayed" : 17374
+    }, {
+      "name" : "アトラスサウンドチーム",
+      "streamCount" : 70,
+      "secondsPlayed" : 9304
+    }, {
+      "name" : "Evan Call",
+      "streamCount" : 49,
+      "secondsPlayed" : 6029
+    }, {
+      "name" : "DeVita",
+      "streamCount" : 67,
+      "secondsPlayed" : 11312
+    }, {
+      "name" : "DEAN",
+      "streamCount" : 34,
+      "secondsPlayed" : 6924
+    }, {
+      "name" : "Paramore",
+      "streamCount" : 27,
+      "secondsPlayed" : 5719
+    }, {
+      "name" : "Daniel Caesar",
+      "streamCount" : 21,
+      "secondsPlayed" : 3585
+    }, {
+      "name" : "JUNNY",
+      "streamCount" : 19,
+      "secondsPlayed" : 3459
+    }, {
+      "name" : "Dhruv",
+      "streamCount" : 18,
+      "secondsPlayed" : 3348
+    } ],
+    "topGenres" : [ {
+      "name" : "korean r&b",
+      "streamCount" : 360,
+      "secondsPlayed" : 83162
+    }, {
+      "name" : "k-pop",
+      "streamCount" : 264,
+      "secondsPlayed" : 54426
+    }, {
+      "name" : "r&b",
+      "streamCount" : 139,
+      "secondsPlayed" : 29577
+    }, {
+      "name" : "k-rap",
+      "streamCount" : 114,
+      "secondsPlayed" : 27863
+    }, {
+      "name" : "jazz",
+      "streamCount" : 89,
+      "secondsPlayed" : 24418
+    }, {
+      "name" : "slow jazz",
+      "streamCount" : 62,
+      "secondsPlayed" : 17878
+    }, {
+      "name" : "chill r&b",
+      "streamCount" : 83,
+      "secondsPlayed" : 15564
+    }, {
+      "name" : "alternative r&b",
+      "streamCount" : 75,
+      "secondsPlayed" : 13897
+    }, {
+      "name" : "cool jazz",
+      "streamCount" : 40,
+      "secondsPlayed" : 12923
+    }, {
+      "name" : "classic jazz",
+      "streamCount" : 43,
+      "secondsPlayed" : 12370
+    } ],
+    "timeOfDayStats" : [ {
+      "period" : "late_evening",
+      "secondsPlayed" : 66089
+    }, {
+      "period" : "afternoon",
+      "secondsPlayed" : 76222
+    }, {
+      "period" : "morning",
+      "secondsPlayed" : 31166
+    }, {
+      "period" : "evening",
+      "secondsPlayed" : 64297
+    }, {
+      "period" : "early_morning",
+      "secondsPlayed" : 38844
+    }, {
+      "period" : "night",
+      "secondsPlayed" : 93221
+    } ]
+  }, {
+    "date" : "2025-10",
+    "streamCount" : 3565,
+    "secondsPlayed" : 696508,
+    "topTracks" : [ {
+      "name" : "double take",
+      "streamCount" : 28,
+      "secondsPlayed" : 4946
+    }, {
+      "name" : "airplane thoughts",
+      "streamCount" : 25,
+      "secondsPlayed" : 4904
+    }, {
+      "name" : "Twit Winter",
+      "streamCount" : 24,
+      "secondsPlayed" : 6211
+    }, {
+      "name" : "vulnerable",
+      "streamCount" : 23,
+      "secondsPlayed" : 4455
+    }, {
+      "name" : "Kata Mereka Ini Berlebihan",
+      "streamCount" : 22,
+      "secondsPlayed" : 4197
+    }, {
+      "name" : "moonlight",
+      "streamCount" : 21,
+      "secondsPlayed" : 3165
+    }, {
+      "name" : "grateful",
+      "streamCount" : 20,
+      "secondsPlayed" : 4595
+    }, {
+      "name" : "what's wrong with me?",
+      "streamCount" : 20,
+      "secondsPlayed" : 3589
+    }, {
+      "name" : "Kini Mereka Tahu",
+      "streamCount" : 19,
+      "secondsPlayed" : 5392
+    }, {
+      "name" : "Apa Mungkin",
+      "streamCount" : 19,
+      "secondsPlayed" : 4447
+    } ],
+    "topArtists" : [ {
+      "name" : "SE SO NEON",
+      "streamCount" : 269,
+      "secondsPlayed" : 60568
+    }, {
+      "name" : "Bernadya",
+      "streamCount" : 197,
+      "secondsPlayed" : 41162
+    }, {
+      "name" : "basecamp",
+      "streamCount" : 188,
+      "secondsPlayed" : 37492
+    }, {
+      "name" : "ILLIT",
+      "streamCount" : 191,
+      "secondsPlayed" : 32464
+    }, {
+      "name" : "Dhruv",
+      "streamCount" : 184,
+      "secondsPlayed" : 35057
+    }, {
+      "name" : "CUBE",
+      "streamCount" : 81,
+      "secondsPlayed" : 14979
+    }, {
+      "name" : "Juicy Luicy",
+      "streamCount" : 70,
+      "secondsPlayed" : 14859
+    }, {
+      "name" : "aimi",
+      "streamCount" : 46,
+      "secondsPlayed" : 8307
+    }, {
+      "name" : "LEEBADA",
+      "streamCount" : 45,
+      "secondsPlayed" : 8181
+    }, {
+      "name" : "Daniel Caesar",
+      "streamCount" : 42,
+      "secondsPlayed" : 8293
+    } ],
+    "topGenres" : [ {
+      "name" : "korean r&b",
+      "streamCount" : 324,
+      "secondsPlayed" : 89867
+    }, {
+      "name" : "rara",
+      "streamCount" : 221,
+      "secondsPlayed" : 68082
+    }, {
+      "name" : "k-indie",
+      "streamCount" : 102,
+      "secondsPlayed" : 64247
+    }, {
+      "name" : "pop",
+      "streamCount" : 215,
+      "secondsPlayed" : 61569
+    }, {
+      "name" : "r&b",
+      "streamCount" : 242,
+      "secondsPlayed" : 57839
+    }, {
+      "name" : "indie",
+      "streamCount" : 161,
+      "secondsPlayed" : 53010
+    }, {
+      "name" : "k-pop",
+      "streamCount" : 161,
+      "secondsPlayed" : 51677
+    }, {
+      "name" : "k-rock",
+      "streamCount" : 66,
+      "secondsPlayed" : 49134
+    }, {
+      "name" : "chill r&b",
+      "streamCount" : 145,
+      "secondsPlayed" : 36925
+    }, {
+      "name" : "jazz pop",
+      "streamCount" : 138,
+      "secondsPlayed" : 36352
+    } ],
+    "timeOfDayStats" : [ {
+      "period" : "late_evening",
+      "secondsPlayed" : 111200
+    }, {
+      "period" : "afternoon",
+      "secondsPlayed" : 180433
+    }, {
+      "period" : "morning",
+      "secondsPlayed" : 82939
+    }, {
+      "period" : "evening",
+      "secondsPlayed" : 119146
+    }, {
+      "period" : "early_morning",
+      "secondsPlayed" : 83481
+    }, {
+      "period" : "night",
+      "secondsPlayed" : 119269
+    } ]
+  }, {
+    "date" : "2025-09",
+    "streamCount" : 3697,
+    "secondsPlayed" : 678458,
+    "topTracks" : [ {
+      "name" : "ABG",
+      "streamCount" : 57,
+      "secondsPlayed" : 6184
+    }, {
+      "name" : "Fit",
+      "streamCount" : 55,
+      "secondsPlayed" : 8205
+    }, {
+      "name" : "rendezvous",
+      "streamCount" : 54,
+      "secondsPlayed" : 8123
+    }, {
+      "name" : "cupid",
+      "streamCount" : 50,
+      "secondsPlayed" : 7009
+    }, {
+      "name" : "Gameboy",
+      "streamCount" : 36,
+      "secondsPlayed" : 6663
+    }, {
+      "name" : "Bonafide",
+      "streamCount" : 34,
+      "secondsPlayed" : 5779
+    }, {
+      "name" : "Touch",
+      "streamCount" : 25,
+      "secondsPlayed" : 3244
+    }, {
+      "name" : "Gnarly",
+      "streamCount" : 24,
+      "secondsPlayed" : 3204
+    }, {
+      "name" : "Gabriela",
+      "streamCount" : 24,
+      "secondsPlayed" : 4646
+    }, {
+      "name" : "Soft Spot",
+      "streamCount" : 22,
+      "secondsPlayed" : 4491
+    } ],
+    "topArtists" : [ {
+      "name" : "keshi",
+      "streamCount" : 700,
+      "secondsPlayed" : 126305
+    }, {
+      "name" : "Olivia Dean",
+      "streamCount" : 245,
+      "secondsPlayed" : 51112
+    }, {
+      "name" : "KATSEYE",
+      "streamCount" : 166,
+      "secondsPlayed" : 26122
+    }, {
+      "name" : "Joh!",
+      "streamCount" : 125,
+      "secondsPlayed" : 15542
+    }, {
+      "name" : "CUBE",
+      "streamCount" : 100,
+      "secondsPlayed" : 16413
+    }, {
+      "name" : "Daniel Caesar",
+      "streamCount" : 98,
+      "secondsPlayed" : 19826
+    }, {
+      "name" : "SE SO NEON",
+      "streamCount" : 69,
+      "secondsPlayed" : 15282
+    }, {
+      "name" : "D.O.",
+      "streamCount" : 59,
+      "secondsPlayed" : 8697
+    }, {
+      "name" : "I'MIN",
+      "streamCount" : 45,
+      "secondsPlayed" : 7582
+    }, {
+      "name" : "UMI",
+      "streamCount" : 46,
+      "secondsPlayed" : 7851
+    } ],
+    "topGenres" : [ {
+      "name" : "chill r&b",
+      "streamCount" : 461,
+      "secondsPlayed" : 166478
+    }, {
+      "name" : "korean r&b",
+      "streamCount" : 572,
+      "secondsPlayed" : 154414
+    }, {
+      "name" : "r&b",
+      "streamCount" : 361,
+      "secondsPlayed" : 104433
+    }, {
+      "name" : "k-pop",
+      "streamCount" : 186,
+      "secondsPlayed" : 67652
+    }, {
+      "name" : "pop soul",
+      "streamCount" : 117,
+      "secondsPlayed" : 52950
+    }, {
+      "name" : "alternative r&b",
+      "streamCount" : 163,
+      "secondsPlayed" : 37919
+    }, {
+      "name" : "pop",
+      "streamCount" : 77,
+      "secondsPlayed" : 37118
+    }, {
+      "name" : "k-indie",
+      "streamCount" : 115,
+      "secondsPlayed" : 36018
+    }, {
+      "name" : "pop r&b",
+      "streamCount" : 129,
+      "secondsPlayed" : 33642
+    }, {
+      "name" : "indie pop",
+      "streamCount" : 72,
+      "secondsPlayed" : 23914
+    } ],
+    "timeOfDayStats" : [ ]
+  }, {
+    "date" : "2025-08",
+    "streamCount" : 2386,
+    "secondsPlayed" : 431130,
+    "topTracks" : [ {
+      "name" : "PARTY PPL (Feat. Min Jiwoon)",
+      "streamCount" : 34,
+      "secondsPlayed" : 5552
+    }, {
+      "name" : "WHAT HAVE WE DONE",
+      "streamCount" : 31,
+      "secondsPlayed" : 3650
+    }, {
+      "name" : "54321 (Feat. HAEWON of NMIXX)",
+      "streamCount" : 29,
+      "secondsPlayed" : 5228
+    }, {
+      "name" : "BAKA (Feat. CHANMINA)",
+      "streamCount" : 28,
+      "secondsPlayed" : 4302
+    }, {
+      "name" : "CRASHINNN OUTTT!!!",
+      "streamCount" : 28,
+      "secondsPlayed" : 3232
+    }, {
+      "name" : "Being",
+      "streamCount" : 28,
+      "secondsPlayed" : 5801
+    }, {
+      "name" : "Perfume (feat. oceanfromtheblue)",
+      "streamCount" : 26,
+      "secondsPlayed" : 5877
+    }, {
+      "name" : "HAD I KNOWN",
+      "streamCount" : 26,
+      "secondsPlayed" : 4151
+    }, {
+      "name" : "KEEP IT ON THE LOW (Feat. lIlBOI)",
+      "streamCount" : 25,
+      "secondsPlayed" : 3614
+    }, {
+      "name" : "SOAK IN BLUE",
+      "streamCount" : 25,
+      "secondsPlayed" : 4819
+    } ],
+    "topArtists" : [ {
+      "name" : "pH-1",
+      "streamCount" : 374,
+      "secondsPlayed" : 60392
+    }, {
+      "name" : "SE SO NEON",
+      "streamCount" : 236,
+      "secondsPlayed" : 52228
+    }, {
+      "name" : "Rich Brian",
+      "streamCount" : 229,
+      "secondsPlayed" : 43105
+    }, {
+      "name" : "Fyeqoodgurl",
+      "streamCount" : 88,
+      "secondsPlayed" : 17363
+    }, {
+      "name" : "Ruffin",
+      "streamCount" : 62,
+      "secondsPlayed" : 9233
+    }, {
+      "name" : "JUNNY",
+      "streamCount" : 57,
+      "secondsPlayed" : 10912
+    }, {
+      "name" : "Talia Perese",
+      "streamCount" : 52,
+      "secondsPlayed" : 8985
+    }, {
+      "name" : "ILLIT",
+      "streamCount" : 43,
+      "secondsPlayed" : 6803
+    }, {
+      "name" : "BIBI",
+      "streamCount" : 38,
+      "secondsPlayed" : 5261
+    }, {
+      "name" : "Tabber",
+      "streamCount" : 36,
+      "secondsPlayed" : 7225
+    } ],
+    "topGenres" : [ {
+      "name" : "korean r&b",
+      "streamCount" : 311,
+      "secondsPlayed" : 147405
+    }, {
+      "name" : "k-rap",
+      "streamCount" : 112,
+      "secondsPlayed" : 60566
+    }, {
+      "name" : "k-indie",
+      "streamCount" : 118,
+      "secondsPlayed" : 55110
+    }, {
+      "name" : "k-rock",
+      "streamCount" : 87,
+      "secondsPlayed" : 43577
+    }, {
+      "name" : "r&b",
+      "streamCount" : 163,
+      "secondsPlayed" : 39813
+    }, {
+      "name" : "hip hop",
+      "streamCount" : 41,
+      "secondsPlayed" : 32150
+    }, {
+      "name" : "alternative r&b",
+      "streamCount" : 118,
+      "secondsPlayed" : 31341
+    }, {
+      "name" : "rap",
+      "streamCount" : 39,
+      "secondsPlayed" : 29769
+    }, {
+      "name" : "chill r&b",
+      "streamCount" : 124,
+      "secondsPlayed" : 28346
+    }, {
+      "name" : "k-pop",
+      "streamCount" : 114,
+      "secondsPlayed" : 24199
+    } ],
+    "timeOfDayStats" : [ ]
+  }, {
+    "date" : "2025-07",
+    "streamCount" : 1350,
+    "secondsPlayed" : 260165,
+    "topTracks" : [ {
+      "name" : "What about Next Spring (feat. Kim Daniel of wave to earth)",
+      "streamCount" : 83,
+      "secondsPlayed" : 18302
+    }, {
+      "name" : "Go Back",
+      "streamCount" : 45,
+      "secondsPlayed" : 10101
+    }, {
+      "name" : "Love with a loneliness",
+      "streamCount" : 39,
+      "secondsPlayed" : 7724
+    }, {
+      "name" : "Coffee Shop",
+      "streamCount" : 39,
+      "secondsPlayed" : 6310
+    }, {
+      "name" : "Where to Begin",
+      "streamCount" : 39,
+      "secondsPlayed" : 6573
+    }, {
+      "name" : "Wrong Way",
+      "streamCount" : 38,
+      "secondsPlayed" : 8668
+    }, {
+      "name" : "read my love",
+      "streamCount" : 38,
+      "secondsPlayed" : 5700
+    }, {
+      "name" : "Subtle Change",
+      "streamCount" : 38,
+      "secondsPlayed" : 5479
+    }, {
+      "name" : "bad handwriting",
+      "streamCount" : 38,
+      "secondsPlayed" : 5282
+    }, {
+      "name" : "Bluejay",
+      "streamCount" : 38,
+      "secondsPlayed" : 8208
+    } ],
+    "topArtists" : [ {
+      "name" : "Milena",
+      "streamCount" : 467,
+      "secondsPlayed" : 85580
+    }, {
+      "name" : "SE SO NEON",
+      "streamCount" : 201,
+      "secondsPlayed" : 43185
+    }, {
+      "name" : "Red Velvet",
+      "streamCount" : 45,
+      "secondsPlayed" : 9005
+    }, {
+      "name" : "Kim Daniel",
+      "streamCount" : 83,
+      "secondsPlayed" : 18302
+    }, {
+      "name" : "Sincere",
+      "streamCount" : 39,
+      "secondsPlayed" : 7583
+    }, {
+      "name" : "XinU",
+      "streamCount" : 30,
+      "secondsPlayed" : 6438
+    }, {
+      "name" : "JUNNY",
+      "streamCount" : 28,
+      "secondsPlayed" : 5215
+    }, {
+      "name" : "Haruy",
+      "streamCount" : 21,
+      "secondsPlayed" : 4568
+    }, {
+      "name" : "reina",
+      "streamCount" : 20,
+      "secondsPlayed" : 3586
+    }, {
+      "name" : "Yun Seokcheol",
+      "streamCount" : 38,
+      "secondsPlayed" : 5798
+    } ],
+    "topGenres" : [ {
+      "name" : "jazz pop",
+      "streamCount" : 53,
+      "secondsPlayed" : 87591
+    }, {
+      "name" : "k-indie",
+      "streamCount" : 41,
+      "secondsPlayed" : 62218
+    }, {
+      "name" : "k-rock",
+      "streamCount" : 25,
+      "secondsPlayed" : 32691
+    }, {
+      "name" : "korean r&b",
+      "streamCount" : 64,
+      "secondsPlayed" : 30947
+    }, {
+      "name" : "japanese indie",
+      "streamCount" : 39,
+      "secondsPlayed" : 24831
+    }, {
+      "name" : "r&b",
+      "streamCount" : 109,
+      "secondsPlayed" : 22690
+    }, {
+      "name" : "indie soul",
+      "streamCount" : 116,
+      "secondsPlayed" : 22085
+    }, {
+      "name" : "j-pop",
+      "streamCount" : 42,
+      "secondsPlayed" : 21931
+    }, {
+      "name" : "smooth soul",
+      "streamCount" : 6,
+      "secondsPlayed" : 18541
+    }, {
+      "name" : "alternative r&b",
+      "streamCount" : 91,
+      "secondsPlayed" : 17552
+    } ],
+    "timeOfDayStats" : [ ]
+  }, {
+    "date" : "2025-06",
+    "streamCount" : 783,
+    "secondsPlayed" : 163907,
+    "topTracks" : [ {
+      "name" : "Remember!",
+      "streamCount" : 40,
+      "secondsPlayed" : 8510
+    }, {
+      "name" : "Twit Winter",
+      "streamCount" : 39,
+      "secondsPlayed" : 10216
+    }, {
+      "name" : "Remember! - English Version",
+      "streamCount" : 39,
+      "secondsPlayed" : 8280
+    }, {
+      "name" : "Twit Winter - English Version",
+      "streamCount" : 39,
+      "secondsPlayed" : 10064
+    }, {
+      "name" : "UFO",
+      "streamCount" : 19,
+      "secondsPlayed" : 3498
+    }, {
+      "name" : "Chi-Ka",
+      "streamCount" : 18,
+      "secondsPlayed" : 3665
+    }, {
+      "name" : "Derre",
+      "streamCount" : 18,
+      "secondsPlayed" : 2812
+    }, {
+      "name" : "I Love It",
+      "streamCount" : 18,
+      "secondsPlayed" : 3851
+    }, {
+      "name" : "What 2 Do",
+      "streamCount" : 18,
+      "secondsPlayed" : 3880
+    }, {
+      "name" : "Know Me (Feat. DEAN)",
+      "streamCount" : 18,
+      "secondsPlayed" : 3696
+    } ],
+    "topArtists" : [ {
+      "name" : "SE SO NEON",
+      "streamCount" : 216,
+      "secondsPlayed" : 49891
+    }, {
+      "name" : "DEAN",
+      "streamCount" : 122,
+      "secondsPlayed" : 26390
+    }, {
+      "name" : "GEMINI",
+      "streamCount" : 52,
+      "secondsPlayed" : 9843
+    }, {
+      "name" : "Tabber",
+      "streamCount" : 51,
+      "secondsPlayed" : 10652
+    }, {
+      "name" : "DPR LIVE",
+      "streamCount" : 41,
+      "secondsPlayed" : 8326
+    }, {
+      "name" : "BIBI",
+      "streamCount" : 38,
+      "secondsPlayed" : 7933
+    }, {
+      "name" : "JUNNY",
+      "streamCount" : 33,
+      "secondsPlayed" : 6165
+    }, {
+      "name" : "BAEKHYUN",
+      "streamCount" : 29,
+      "secondsPlayed" : 5877
+    }, {
+      "name" : "pH-1",
+      "streamCount" : 37,
+      "secondsPlayed" : 7199
+    }, {
+      "name" : "NYK",
+      "streamCount" : 26,
+      "secondsPlayed" : 6306
+    } ],
+    "topGenres" : [ {
+      "name" : "korean r&b",
+      "streamCount" : 219,
+      "secondsPlayed" : 107451
+    }, {
+      "name" : "k-indie",
+      "streamCount" : 32,
+      "secondsPlayed" : 46040
+    }, {
+      "name" : "k-rock",
+      "streamCount" : 15,
+      "secondsPlayed" : 38086
+    }, {
+      "name" : "k-pop",
+      "streamCount" : 52,
+      "secondsPlayed" : 26459
+    }, {
+      "name" : "k-rap",
+      "streamCount" : 47,
+      "secondsPlayed" : 22783
+    }, {
+      "name" : "indie",
+      "streamCount" : 6,
+      "secondsPlayed" : 20742
+    }, {
+      "name" : "r&b",
+      "streamCount" : 42,
+      "secondsPlayed" : 19811
+    }, {
+      "name" : "indie rock",
+      "streamCount" : 2,
+      "secondsPlayed" : 8280
+    }, {
+      "name" : "alternative pop",
+      "streamCount" : 2,
+      "secondsPlayed" : 8280
+    }, {
+      "name" : "indie pop",
+      "streamCount" : 2,
+      "secondsPlayed" : 8280
+    } ],
+    "timeOfDayStats" : [ ]
+  }, {
+    "date" : "2025-05",
+    "streamCount" : 3923,
+    "secondsPlayed" : 779151,
+    "topTracks" : [ {
+      "name" : "Teach Me How To Love",
+      "streamCount" : 39,
+      "secondsPlayed" : 6608
+    }, {
+      "name" : "Cinema",
+      "streamCount" : 37,
+      "secondsPlayed" : 6616
+    }, {
+      "name" : "Bloom",
+      "streamCount" : 36,
+      "secondsPlayed" : 8245
+    }, {
+      "name" : "A Seat For You (feat. Quinn Oulton)",
+      "streamCount" : 34,
+      "secondsPlayed" : 6309
+    }, {
+      "name" : "Control Me",
+      "streamCount" : 32,
+      "secondsPlayed" : 6620
+    }, {
+      "name" : "slow dive",
+      "streamCount" : 30,
+      "secondsPlayed" : 8209
+    }, {
+      "name" : "pueblo - remastered 2024",
+      "streamCount" : 30,
+      "secondsPlayed" : 6586
+    }, {
+      "name" : "Night Charade",
+      "streamCount" : 30,
+      "secondsPlayed" : 5513
+    }, {
+      "name" : "annie.",
+      "streamCount" : 29,
+      "secondsPlayed" : 5819
+    }, {
+      "name" : "play with earth!",
+      "streamCount" : 29,
+      "secondsPlayed" : 5246
+    } ],
+    "topArtists" : [ {
+      "name" : "wave to earth",
+      "streamCount" : 677,
+      "secondsPlayed" : 152184
+    }, {
+      "name" : "thủy",
+      "streamCount" : 542,
+      "secondsPlayed" : 95051
+    }, {
+      "name" : "Galdive",
+      "streamCount" : 323,
+      "secondsPlayed" : 60593
+    }, {
+      "name" : "Colde",
+      "streamCount" : 269,
+      "secondsPlayed" : 57931
+    }, {
+      "name" : "Sincere",
+      "streamCount" : 146,
+      "secondsPlayed" : 29235
+    }, {
+      "name" : "Frank Ocean",
+      "streamCount" : 137,
+      "secondsPlayed" : 28712
+    }, {
+      "name" : "BIBI",
+      "streamCount" : 112,
+      "secondsPlayed" : 20256
+    }, {
+      "name" : "DEAN",
+      "streamCount" : 113,
+      "secondsPlayed" : 22462
+    }, {
+      "name" : "Rich Brian",
+      "streamCount" : 111,
+      "secondsPlayed" : 20545
+    }, {
+      "name" : "XG",
+      "streamCount" : 80,
+      "secondsPlayed" : 19091
+    } ],
+    "topGenres" : [ {
+      "name" : "korean r&b",
+      "streamCount" : 486,
+      "secondsPlayed" : 296440
+    }, {
+      "name" : "k-indie",
+      "streamCount" : 244,
+      "secondsPlayed" : 163564
+    }, {
+      "name" : "wave",
+      "streamCount" : 142,
+      "secondsPlayed" : 132111
+    }, {
+      "name" : "pop r&b",
+      "streamCount" : 113,
+      "secondsPlayed" : 71276
+    }, {
+      "name" : "r&b",
+      "streamCount" : 126,
+      "secondsPlayed" : 64272
+    }, {
+      "name" : "k-pop",
+      "streamCount" : 99,
+      "secondsPlayed" : 53342
+    }, {
+      "name" : "chill r&b",
+      "streamCount" : 109,
+      "secondsPlayed" : 49953
+    }, {
+      "name" : "alternative r&b",
+      "streamCount" : 53,
+      "secondsPlayed" : 42203
+    }, {
+      "name" : "j-pop",
+      "streamCount" : 89,
+      "secondsPlayed" : 27491
+    }, {
+      "name" : "k-rap",
+      "streamCount" : 60,
+      "secondsPlayed" : 26071
+    } ],
+    "timeOfDayStats" : [ ]
+  }, {
+    "date" : "2025-04",
+    "streamCount" : 4730,
+    "secondsPlayed" : 935016,
+    "topTracks" : [ {
+      "name" : "Night Charade",
+      "streamCount" : 186,
+      "secondsPlayed" : 34709
+    }, {
+      "name" : "Teach Me How To Love",
+      "streamCount" : 174,
+      "secondsPlayed" : 31408
+    }, {
+      "name" : "Cinema",
+      "streamCount" : 171,
+      "secondsPlayed" : 30470
+    }, {
+      "name" : "Bloom",
+      "streamCount" : 169,
+      "secondsPlayed" : 38767
+    }, {
+      "name" : "A Seat For You (feat. Quinn Oulton)",
+      "streamCount" : 166,
+      "secondsPlayed" : 30602
+    }, {
+      "name" : "Nishiyama Daddy Daddy (NOLA BOUNCE)",
+      "streamCount" : 68,
+      "secondsPlayed" : 5481
+    }, {
+      "name" : "Derre",
+      "streamCount" : 66,
+      "secondsPlayed" : 10262
+    }, {
+      "name" : "Burn it (feat. DEAN)",
+      "streamCount" : 65,
+      "secondsPlayed" : 13753
+    }, {
+      "name" : "cheemistry",
+      "streamCount" : 54,
+      "secondsPlayed" : 6127
+    }, {
+      "name" : "Fond Adieu",
+      "streamCount" : 22,
+      "secondsPlayed" : 5115
+    } ],
+    "topArtists" : [ {
+      "name" : "Galdive",
+      "streamCount" : 1205,
+      "secondsPlayed" : 234537
+    }, {
+      "name" : "Paramore",
+      "streamCount" : 471,
+      "secondsPlayed" : 100449
+    }, {
+      "name" : "広橋真紀子",
+      "streamCount" : 306,
+      "secondsPlayed" : 89707
+    }, {
+      "name" : "Sincere",
+      "streamCount" : 284,
+      "secondsPlayed" : 57010
+    }, {
+      "name" : "HANRORO",
+      "streamCount" : 219,
+      "secondsPlayed" : 46476
+    }, {
+      "name" : "BIBI",
+      "streamCount" : 160,
+      "secondsPlayed" : 28440
+    }, {
+      "name" : "JEV",
+      "streamCount" : 122,
+      "secondsPlayed" : 18382
+    }, {
+      "name" : "Quinn Oulton",
+      "streamCount" : 166,
+      "secondsPlayed" : 30602
+    }, {
+      "name" : "yama",
+      "streamCount" : 77,
+      "secondsPlayed" : 15216
+    }, {
+      "name" : "SZA",
+      "streamCount" : 76,
+      "secondsPlayed" : 13283
+    } ],
+    "topGenres" : [ {
+      "name" : "alternative r&b",
+      "streamCount" : 48,
+      "secondsPlayed" : 140804
+    }, {
+      "name" : "emo pop",
+      "streamCount" : 160,
+      "secondsPlayed" : 84205
+    }, {
+      "name" : "pop r&b",
+      "streamCount" : 29,
+      "secondsPlayed" : 77401
+    }, {
+      "name" : "korean r&b",
+      "streamCount" : 200,
+      "secondsPlayed" : 70998
+    }, {
+      "name" : "uk garage",
+      "streamCount" : 192,
+      "secondsPlayed" : 70526
+    }, {
+      "name" : "pop punk",
+      "streamCount" : 135,
+      "secondsPlayed" : 68790
+    }, {
+      "name" : "k-indie",
+      "streamCount" : 101,
+      "secondsPlayed" : 68118
+    }, {
+      "name" : "house",
+      "streamCount" : 146,
+      "secondsPlayed" : 57095
+    }, {
+      "name" : "emo",
+      "streamCount" : 104,
+      "secondsPlayed" : 52833
+    }, {
+      "name" : "teen rock",
+      "streamCount" : 99,
+      "secondsPlayed" : 51816
+    } ],
+    "timeOfDayStats" : [ ]
+  }, {
+    "date" : "2025-03",
+    "streamCount" : 4224,
+    "secondsPlayed" : 767579,
+    "topTracks" : [ {
+      "name" : "Little Ray Of Light",
+      "streamCount" : 297,
+      "secondsPlayed" : 53172
+    }, {
+      "name" : "rain",
+      "streamCount" : 186,
+      "secondsPlayed" : 32819
+    }, {
+      "name" : "bed",
+      "streamCount" : 185,
+      "secondsPlayed" : 36306
+    }, {
+      "name" : "dawn",
+      "streamCount" : 185,
+      "secondsPlayed" : 32014
+    }, {
+      "name" : "Good Girl",
+      "streamCount" : 184,
+      "secondsPlayed" : 37186
+    }, {
+      "name" : "Can't stop",
+      "streamCount" : 184,
+      "secondsPlayed" : 24545
+    }, {
+      "name" : "tanpopo",
+      "streamCount" : 183,
+      "secondsPlayed" : 42584
+    }, {
+      "name" : "KNOW ABOUT ME",
+      "streamCount" : 122,
+      "secondsPlayed" : 19712
+    }, {
+      "name" : "Papillon",
+      "streamCount" : 50,
+      "secondsPlayed" : 7541
+    }, {
+      "name" : "ABC (feat. Sophia Black)",
+      "streamCount" : 49,
+      "secondsPlayed" : 7298
+    } ],
+    "topArtists" : [ {
+      "name" : "Sincere",
+      "streamCount" : 1132,
+      "secondsPlayed" : 210475
+    }, {
+      "name" : "SZA",
+      "streamCount" : 521,
+      "secondsPlayed" : 88883
+    }, {
+      "name" : "Rich Brian",
+      "streamCount" : 462,
+      "secondsPlayed" : 83817
+    }, {
+      "name" : "Paramore",
+      "streamCount" : 377,
+      "secondsPlayed" : 80584
+    }, {
+      "name" : "NMIXX",
+      "streamCount" : 203,
+      "secondsPlayed" : 32412
+    }, {
+      "name" : "yama",
+      "streamCount" : 141,
+      "secondsPlayed" : 27231
+    }, {
+      "name" : "JENNIE",
+      "streamCount" : 133,
+      "secondsPlayed" : 20905
+    }, {
+      "name" : "Chocoholic",
+      "streamCount" : 187,
+      "secondsPlayed" : 37891
+    }, {
+      "name" : "XG",
+      "streamCount" : 90,
+      "secondsPlayed" : 13347
+    }, {
+      "name" : "Hana Hope",
+      "streamCount" : 66,
+      "secondsPlayed" : 14319
+    } ],
+    "topGenres" : [ {
+      "name" : "j-pop",
+      "streamCount" : 148,
+      "secondsPlayed" : 117004
+    }, {
+      "name" : "r&b",
+      "streamCount" : 225,
+      "secondsPlayed" : 95341
+    }, {
+      "name" : "k-pop",
+      "streamCount" : 137,
+      "secondsPlayed" : 74635
+    }, {
+      "name" : "emo pop",
+      "streamCount" : 165,
+      "secondsPlayed" : 66071
+    }, {
+      "name" : "indie pop",
+      "streamCount" : 11,
+      "secondsPlayed" : 53893
+    }, {
+      "name" : "pop punk",
+      "streamCount" : 139,
+      "secondsPlayed" : 53761
+    }, {
+      "name" : "japanese indie",
+      "streamCount" : 48,
+      "secondsPlayed" : 52081
+    }, {
+      "name" : "classical",
+      "streamCount" : 27,
+      "secondsPlayed" : 51925
+    }, {
+      "name" : "rock",
+      "streamCount" : 109,
+      "secondsPlayed" : 49009
+    }, {
+      "name" : "classical chillout",
+      "streamCount" : 23,
+      "secondsPlayed" : 46251
+    } ],
+    "timeOfDayStats" : [ ]
+  }, {
+    "date" : "2025-02",
+    "streamCount" : 3722,
+    "secondsPlayed" : 706709,
+    "topTracks" : [ {
+      "name" : "Derre",
+      "streamCount" : 116,
+      "secondsPlayed" : 17965
+    }, {
+      "name" : "Good Girl",
+      "streamCount" : 76,
+      "secondsPlayed" : 15179
+    }, {
+      "name" : "dawn",
+      "streamCount" : 75,
+      "secondsPlayed" : 12956
+    }, {
+      "name" : "Can't stop",
+      "streamCount" : 73,
+      "secondsPlayed" : 9720
+    }, {
+      "name" : "rain",
+      "streamCount" : 67,
+      "secondsPlayed" : 11701
+    }, {
+      "name" : "bed",
+      "streamCount" : 66,
+      "secondsPlayed" : 12787
+    }, {
+      "name" : "tanpopo",
+      "streamCount" : 61,
+      "secondsPlayed" : 14183
+    }, {
+      "name" : "cares",
+      "streamCount" : 34,
+      "secondsPlayed" : 8911
+    }, {
+      "name" : "BURN",
+      "streamCount" : 28,
+      "secondsPlayed" : 5516
+    }, {
+      "name" : "Let Me Show You",
+      "streamCount" : 28,
+      "secondsPlayed" : 3872
+    } ],
+    "topArtists" : [ {
+      "name" : "Sincere",
+      "streamCount" : 701,
+      "secondsPlayed" : 134087
+    }, {
+      "name" : "The Poles",
+      "streamCount" : 371,
+      "secondsPlayed" : 93692
+    }, {
+      "name" : "SZA",
+      "streamCount" : 238,
+      "secondsPlayed" : 41229
+    }, {
+      "name" : "YdBB",
+      "streamCount" : 207,
+      "secondsPlayed" : 42677
+    }, {
+      "name" : "STAYC",
+      "streamCount" : 145,
+      "secondsPlayed" : 26324
+    }, {
+      "name" : "BIBI",
+      "streamCount" : 126,
+      "secondsPlayed" : 19638
+    }, {
+      "name" : "The Volunteers",
+      "streamCount" : 102,
+      "secondsPlayed" : 23124
+    }, {
+      "name" : "Chocoholic",
+      "streamCount" : 115,
+      "secondsPlayed" : 23293
+    }, {
+      "name" : "XG",
+      "streamCount" : 56,
+      "secondsPlayed" : 9332
+    }, {
+      "name" : "SE SO NEON",
+      "streamCount" : 54,
+      "secondsPlayed" : 12063
+    } ],
+    "topGenres" : [ {
+      "name" : "k-indie",
+      "streamCount" : 544,
+      "secondsPlayed" : 194961
+    }, {
+      "name" : "k-rock",
+      "streamCount" : 375,
+      "secondsPlayed" : 130507
+    }, {
+      "name" : "korean r&b",
+      "streamCount" : 215,
+      "secondsPlayed" : 87110
+    }, {
+      "name" : "k-pop",
+      "streamCount" : 148,
+      "secondsPlayed" : 62718
+    }, {
+      "name" : "j-pop",
+      "streamCount" : 100,
+      "secondsPlayed" : 55320
+    }, {
+      "name" : "r&b",
+      "streamCount" : 162,
+      "secondsPlayed" : 44926
+    }, {
+      "name" : "japanese indie",
+      "streamCount" : 58,
+      "secondsPlayed" : 29199
+    }, {
+      "name" : "lo-fi",
+      "streamCount" : 139,
+      "secondsPlayed" : 26877
+    }, {
+      "name" : "lo-fi beats",
+      "streamCount" : 112,
+      "secondsPlayed" : 22715
+    }, {
+      "name" : "chill r&b",
+      "streamCount" : 41,
+      "secondsPlayed" : 12549
+    } ],
+    "timeOfDayStats" : [ ]
+  } ],
+  "highlights" : [ {
+    "date" : "2026-01-18",
+    "highlightType" : "TOP_LISTENER",
+    "topListenerHighlight" : {
+      "entity" : "Lucky feat.VivaOla",
+      "topPercentile" : 0.002028397565922921
+    }
+  }, {
+    "date" : "2026-01-11",
+    "highlightType" : "MILESTONE",
+    "milestoneHighlight" : {
+      "entity" : "Arabelle",
+      "milestoneListeningSeconds" : 99091
+    }
+  }, {
+    "date" : "2026-01-04",
+    "highlightType" : "FIRST_TO_DISCOVER",
+    "firstToDiscoverHighlight" : {
+      "entity" : "say that!",
+      "country" : "ID",
+      "position" : 2366
+    }
+  }, {
+    "date" : "2025-12-28",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "VBZ",
+      "listeningPercentage" : 38.95080184832835
+    }
+  }, {
+    "date" : "2025-12-21",
+    "highlightType" : "UNLIKE_COMBINATION",
+    "unlikeCombinationHighlight" : {
+      "firstEntity" : "Sugiarti",
+      "secondEntity" : "SKOPE"
+    }
+  }, {
+    "date" : "2025-12-14",
+    "highlightType" : "STREAKS",
+    "streaksHighlight" : {
+      "entity" : "SE SO NEON",
+      "dayStreaks" : 4
+    }
+  }, {
+    "date" : "2025-12-07",
+    "highlightType" : "ON_REPEAT",
+    "onRepeatHighlight" : {
+      "entity" : "BURNING UP",
+      "streamCount" : 6
+    }
+  }, {
+    "date" : "2025-12",
+    "highlightType" : "ON_THIS_PERIOD",
+    "onThisPeriodHighlight" : {
+      "entity" : "if you love me (demo)",
+      "nostalgiaPeriod" : "YEAR",
+      "nostalgiaUnitsAgo" : 2
+    }
+  }, {
+    "date" : "2025-11-30",
+    "highlightType" : "TOP_LISTENER",
+    "topListenerHighlight" : {
+      "entity" : "DEAN",
+      "topPercentile" : 0.018797641305911116
+    }
+  }, {
+    "date" : "2025-11-23",
+    "highlightType" : "ON_THIS_PERIOD",
+    "onThisPeriodHighlight" : {
+      "entity" : "魔法にかけられて",
+      "nostalgiaPeriod" : "YEAR",
+      "nostalgiaUnitsAgo" : 1
+    }
+  }, {
+    "date" : "2025-11-16",
+    "highlightType" : "FIRST_TO_DISCOVER",
+    "firstToDiscoverHighlight" : {
+      "entity" : "DYT",
+      "country" : "ID",
+      "position" : 898
+    }
+  }, {
+    "date" : "2025-11-09",
+    "highlightType" : "TOP_LISTENER",
+    "topListenerHighlight" : {
+      "entity" : "Paramore",
+      "topPercentile" : 0.008749157249702247
+    }
+  }, {
+    "date" : "2025-11-02",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "basecamp",
+      "listeningPercentage" : 32.6780492898914
+    }
+  }, {
+    "date" : "2025-11",
+    "highlightType" : "MILESTONE",
+    "milestoneHighlight" : {
+      "entity" : "Chanpan",
+      "milestoneListeningSeconds" : 44097
+    }
+  }, {
+    "date" : "2025-10-26",
+    "highlightType" : "ON_REPEAT",
+    "onRepeatHighlight" : {
+      "entity" : "Twit Winter",
+      "streamCount" : 20
+    }
+  }, {
+    "date" : "2025-10-19",
+    "highlightType" : "STREAKS",
+    "streaksHighlight" : {
+      "entity" : "Untungnya, Hidup Harus Tetap Berjalan",
+      "dayStreaks" : 5
+    }
+  }, {
+    "date" : "2025-10-12",
+    "highlightType" : "ON_THIS_PERIOD",
+    "onThisPeriodHighlight" : {
+      "entity" : "PUPPET SHOW",
+      "nostalgiaPeriod" : "YEAR",
+      "nostalgiaUnitsAgo" : 2
+    }
+  }, {
+    "date" : "2025-10-05",
+    "highlightType" : "YOU_STAND_OUT",
+    "youStandOutHighlight" : {
+      "entity" : "Daniel Caesar",
+      "country" : "ID",
+      "secondsPlayed" : 4821,
+      "marketAvgSecondsPlayed" : 845.54395
+    }
+  }, {
+    "date" : "2025-10",
+    "highlightType" : "UNLIKE_COMBINATION",
+    "unlikeCombinationHighlight" : {
+      "firstEntity" : "Tiara Andini",
+      "secondEntity" : "Josh P"
+    }
+  }, {
+    "date" : "2025-09-28",
+    "highlightType" : "MILESTONE",
+    "multiEntityMilestoneHighlight" : {
+      "entities" : [ "KATSEYE", "Daniel Caesar", "keshi", "Gameboy", "rendezvous", "Fit", "cupid", "ABG", "Bonafide" ],
+      "milestoneListeningSeconds" : 159126
+    }
+  }, {
+    "date" : "2025-09-21",
+    "highlightType" : "TOP_LISTENER",
+    "topListenerHighlight" : {
+      "entity" : "thủy",
+      "topPercentile" : 0.0028843840643389663
+    }
+  }, {
+    "date" : "2025-09-14",
+    "highlightType" : "MILESTONE",
+    "milestoneHighlight" : {
+      "entity" : "Olivia Dean",
+      "milestoneListeningSeconds" : 50701
+    }
+  }, {
+    "date" : "2025-09-07",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "keshi",
+      "listeningPercentage" : 52.56209125619022
+    }
+  }, {
+    "date" : "2025-09",
+    "highlightType" : "FIRST_TO_DISCOVER",
+    "firstToDiscoverHighlight" : {
+      "entity" : "Man I Need (Live) – Spotify Live Room",
+      "country" : "ID",
+      "position" : 673
+    }
+  }, {
+    "date" : "2025-08-31",
+    "highlightType" : "ON_REPEAT",
+    "onRepeatHighlight" : {
+      "entity" : "Falling Slow",
+      "streamCount" : 25
+    }
+  }, {
+    "date" : "2025-08-24",
+    "highlightType" : "UNLIKE_COMBINATION",
+    "unlikeCombinationHighlight" : {
+      "firstEntity" : "HAEWON",
+      "secondEntity" : "Toro y Moi"
+    }
+  }, {
+    "date" : "2025-08-17",
+    "highlightType" : "STREAKS",
+    "streaksHighlight" : {
+      "entity" : "NOW",
+      "dayStreaks" : 3
+    }
+  }, {
+    "date" : "2025-08-10",
+    "highlightType" : "FANS_LIKE_YOU",
+    "fansLikeYouHighlight" : {
+      "entity" : "Terbuang Dalam Waktu",
+      "country" : "ID",
+      "position" : 15,
+      "previousPosition" : 11,
+      "numberOfListeners" : 1758198
+    }
+  }, {
+    "date" : "2025-08-03",
+    "highlightType" : "MILESTONE",
+    "milestoneHighlight" : {
+      "entity" : "spotify:playlist:37i9dQZF1E39XafJ165iZI",
+      "milestoneListeningSeconds" : 45434
+    }
+  }, {
+    "date" : "2025-08",
+    "highlightType" : "TOP_LISTENER",
+    "topListenerHighlight" : {
+      "entity" : "Being",
+      "topPercentile" : 0.002652118787004618
+    }
+  }, {
+    "date" : "2025-07-27",
+    "highlightType" : "FIRST_TO_DISCOVER",
+    "firstToDiscoverHighlight" : {
+      "entity" : "The Desert Music: ⅢA. slow",
+      "country" : "ID",
+      "position" : 507
+    }
+  }, {
+    "date" : "2025-07-20",
+    "highlightType" : "ON_REPEAT",
+    "onRepeatHighlight" : {
+      "entity" : "Where to Begin",
+      "streamCount" : 36
+    }
+  }, {
+    "date" : "2025-07-13",
+    "highlightType" : "TOP_LISTENER",
+    "topListenerHighlight" : {
+      "entity" : "Milena",
+      "topPercentile" : 0.024801333646972193
+    }
+  }, {
+    "date" : "2025-07-06",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "JUNNY",
+      "listeningPercentage" : 46.53875819514076
+    }
+  }, {
+    "date" : "2025-07",
+    "highlightType" : "ON_THIS_PERIOD",
+    "onThisPeriodHighlight" : {
+      "entity" : "Beauty Bomb",
+      "nostalgiaPeriod" : "YEAR",
+      "nostalgiaUnitsAgo" : 1
+    }
+  } ]
+}

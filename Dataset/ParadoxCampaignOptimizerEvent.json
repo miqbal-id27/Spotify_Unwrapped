@@ -1,0 +1,417 @@
+[
+  {
+    "context_time": 1763702621012,
+    "message_campaign_id": "93645",
+    "message_channel": "INAPP",
+    "message_reorder_occurred": true,
+    "message_rank": 1,
+    "message_message_id": "184347",
+    "message_locale": "en_ID",
+    "message_region": "asia-east1",
+    "message_module_channel": "EXISTINGUSER_INAPP",
+    "message_uplift_variant": null,
+    "message_business_metric": "engagement",
+    "message_filter_reason": "MULTI_OBJECTIVE_SELECTION_MODEL",
+    "message_request_index": 2,
+    "message_experiment_properties": [
+      {
+        "key": "multi_objective_selection_inapp",
+        "value": "IAM_1_0_0"
+      },
+      {
+        "key": "multi_objective_new_user_protection_inapp",
+        "value": "NOT_IN_TEST"
+      }
+    ],
+    "message_stages": [
+      {
+        "key": "ProductPromotionCoordinatorFilter",
+        "value": "false"
+      },
+      {
+        "key": "MultiObjectiveSelectionModelStage",
+        "value": "true"
+      }
+    ],
+    "message_holdouts": null,
+    "message_business_metric_sub_category": "",
+    "message_ppc_action": null,
+    "message_product": "PREMIUM",
+    "timestamp_utc": "2025-11-21T05:23:41.012Z"
+  },
+  {
+    "context_time": 1768683273517,
+    "message_campaign_id": "93552",
+    "message_channel": "INAPP",
+    "message_reorder_occurred": false,
+    "message_rank": 0,
+    "message_message_id": "188741",
+    "message_locale": "en_ID",
+    "message_region": "asia-east1",
+    "message_module_channel": "EXISTINGUSER_INAPP",
+    "message_uplift_variant": null,
+    "message_business_metric": "subscriptions",
+    "message_filter_reason": null,
+    "message_request_index": 0,
+    "message_experiment_properties": [
+      {
+        "key": "multi_objective_selection_inapp",
+        "value": "IAM_1_0_0"
+      },
+      {
+        "key": "multi_objective_new_user_protection_inapp",
+        "value": "NOT_IN_TEST"
+      }
+    ],
+    "message_stages": [
+      {
+        "key": "ProductPromotionCoordinatorFilter",
+        "value": "false"
+      },
+      {
+        "key": "MultiObjectiveSelectionModelStage",
+        "value": "true"
+      }
+    ],
+    "message_holdouts": [
+      {
+        "key": "PUSH_OPTIMIZATION_HOLDOUT",
+        "value": "false"
+      }
+    ],
+    "message_business_metric_sub_category": "Premium Individual",
+    "message_ppc_action": null,
+    "message_product": "PREMIUM",
+    "timestamp_utc": "2026-01-17T20:54:33.517Z"
+  },
+  {
+    "context_time": 1763702621012,
+    "message_campaign_id": "93645",
+    "message_channel": "INAPP",
+    "message_reorder_occurred": true,
+    "message_rank": 2,
+    "message_message_id": "184344",
+    "message_locale": "en_ID",
+    "message_region": "asia-east1",
+    "message_module_channel": "EXISTINGUSER_INAPP",
+    "message_uplift_variant": null,
+    "message_business_metric": "engagement",
+    "message_filter_reason": "MULTI_OBJECTIVE_SELECTION_MODEL",
+    "message_request_index": 0,
+    "message_experiment_properties": [
+      {
+        "key": "multi_objective_selection_inapp",
+        "value": "IAM_1_0_0"
+      },
+      {
+        "key": "multi_objective_new_user_protection_inapp",
+        "value": "NOT_IN_TEST"
+      }
+    ],
+    "message_stages": [
+      {
+        "key": "ProductPromotionCoordinatorFilter",
+        "value": "false"
+      },
+      {
+        "key": "MultiObjectiveSelectionModelStage",
+        "value": "true"
+      }
+    ],
+    "message_holdouts": null,
+    "message_business_metric_sub_category": "",
+    "message_ppc_action": null,
+    "message_product": "PREMIUM",
+    "timestamp_utc": "2025-11-21T05:23:41.012Z"
+  },
+  {
+    "context_time": 1763702621012,
+    "message_campaign_id": "93645",
+    "message_channel": "INAPP",
+    "message_reorder_occurred": true,
+    "message_rank": 0,
+    "message_message_id": "184346",
+    "message_locale": "en_ID",
+    "message_region": "asia-east1",
+    "message_module_channel": "EXISTINGUSER_INAPP",
+    "message_uplift_variant": null,
+    "message_business_metric": "engagement",
+    "message_filter_reason": null,
+    "message_request_index": 1,
+    "message_experiment_properties": [
+      {
+        "key": "multi_objective_selection_inapp",
+        "value": "IAM_1_0_0"
+      },
+      {
+        "key": "multi_objective_new_user_protection_inapp",
+        "value": "NOT_IN_TEST"
+      }
+    ],
+    "message_stages": [
+      {
+        "key": "ProductPromotionCoordinatorFilter",
+        "value": "false"
+      },
+      {
+        "key": "MultiObjectiveSelectionModelStage",
+        "value": "true"
+      }
+    ],
+    "message_holdouts": null,
+    "message_business_metric_sub_category": "",
+    "message_ppc_action": null,
+    "message_product": "PREMIUM",
+    "timestamp_utc": "2025-11-21T05:23:41.012Z"
+  },
+  {
+    "context_time": 1768683273517,
+    "message_campaign_id": "93552",
+    "message_channel": "INAPP",
+    "message_reorder_occurred": false,
+    "message_rank": 0,
+    "message_message_id": "188741",
+    "message_locale": "en_ID",
+    "message_region": "asia-east1",
+    "message_module_channel": "EXISTINGUSER_INAPP",
+    "message_uplift_variant": null,
+    "message_business_metric": "subscriptions",
+    "message_filter_reason": null,
+    "message_request_index": 0,
+    "message_experiment_properties": [
+      {
+        "key": "multi_objective_selection_inapp",
+        "value": "IAM_1_0_0"
+      },
+      {
+        "key": "multi_objective_new_user_protection_inapp",
+        "value": "NOT_IN_TEST"
+      }
+    ],
+    "message_stages": [
+      {
+        "key": "ProductPromotionCoordinatorFilter",
+        "value": "false"
+      },
+      {
+        "key": "MultiObjectiveSelectionModelStage",
+        "value": "true"
+      }
+    ],
+    "message_holdouts": [
+      {
+        "key": "PUSH_OPTIMIZATION_HOLDOUT",
+        "value": "false"
+      }
+    ],
+    "message_business_metric_sub_category": "Premium Individual",
+    "message_ppc_action": null,
+    "message_product": "PREMIUM",
+    "timestamp_utc": "2026-01-17T20:54:33.517Z"
+  },
+  {
+    "context_time": 1768644367055,
+    "message_campaign_id": "93552",
+    "message_channel": "INAPP",
+    "message_reorder_occurred": false,
+    "message_rank": 0,
+    "message_message_id": "188741",
+    "message_locale": "en_ID",
+    "message_region": "asia-east1",
+    "message_module_channel": "EXISTINGUSER_INAPP",
+    "message_uplift_variant": null,
+    "message_business_metric": "subscriptions",
+    "message_filter_reason": null,
+    "message_request_index": 0,
+    "message_experiment_properties": [
+      {
+        "key": "multi_objective_selection_inapp",
+        "value": "IAM_1_0_0"
+      },
+      {
+        "key": "multi_objective_new_user_protection_inapp",
+        "value": "NOT_IN_TEST"
+      }
+    ],
+    "message_stages": [
+      {
+        "key": "ProductPromotionCoordinatorFilter",
+        "value": "false"
+      },
+      {
+        "key": "MultiObjectiveSelectionModelStage",
+        "value": "true"
+      }
+    ],
+    "message_holdouts": [
+      {
+        "key": "PUSH_OPTIMIZATION_HOLDOUT",
+        "value": "false"
+      }
+    ],
+    "message_business_metric_sub_category": "Premium Individual",
+    "message_ppc_action": null,
+    "message_product": "PREMIUM",
+    "timestamp_utc": "2026-01-17T10:06:07.055Z"
+  },
+  {
+    "context_time": 1763550641750,
+    "message_campaign_id": "93645",
+    "message_channel": "INAPP",
+    "message_reorder_occurred": false,
+    "message_rank": 1,
+    "message_message_id": "184347",
+    "message_locale": "en_ID",
+    "message_region": "asia-east1",
+    "message_module_channel": "EXISTINGUSER_INAPP",
+    "message_uplift_variant": null,
+    "message_business_metric": "engagement",
+    "message_filter_reason": "MULTI_OBJECTIVE_SELECTION_MODEL",
+    "message_request_index": 1,
+    "message_experiment_properties": [
+      {
+        "key": "multi_objective_selection_inapp",
+        "value": "IAM_1_0_0"
+      },
+      {
+        "key": "multi_objective_new_user_protection_inapp",
+        "value": "NOT_IN_TEST"
+      }
+    ],
+    "message_stages": [
+      {
+        "key": "ProductPromotionCoordinatorFilter",
+        "value": "false"
+      },
+      {
+        "key": "MultiObjectiveSelectionModelStage",
+        "value": "true"
+      }
+    ],
+    "message_holdouts": null,
+    "message_business_metric_sub_category": "",
+    "message_ppc_action": null,
+    "message_product": "PREMIUM",
+    "timestamp_utc": "2025-11-19T11:10:41.750Z"
+  },
+  {
+    "context_time": 1762171067466,
+    "message_campaign_id": "89229",
+    "message_channel": "INAPP",
+    "message_reorder_occurred": false,
+    "message_rank": 0,
+    "message_message_id": "175044",
+    "message_locale": "en_ID",
+    "message_region": "asia-east1",
+    "message_module_channel": "EXISTINGUSER_INAPP",
+    "message_uplift_variant": null,
+    "message_business_metric": "engagement",
+    "message_filter_reason": null,
+    "message_request_index": 0,
+    "message_experiment_properties": [
+      {
+        "key": "multi_objective_selection_inapp",
+        "value": "IAM_1_0_0"
+      },
+      {
+        "key": "multi_objective_new_user_protection_inapp",
+        "value": "NOT_IN_TEST"
+      }
+    ],
+    "message_stages": [
+      {
+        "key": "ProductPromotionCoordinatorFilter",
+        "value": "false"
+      },
+      {
+        "key": "MultiObjectiveSelectionModelStage",
+        "value": "true"
+      }
+    ],
+    "message_holdouts": null,
+    "message_business_metric_sub_category": "",
+    "message_ppc_action": null,
+    "message_product": "PREMIUM",
+    "timestamp_utc": "2025-11-03T11:57:47.466Z"
+  },
+  {
+    "context_time": 1763550641750,
+    "message_campaign_id": "93645",
+    "message_channel": "INAPP",
+    "message_reorder_occurred": true,
+    "message_rank": 2,
+    "message_message_id": "184344",
+    "message_locale": "en_ID",
+    "message_region": "asia-east1",
+    "message_module_channel": "EXISTINGUSER_INAPP",
+    "message_uplift_variant": null,
+    "message_business_metric": "engagement",
+    "message_filter_reason": "MULTI_OBJECTIVE_SELECTION_MODEL",
+    "message_request_index": 0,
+    "message_experiment_properties": [
+      {
+        "key": "multi_objective_selection_inapp",
+        "value": "IAM_1_0_0"
+      },
+      {
+        "key": "multi_objective_new_user_protection_inapp",
+        "value": "NOT_IN_TEST"
+      }
+    ],
+    "message_stages": [
+      {
+        "key": "ProductPromotionCoordinatorFilter",
+        "value": "false"
+      },
+      {
+        "key": "MultiObjectiveSelectionModelStage",
+        "value": "true"
+      }
+    ],
+    "message_holdouts": null,
+    "message_business_metric_sub_category": "",
+    "message_ppc_action": null,
+    "message_product": "PREMIUM",
+    "timestamp_utc": "2025-11-19T11:10:41.750Z"
+  },
+  {
+    "context_time": 1763550641750,
+    "message_campaign_id": "93645",
+    "message_channel": "INAPP",
+    "message_reorder_occurred": true,
+    "message_rank": 0,
+    "message_message_id": "184346",
+    "message_locale": "en_ID",
+    "message_region": "asia-east1",
+    "message_module_channel": "EXISTINGUSER_INAPP",
+    "message_uplift_variant": null,
+    "message_business_metric": "engagement",
+    "message_filter_reason": null,
+    "message_request_index": 2,
+    "message_experiment_properties": [
+      {
+        "key": "multi_objective_selection_inapp",
+        "value": "IAM_1_0_0"
+      },
+      {
+        "key": "multi_objective_new_user_protection_inapp",
+        "value": "NOT_IN_TEST"
+      }
+    ],
+    "message_stages": [
+      {
+        "key": "ProductPromotionCoordinatorFilter",
+        "value": "false"
+      },
+      {
+        "key": "MultiObjectiveSelectionModelStage",
+        "value": "true"
+      }
+    ],
+    "message_holdouts": null,
+    "message_business_metric_sub_category": "",
+    "message_ppc_action": null,
+    "message_product": "PREMIUM",
+    "timestamp_utc": "2025-11-19T11:10:41.750Z"
+  }
+]

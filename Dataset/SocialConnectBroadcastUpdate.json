@@ -1,0 +1,4852 @@
+[
+  {
+    "context_time": 1768672409253,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "HD Audio Driver for Display A...",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-17T17:53:29.253Z"
+  },
+  {
+    "context_time": 1767256631451,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": "1FP37HBBV3HXQ0KTBKWR",
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-01T08:37:11.451Z"
+  },
+  {
+    "context_time": 1767243010666,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": "2ADDP2JXWISAORXEJSUP",
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-01T04:50:10.666Z"
+  },
+  {
+    "context_time": 1768552953819,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "HD Audio Driver for Display A...",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-16T08:42:33.819Z"
+  },
+  {
+    "context_time": 1767303155031,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": "7VWUSVIUOJNCMBQGFYR3",
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-01T21:32:35.031Z"
+  },
+  {
+    "context_time": 1764742048308,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_OFF",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-12-03T06:07:28.308Z"
+  },
+  {
+    "context_time": 1767543636319,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "Realtek(R) Audio",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-04T16:20:36.319Z"
+  },
+  {
+    "context_time": 1766112412292,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": "PD0AJFDE50LWBYKH0G1T",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-12-19T02:46:52.292Z"
+  },
+  {
+    "context_time": 1768203929403,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "Realtek(R) Audio",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-12T07:45:29.403Z"
+  },
+  {
+    "context_time": 1768391299025,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": "SWNDPYJ97JGVQBGXL3AZ",
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-14T11:48:19.025Z"
+  },
+  {
+    "context_time": 1764648743300,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_OFF",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-12-02T04:12:23.300Z"
+  },
+  {
+    "context_time": 1768398045244,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "HD Audio Driver for Display A...",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-14T13:40:45.244Z"
+  },
+  {
+    "context_time": 1764923802083,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_OFF",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-12-05T08:36:42.083Z"
+  },
+  {
+    "context_time": 1767650826916,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "HD Audio Driver for Display A...",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-05T22:07:06.916Z"
+  },
+  {
+    "context_time": 1767383535794,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": "A1NPRFPBNKD3SDMZD02C",
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-02T19:52:15.794Z"
+  },
+  {
+    "context_time": 1768647458902,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-17T10:57:38.902Z"
+  },
+  {
+    "context_time": 1768452491268,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "HD Audio Driver for Display A...",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-15T04:48:11.268Z"
+  },
+  {
+    "context_time": 1768307327627,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": "CRUYFZHZQNO4U5CMLGFE",
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-13T12:28:47.627Z"
+  },
+  {
+    "context_time": 1765449884738,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "Realtek(R) Audio",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-12-11T10:44:44.738Z"
+  },
+  {
+    "context_time": 1768398028121,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "HD Audio Driver for Display A...",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-14T13:40:28.121Z"
+  },
+  {
+    "context_time": 1767507332776,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "Realtek(R) Audio",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-04T06:15:32.776Z"
+  },
+  {
+    "context_time": 1768307545647,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "Smokin' Buds",
+    "message_output_device_type": "BLUETOOTH",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-13T12:32:25.647Z"
+  },
+  {
+    "context_time": 1767940387074,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": "HKCUHCSUBBLKVIKLV7DJ",
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-09T06:33:07.074Z"
+  },
+  {
+    "context_time": 1764117585110,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": "KRVGVBE9RHIY4MO5IRLL",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-26T00:39:45.110Z"
+  },
+  {
+    "context_time": 1768669259000,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-17T17:00:59Z"
+  },
+  {
+    "context_time": 1768326298934,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "Realtek(R) Audio",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-13T17:44:58.934Z"
+  },
+  {
+    "context_time": 1767910044614,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "HD Audio Driver for Display A...",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-08T22:07:24.614Z"
+  },
+  {
+    "context_time": 1768669513592,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "HD Audio Driver for Display A...",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-17T17:05:13.592Z"
+  },
+  {
+    "context_time": 1767008855794,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": "EHZTTOBFS784WSSPBRYD",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-12-29T11:47:35.794Z"
+  },
+  {
+    "context_time": 1765703177178,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-12-14T09:06:17.178Z"
+  },
+  {
+    "context_time": 1764122297190,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "Realtek(R) Audio",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-26T01:58:17.190Z"
+  },
+  {
+    "context_time": 1767008856171,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": "EHZTTOBFS784WSSPBRYD",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-12-29T11:47:36.171Z"
+  },
+  {
+    "context_time": 1765939082551,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_OFF",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-12-17T02:38:02.551Z"
+  },
+  {
+    "context_time": 1765659533186,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_OFF",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-12-13T20:58:53.186Z"
+  },
+  {
+    "context_time": 1767381998832,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": "A1NPRFPBNKD3SDMZD02C",
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-02T19:26:38.832Z"
+  },
+  {
+    "context_time": 1766197342775,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": "GA6X3NVCINCWVKVZ46HJ",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-12-20T02:22:22.775Z"
+  },
+  {
+    "context_time": 1768290832454,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": "CRUYFZHZQNO4U5CMLGFE",
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-13T07:53:52.454Z"
+  },
+  {
+    "context_time": 1767006454379,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": "EHZTTOBFS784WSSPBRYD",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-12-29T11:07:34.379Z"
+  },
+  {
+    "context_time": 1768648626408,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "HD Audio Driver for Display A...",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-17T11:17:06.408Z"
+  },
+  {
+    "context_time": 1765443071793,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_OFF",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-12-11T08:51:11.793Z"
+  },
+  {
+    "context_time": 1768265837367,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "HD Audio Driver for Display A...",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-13T00:57:17.367Z"
+  },
+  {
+    "context_time": 1768670961411,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "HD Audio Driver for Display A...",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-17T17:29:21.411Z"
+  },
+  {
+    "context_time": 1768102495442,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": "OOCFAD1RFWLIDKJBIAT6",
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-11T03:34:55.442Z"
+  },
+  {
+    "context_time": 1768690168352,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": "OPPO Reno12 5G",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": "FCDHUZKFTDPT1RKEVIUJ",
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-17T22:49:28.352Z"
+  },
+  {
+    "context_time": 1768676497981,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-17T19:01:37.981Z"
+  },
+  {
+    "context_time": 1768673857095,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "HD Audio Driver for Display A...",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-17T18:17:37.095Z"
+  },
+  {
+    "context_time": 1763858916310,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": "VQN64NJNELVFUD0AIFIK",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-23T00:48:36.310Z"
+  },
+  {
+    "context_time": 1764951706008,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "Realtek(R) Audio",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-12-05T16:21:46.008Z"
+  },
+  {
+    "context_time": 1767445254440,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "Realtek(R) Audio",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-03T13:00:54.440Z"
+  },
+  {
+    "context_time": 1766881690752,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": "VYBAX1MWUL2VNJOMUHGB",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-12-28T00:28:10.752Z"
+  },
+  {
+    "context_time": 1767879160361,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "HD Audio Driver for Display A...",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-08T13:32:40.361Z"
+  },
+  {
+    "context_time": 1763847059706,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": "K4FXESZX7O0UFKG9WSN3",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-22T21:30:59.706Z"
+  },
+  {
+    "context_time": 1768662019946,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-17T15:00:19.946Z"
+  },
+  {
+    "context_time": 1768307327624,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": "CRUYFZHZQNO4U5CMLGFE",
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-13T12:28:47.624Z"
+  },
+  {
+    "context_time": 1767521251724,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "HD Audio Driver for Display A...",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-04T10:07:31.724Z"
+  },
+  {
+    "context_time": 1763855900410,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": "K4FXESZX7O0UFKG9WSN3",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-22T23:58:20.410Z"
+  },
+  {
+    "context_time": 1767549188970,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "Realtek(R) Audio",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-04T17:53:08.970Z"
+  },
+  {
+    "context_time": 1768672154594,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-17T17:49:14.594Z"
+  },
+  {
+    "context_time": 1767579012679,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "HD Audio Driver for Display A...",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-05T02:10:12.679Z"
+  },
+  {
+    "context_time": 1767246397955,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": "2ADDP2JXWISAORXEJSUP",
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-01T05:46:37.955Z"
+  },
+  {
+    "context_time": 1767249470105,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "Realtek(R) Audio",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-01T06:37:50.105Z"
+  },
+  {
+    "context_time": 1766067831893,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_OFF",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-12-18T14:23:51.893Z"
+  },
+  {
+    "context_time": 1763756033711,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-21T20:13:53.711Z"
+  },
+  {
+    "context_time": 1764114842527,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": "KRVGVBE9RHIY4MO5IRLL",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-25T23:54:02.527Z"
+  },
+  {
+    "context_time": 1768654325183,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "HD Audio Driver for Display A...",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-17T12:52:05.183Z"
+  },
+  {
+    "context_time": 1767521251724,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "HD Audio Driver for Display A...",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-04T10:07:31.724Z"
+  },
+  {
+    "context_time": 1764119060672,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": "8UZIUGIKXZMWDMXMB184",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-26T01:04:20.672Z"
+  },
+  {
+    "context_time": 1767077651417,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": "RM3Z3HMF2C3LQAWLNJJ0",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-12-30T06:54:11.417Z"
+  },
+  {
+    "context_time": 1767443911540,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": "A1NPRFPBNKD3SDMZD02C",
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-03T12:38:31.540Z"
+  },
+  {
+    "context_time": 1764790218046,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_OFF",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-12-03T19:30:18.046Z"
+  },
+  {
+    "context_time": 1765015217261,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "Realtek(R) Audio",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-12-06T10:00:17.261Z"
+  },
+  {
+    "context_time": 1764288661467,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "LINE_OUT",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-28T00:11:01.467Z"
+  },
+  {
+    "context_time": 1767008855698,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": "EHZTTOBFS784WSSPBRYD",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-12-29T11:47:35.698Z"
+  },
+  {
+    "context_time": 1765493402885,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "Realtek(R) Audio",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-12-11T22:50:02.885Z"
+  },
+  {
+    "context_time": 1767497081733,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": "OM9IULVXWSC831LWYBBV",
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-04T03:24:41.733Z"
+  },
+  {
+    "context_time": 1767532592251,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "Realtek(R) Audio",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-04T13:16:32.251Z"
+  },
+  {
+    "context_time": 1764440615966,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": "K5PLEOBMTDNMSYFMB7P1",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-29T18:23:35.966Z"
+  },
+  {
+    "context_time": 1768108852919,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "Smokin' Buds",
+    "message_output_device_type": "BLUETOOTH",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-11T05:20:52.919Z"
+  },
+  {
+    "context_time": 1768310402741,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "HD Audio Driver for Display A...",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-13T13:20:02.741Z"
+  },
+  {
+    "context_time": 1768648425618,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-17T11:13:45.618Z"
+  },
+  {
+    "context_time": 1768660570936,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-17T14:36:10.936Z"
+  },
+  {
+    "context_time": 1768398044726,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-14T13:40:44.726Z"
+  },
+  {
+    "context_time": 1765784235865,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "Realtek(R) Audio",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-12-15T07:37:15.865Z"
+  },
+  {
+    "context_time": 1768673602434,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-17T18:13:22.434Z"
+  },
+  {
+    "context_time": 1768646754459,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": "MEIEKQSXTTOESUBHIZJY",
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-17T10:45:54.459Z"
+  },
+  {
+    "context_time": 1767571891181,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "HD Audio Driver for Display A...",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-05T00:11:31.181Z"
+  },
+  {
+    "context_time": 1766189300680,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "Realtek(R) Audio",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-12-20T00:08:20.680Z"
+  },
+  {
+    "context_time": 1764664346111,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "Realtek(R) Audio",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-12-02T08:32:26.111Z"
+  },
+  {
+    "context_time": 1766574706153,
+    "message_device_id": "ff626fd8bfff766ec793b7ffd82f0e3a1fea1a8f",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-12-24T11:11:46.153Z"
+  },
+  {
+    "context_time": 1766147363511,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "Realtek(R) Audio",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-12-19T12:29:23.511Z"
+  },
+  {
+    "context_time": 1768281358796,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": "OPPO Reno12 5G",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": "3TPVVC5TGBVRP2IPR5U6",
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-13T05:15:58.796Z"
+  },
+  {
+    "context_time": 1768318381479,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "Realtek(R) Audio",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-13T15:33:01.479Z"
+  },
+  {
+    "context_time": 1766789252806,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": "WXXCDLRPGCEB6CLX0R5V",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-12-26T22:47:32.806Z"
+  },
+  {
+    "context_time": 1767940654654,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "HD Audio Driver for Display A...",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-09T06:37:34.654Z"
+  },
+  {
+    "context_time": 1767377872287,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "Realtek(R) Audio",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-02T18:17:52.287Z"
+  },
+  {
+    "context_time": 1763857172747,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": "VQN64NJNELVFUD0AIFIK",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-23T00:19:32.747Z"
+  },
+  {
+    "context_time": 1767379440852,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": "A1NPRFPBNKD3SDMZD02C",
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-02T18:44:00.852Z"
+  },
+  {
+    "context_time": 1764795207478,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_OFF",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-12-03T20:53:27.478Z"
+  },
+  {
+    "context_time": 1766990845314,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": "SWF2YS4GDXPSLCAY3BQX",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-12-29T06:47:25.314Z"
+  },
+  {
+    "context_time": 1768114947186,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "HD Audio Driver for Display A...",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-11T07:02:27.186Z"
+  },
+  {
+    "context_time": 1764104514167,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": "KRVGVBE9RHIY4MO5IRLL",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-25T21:01:54.167Z"
+  },
+  {
+    "context_time": 1768102490248,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": "OOCFAD1RFWLIDKJBIAT6",
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-11T03:34:50.248Z"
+  },
+  {
+    "context_time": 1767074057692,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": "EHZTTOBFS784WSSPBRYD",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-12-30T05:54:17.692Z"
+  },
+  {
+    "context_time": 1763731564637,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_OFF",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-21T13:26:04.637Z"
+  },
+  {
+    "context_time": 1768644386159,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": "TE5J1YURE0DKXF2XLC7J",
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-17T10:06:26.159Z"
+  },
+  {
+    "context_time": 1768679648144,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "HD Audio Driver for Display A...",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-17T19:54:08.144Z"
+  },
+  {
+    "context_time": 1768251612233,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": "BRAFFBXAOZJPLUY5WDEF",
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-12T21:00:12.233Z"
+  },
+  {
+    "context_time": 1767649029512,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": "8DJHVWYEEHDGJQKCVDJQ",
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-05T21:37:09.512Z"
+  },
+  {
+    "context_time": 1765820971632,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_OFF",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-12-15T17:49:31.632Z"
+  },
+  {
+    "context_time": 1764969545983,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "Realtek(R) Audio",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-12-05T21:19:05.983Z"
+  },
+  {
+    "context_time": 1767207283034,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": "2ADDP2JXWISAORXEJSUP",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-12-31T18:54:43.034Z"
+  },
+  {
+    "context_time": 1768677945785,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-17T19:25:45.785Z"
+  },
+  {
+    "context_time": 1768662274477,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "HD Audio Driver for Display A...",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-17T15:04:34.477Z"
+  },
+  {
+    "context_time": 1767303157319,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": "7VWUSVIUOJNCMBQGFYR3",
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-01T21:32:37.319Z"
+  },
+  {
+    "context_time": 1766573291080,
+    "message_device_id": "0cf15ac67ad84c8928fba26d6b515f030ccf128e",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-12-24T10:48:11.080Z"
+  },
+  {
+    "context_time": 1768666363463,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-17T16:12:43.463Z"
+  },
+  {
+    "context_time": 1766899032380,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "LINE_OUT",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-12-28T05:17:12.380Z"
+  },
+  {
+    "context_time": 1768398142824,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "HD Audio Driver for Display A...",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-14T13:42:22.824Z"
+  },
+  {
+    "context_time": 1763713956447,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "Realtek(R) Audio",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-21T08:32:36.447Z"
+  },
+  {
+    "context_time": 1768398177650,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "HD Audio Driver for Display A...",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-14T13:42:57.650Z"
+  },
+  {
+    "context_time": 1768680841407,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-17T20:14:01.407Z"
+  },
+  {
+    "context_time": 1767074059438,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "LINE_OUT",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-12-30T05:54:19.438Z"
+  },
+  {
+    "context_time": 1764440614341,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": "K5PLEOBMTDNMSYFMB7P1",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-29T18:23:34.341Z"
+  },
+  {
+    "context_time": 1768114594622,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "Smokin' Buds",
+    "message_output_device_type": "BLUETOOTH",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-11T06:56:34.622Z"
+  },
+  {
+    "context_time": 1767246392426,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": "2ADDP2JXWISAORXEJSUP",
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-01T05:46:32.426Z"
+  },
+  {
+    "context_time": 1765755512378,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_OFF",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-12-14T23:38:32.378Z"
+  },
+  {
+    "context_time": 1768281516160,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "Smokin' Buds",
+    "message_output_device_type": "BLUETOOTH",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-13T05:18:36.160Z"
+  },
+  {
+    "context_time": 1768670706850,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-17T17:25:06.850Z"
+  },
+  {
+    "context_time": 1763847060791,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": "K4FXESZX7O0UFKG9WSN3",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-22T21:31:00.791Z"
+  },
+  {
+    "context_time": 1763904195179,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-23T13:23:15.179Z"
+  },
+  {
+    "context_time": 1768278062113,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "Smokin' Buds",
+    "message_output_device_type": "BLUETOOTH",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-13T04:21:02.113Z"
+  },
+  {
+    "context_time": 1768281525643,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": "OPPO Reno12 5G",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": "CRUYFZHZQNO4U5CMLGFE",
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-13T05:18:45.643Z"
+  },
+  {
+    "context_time": 1764726793675,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_OFF",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-12-03T01:53:13.675Z"
+  },
+  {
+    "context_time": 1763856325092,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "LINE_OUT",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-23T00:05:25.092Z"
+  },
+  {
+    "context_time": 1768683340654,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "Smokin' Buds",
+    "message_output_device_type": "BLUETOOTH",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-17T20:55:40.654Z"
+  },
+  {
+    "context_time": 1768125700710,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": "OPPO Reno12 5G",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": "UOATVZBYTAAGLCIB3QKB",
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-11T10:01:40.710Z"
+  },
+  {
+    "context_time": 1768307332612,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "Smokin' Buds",
+    "message_output_device_type": "BLUETOOTH",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-13T12:28:52.612Z"
+  },
+  {
+    "context_time": 1768644610152,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "HD Audio Driver for Display A...",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-17T10:10:10.152Z"
+  },
+  {
+    "context_time": 1764330035155,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "Realtek(R) Audio",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-28T11:40:35.155Z"
+  },
+  {
+    "context_time": 1768663722288,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "HD Audio Driver for Display A...",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-17T15:28:42.288Z"
+  },
+  {
+    "context_time": 1768644607886,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-17T10:10:07.886Z"
+  },
+  {
+    "context_time": 1767354114655,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "Realtek(R) Audio",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-02T11:41:54.655Z"
+  },
+  {
+    "context_time": 1763758784066,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "Realtek(R) Audio",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-21T20:59:44.066Z"
+  },
+  {
+    "context_time": 1768664915568,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-17T15:48:35.568Z"
+  },
+  {
+    "context_time": 1766867438288,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "LINE_OUT",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-12-27T20:30:38.288Z"
+  },
+  {
+    "context_time": 1764794022190,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_OFF",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-12-03T20:33:42.190Z"
+  },
+  {
+    "context_time": 1768195120947,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "HD Audio Driver for Display A...",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-12T05:18:40.947Z"
+  },
+  {
+    "context_time": 1767006455802,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": "EHZTTOBFS784WSSPBRYD",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-12-29T11:07:35.802Z"
+  },
+  {
+    "context_time": 1768638726915,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "Realtek(R) Audio",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-17T08:32:06.915Z"
+  },
+  {
+    "context_time": 1764726795838,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_OFF",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-12-03T01:53:15.838Z"
+  },
+  {
+    "context_time": 1765234053410,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "Realtek(R) Audio",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-12-08T22:47:33.410Z"
+  },
+  {
+    "context_time": 1766867435828,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": "OBZODLJCMBJUVITKRS7C",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-12-27T20:30:35.828Z"
+  },
+  {
+    "context_time": 1763966305896,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "Realtek(R) Audio",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-24T06:38:25.896Z"
+  },
+  {
+    "context_time": 1767243013044,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": "2ADDP2JXWISAORXEJSUP",
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-01T04:50:13.044Z"
+  },
+  {
+    "context_time": 1764742045477,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_OFF",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-12-03T06:07:25.477Z"
+  },
+  {
+    "context_time": 1764794023254,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_OFF",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-12-03T20:33:43.254Z"
+  },
+  {
+    "context_time": 1766747902619,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": "WXXCDLRPGCEB6CLX0R5V",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-12-26T11:18:22.619Z"
+  },
+  {
+    "context_time": 1766160861080,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "Realtek(R) Audio",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-12-19T16:14:21.080Z"
+  },
+  {
+    "context_time": 1767544602655,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "Realtek(R) Audio",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-04T16:36:42.655Z"
+  },
+  {
+    "context_time": 1767430964626,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": "A1NPRFPBNKD3SDMZD02C",
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-03T09:02:44.626Z"
+  },
+  {
+    "context_time": 1767256629405,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": "1FP37HBBV3HXQ0KTBKWR",
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-01T08:37:09.405Z"
+  },
+  {
+    "context_time": 1767430966836,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": "A1NPRFPBNKD3SDMZD02C",
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-03T09:02:46.836Z"
+  },
+  {
+    "context_time": 1764314528337,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": "OJJCTIWGOB2DYWYBDW35",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-28T07:22:08.337Z"
+  },
+  {
+    "context_time": 1765943149307,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "Realtek(R) Audio",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-12-17T03:45:49.307Z"
+  },
+  {
+    "context_time": 1764290449011,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "LINE_OUT",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-28T00:40:49.011Z"
+  },
+  {
+    "context_time": 1767553436691,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "Realtek(R) Audio",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-04T19:03:56.691Z"
+  },
+  {
+    "context_time": 1766305315367,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "Realtek(R) Audio",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-12-21T08:21:55.367Z"
+  },
+  {
+    "context_time": 1766906744813,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": "SWF2YS4GDXPSLCAY3BQX",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-12-28T07:25:44.813Z"
+  },
+  {
+    "context_time": 1765590979266,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "Realtek(R) Audio",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-12-13T01:56:19.266Z"
+  },
+  {
+    "context_time": 1767878849454,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-08T13:27:29.454Z"
+  },
+  {
+    "context_time": 1765659534777,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_OFF",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-12-13T20:58:54.777Z"
+  },
+  {
+    "context_time": 1763756037795,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": "7SKAVR0Z4JLR9GMG0YOB",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-21T20:13:57.795Z"
+  },
+  {
+    "context_time": 1767520031856,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "HD Audio Driver for Display A...",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-04T09:47:11.856Z"
+  },
+  {
+    "context_time": 1768675304786,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "HD Audio Driver for Display A...",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-17T18:41:44.786Z"
+  },
+  {
+    "context_time": 1768487352056,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "HD Audio Driver for Display A...",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-15T14:29:12.056Z"
+  },
+  {
+    "context_time": 1765820969195,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_OFF",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-12-15T17:49:29.195Z"
+  },
+  {
+    "context_time": 1767637933447,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "HD Audio Driver for Display A...",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-05T18:32:13.447Z"
+  },
+  {
+    "context_time": 1767198577863,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": "2ADDP2JXWISAORXEJSUP",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-12-31T16:29:37.863Z"
+  },
+  {
+    "context_time": 1765456846003,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "Realtek(R) Audio",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-12-11T12:40:46.003Z"
+  },
+  {
+    "context_time": 1767646839257,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": "8DJHVWYEEHDGJQKCVDJQ",
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-05T21:00:39.257Z"
+  },
+  {
+    "context_time": 1765680699372,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_OFF",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-12-14T02:51:39.372Z"
+  },
+  {
+    "context_time": 1768647459371,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-17T10:57:39.371Z"
+  },
+  {
+    "context_time": 1767491896124,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "Realtek(R) Audio",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-04T01:58:16.124Z"
+  },
+  {
+    "context_time": 1763843466553,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": "K4FXESZX7O0UFKG9WSN3",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-22T20:31:06.553Z"
+  },
+  {
+    "context_time": 1767497849415,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "Realtek(R) Audio",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-04T03:37:29.415Z"
+  },
+  {
+    "context_time": 1766112942720,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-12-19T02:55:42.720Z"
+  },
+  {
+    "context_time": 1766990843778,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": "SWF2YS4GDXPSLCAY3BQX",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-12-29T06:47:23.778Z"
+  },
+  {
+    "context_time": 1764923800660,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_OFF",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-12-05T08:36:40.660Z"
+  },
+  {
+    "context_time": 1768644391387,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": "TE5J1YURE0DKXF2XLC7J",
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-17T10:06:31.387Z"
+  },
+  {
+    "context_time": 1768452491272,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "HD Audio Driver for Display A...",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-15T04:48:11.272Z"
+  },
+  {
+    "context_time": 1768495172413,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "Realtek(R) Audio",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-15T16:39:32.413Z"
+  },
+  {
+    "context_time": 1767487594711,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": "T6IBC7FXPY525LOCFF3B",
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-04T00:46:34.711Z"
+  },
+  {
+    "context_time": 1767145372909,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "Realtek(R) Audio",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-12-31T01:42:52.909Z"
+  },
+  {
+    "context_time": 1767531223372,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "Realtek(R) Audio",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-04T12:53:43.372Z"
+  },
+  {
+    "context_time": 1764806284012,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "Realtek(R) Audio",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-12-03T23:58:04.012Z"
+  },
+  {
+    "context_time": 1767937798072,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "HD Audio Driver for Display A...",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-09T05:49:58.072Z"
+  },
+  {
+    "context_time": 1766470264541,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": "5SVLDOGOYKMTCX9WMJ6C",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-12-23T06:11:04.541Z"
+  },
+  {
+    "context_time": 1763863950812,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": "VQN64NJNELVFUD0AIFIK",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-23T02:12:30.812Z"
+  },
+  {
+    "context_time": 1765275904959,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "Realtek(R) Audio",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-12-09T10:25:04.959Z"
+  },
+  {
+    "context_time": 1767879138516,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": "T8F5DAUI12BTRCWUBOE1",
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-08T13:32:18.516Z"
+  },
+  {
+    "context_time": 1766877070655,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": "RNMWOHFYBZQRLHPATZXH",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-12-27T23:11:10.655Z"
+  },
+  {
+    "context_time": 1767198579056,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": "2ADDP2JXWISAORXEJSUP",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-12-31T16:29:39.056Z"
+  },
+  {
+    "context_time": 1764933766107,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "Realtek(R) Audio",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-12-05T11:22:46.107Z"
+  },
+  {
+    "context_time": 1768398039180,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "HD Audio Driver for Display A...",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-14T13:40:39.180Z"
+  },
+  {
+    "context_time": 1766089099337,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "Realtek(R) Audio",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-12-18T20:18:19.337Z"
+  },
+  {
+    "context_time": 1768398967779,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-14T13:56:07.779Z"
+  },
+  {
+    "context_time": 1764793306680,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_OFF",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-12-03T20:21:46.680Z"
+  },
+  {
+    "context_time": 1767953550058,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "HD Audio Driver for Display A...",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-09T10:12:30.058Z"
+  },
+  {
+    "context_time": 1767879140106,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": "FTBAXK141T3HJC0AJCDE",
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-08T13:32:20.106Z"
+  },
+  {
+    "context_time": 1768660826745,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "HD Audio Driver for Display A...",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-17T14:40:26.745Z"
+  },
+  {
+    "context_time": 1767879138517,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": "FTBAXK141T3HJC0AJCDE",
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-08T13:32:18.517Z"
+  },
+  {
+    "context_time": 1766747898975,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": "WXXCDLRPGCEB6CLX0R5V",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-12-26T11:18:18.975Z"
+  },
+  {
+    "context_time": 1768667811250,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-17T16:36:51.250Z"
+  },
+  {
+    "context_time": 1765680699970,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_OFF",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-12-14T02:51:39.970Z"
+  },
+  {
+    "context_time": 1765755510295,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_OFF",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-12-14T23:38:30.295Z"
+  },
+  {
+    "context_time": 1764790216806,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_OFF",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-12-03T19:30:16.806Z"
+  },
+  {
+    "context_time": 1767592945527,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "HD Audio Driver for Display A...",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-05T06:02:25.527Z"
+  },
+  {
+    "context_time": 1768398968060,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "HD Audio Driver for Display A...",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-14T13:56:08.060Z"
+  },
+  {
+    "context_time": 1766041978881,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "Realtek(R) Audio",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-12-18T07:12:58.881Z"
+  },
+  {
+    "context_time": 1767256903898,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-01T08:41:43.898Z"
+  },
+  {
+    "context_time": 1764245672009,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": "A2ROLGL1XU1NZMVTKZIJ",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-27T12:14:32.009Z"
+  },
+  {
+    "context_time": 1765939080314,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_OFF",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-12-17T02:38:00.314Z"
+  },
+  {
+    "context_time": 1764889276722,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "Realtek(R) Audio",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-12-04T23:01:16.722Z"
+  },
+  {
+    "context_time": 1764322279005,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "Realtek(R) Audio",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-28T09:31:19.005Z"
+  },
+  {
+    "context_time": 1767381996995,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": "A1NPRFPBNKD3SDMZD02C",
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-02T19:26:36.995Z"
+  },
+  {
+    "context_time": 1764245669576,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": "A2ROLGL1XU1NZMVTKZIJ",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-27T12:14:29.576Z"
+  },
+  {
+    "context_time": 1767525517219,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "HD Audio Driver for Display A...",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-04T11:18:37.219Z"
+  },
+  {
+    "context_time": 1763863955291,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": "VQN64NJNELVFUD0AIFIK",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-23T02:12:35.291Z"
+  },
+  {
+    "context_time": 1768412332545,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "Realtek(R) Audio",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-14T17:38:52.545Z"
+  },
+  {
+    "context_time": 1767497085554,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": "OM9IULVXWSC831LWYBBV",
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-04T03:24:45.554Z"
+  },
+  {
+    "context_time": 1764336131601,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "Realtek(R) Audio",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-28T13:22:11.601Z"
+  },
+  {
+    "context_time": 1768519848229,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": "LSCRHFNRKBC7G9JIN2PJ",
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-15T23:30:48.229Z"
+  },
+  {
+    "context_time": 1766876670575,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "LINE_OUT",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-12-27T23:04:30.575Z"
+  },
+  {
+    "context_time": 1763731562534,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_OFF",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-21T13:26:02.534Z"
+  },
+  {
+    "context_time": 1768398051420,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-14T13:40:51.420Z"
+  },
+  {
+    "context_time": 1767576591490,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "HD Audio Driver for Display A...",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-05T01:29:51.490Z"
+  },
+  {
+    "context_time": 1763855899553,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": "K4FXESZX7O0UFKG9WSN3",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-22T23:58:19.553Z"
+  },
+  {
+    "context_time": 1765750303991,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_OFF",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-12-14T22:11:43.991Z"
+  },
+  {
+    "context_time": 1768683284335,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": "OPPO Reno12 5G",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": "SJ4YWUELFAU8KNSBUJ1L",
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-17T20:54:44.335Z"
+  },
+  {
+    "context_time": 1768405024741,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "HD Audio Driver for Display A...",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-14T15:37:04.741Z"
+  },
+  {
+    "context_time": 1763712343113,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "Realtek(R) Audio",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-21T08:05:43.113Z"
+  },
+  {
+    "context_time": 1768683283832,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": "SJ4YWUELFAU8KNSBUJ1L",
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-17T20:54:43.832Z"
+  },
+  {
+    "context_time": 1768290833537,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": "CRUYFZHZQNO4U5CMLGFE",
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-13T07:53:53.537Z"
+  },
+  {
+    "context_time": 1764104512349,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": "KRVGVBE9RHIY4MO5IRLL",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-25T21:01:52.349Z"
+  },
+  {
+    "context_time": 1764795131248,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_OFF",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-12-03T20:52:11.248Z"
+  },
+  {
+    "context_time": 1767379438605,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": "A1NPRFPBNKD3SDMZD02C",
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-02T18:43:58.605Z"
+  },
+  {
+    "context_time": 1764564526363,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "Realtek(R) Audio",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-12-01T04:48:46.363Z"
+  },
+  {
+    "context_time": 1767207284541,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": "2ADDP2JXWISAORXEJSUP",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-12-31T18:54:44.541Z"
+  },
+  {
+    "context_time": 1763756035234,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": "7SKAVR0Z4JLR9GMG0YOB",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-21T20:13:55.234Z"
+  },
+  {
+    "context_time": 1763758746682,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": "OC7TLFI1GPRZJCJLJNBN",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-21T20:59:06.682Z"
+  },
+  {
+    "context_time": 1766313076651,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "Realtek(R) Audio",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-12-21T10:31:16.651Z"
+  },
+  {
+    "context_time": 1768364851688,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": "SWNDPYJ97JGVQBGXL3AZ",
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-14T04:27:31.688Z"
+  },
+  {
+    "context_time": 1768549969477,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": "YJ1J6WLYFCKGENLCD5AI",
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-16T07:52:49.477Z"
+  },
+  {
+    "context_time": 1768663467699,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-17T15:24:27.699Z"
+  },
+  {
+    "context_time": 1763805608785,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "Realtek(R) Audio",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-22T10:00:08.785Z"
+  },
+  {
+    "context_time": 1768679393554,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-17T19:49:53.554Z"
+  },
+  {
+    "context_time": 1767940389140,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": "OPPO Reno12 5G",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": "HKCUHCSUBBLKVIKLV7DJ",
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-09T06:33:09.140Z"
+  },
+  {
+    "context_time": 1764793305259,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_OFF",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-12-03T20:21:45.259Z"
+  },
+  {
+    "context_time": 1768398051631,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "HD Audio Driver for Display A...",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-14T13:40:51.631Z"
+  },
+  {
+    "context_time": 1768366387866,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": "SWNDPYJ97JGVQBGXL3AZ",
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-14T04:53:07.866Z"
+  },
+  {
+    "context_time": 1765629847965,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_OFF",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-12-13T12:44:07.965Z"
+  },
+  {
+    "context_time": 1768676752591,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "HD Audio Driver for Display A...",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-17T19:05:52.591Z"
+  },
+  {
+    "context_time": 1768660091456,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "HD Audio Driver for Display A...",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-17T14:28:11.456Z"
+  },
+  {
+    "context_time": 1763758746681,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": "FHOUMSZFITTWRFK9V5AO",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-21T20:59:06.681Z"
+  },
+  {
+    "context_time": 1766302768738,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": "PYHH2LFYHNJOFEMOHFQE",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-12-21T07:39:28.738Z"
+  },
+  {
+    "context_time": 1763702068213,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_OFF",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-21T05:14:28.213Z"
+  },
+  {
+    "context_time": 1768308853235,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": "OPPO Reno12 5G",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": "DGYUCC1SPXWANA5PLS3Q",
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-13T12:54:13.235Z"
+  },
+  {
+    "context_time": 1765533495701,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "Realtek(R) Audio",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-12-12T09:58:15.701Z"
+  },
+  {
+    "context_time": 1766877070653,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": "BH8KYNLX8N8CHCKOCLZV",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-12-27T23:11:10.653Z"
+  },
+  {
+    "context_time": 1766470262096,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": "5SVLDOGOYKMTCX9WMJ6C",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-12-23T06:11:02.096Z"
+  },
+  {
+    "context_time": 1767738868013,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "HD Audio Driver for Display A...",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-06T22:34:28.013Z"
+  },
+  {
+    "context_time": 1766197338991,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": "GA6X3NVCINCWVKVZ46HJ",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-12-20T02:22:18.991Z"
+  },
+  {
+    "context_time": 1768519846199,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": "LSCRHFNRKBC7G9JIN2PJ",
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-15T23:30:46.199Z"
+  },
+  {
+    "context_time": 1763808095370,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": "K4FXESZX7O0UFKG9WSN3",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-22T10:41:35.370Z"
+  },
+  {
+    "context_time": 1765629849457,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_OFF",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-12-13T12:44:09.457Z"
+  },
+  {
+    "context_time": 1768396968478,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-14T13:22:48.478Z"
+  },
+  {
+    "context_time": 1768391301570,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": "SWNDPYJ97JGVQBGXL3AZ",
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-14T11:48:21.570Z"
+  },
+  {
+    "context_time": 1767383537980,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": "A1NPRFPBNKD3SDMZD02C",
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-02T19:52:17.980Z"
+  },
+  {
+    "context_time": 1768398142596,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-14T13:42:22.596Z"
+  },
+  {
+    "context_time": 1765443068749,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_OFF",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-12-11T08:51:08.749Z"
+  },
+  {
+    "context_time": 1768396971556,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "HD Audio Driver for Display A...",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-14T13:22:51.556Z"
+  },
+  {
+    "context_time": 1765228411544,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-12-08T21:13:31.544Z"
+  },
+  {
+    "context_time": 1764671999877,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "Realtek(R) Audio",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-12-02T10:39:59.877Z"
+  },
+  {
+    "context_time": 1764114841072,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": "KRVGVBE9RHIY4MO5IRLL",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-25T23:54:01.072Z"
+  },
+  {
+    "context_time": 1767921282266,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "Realtek(R) Audio",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-09T01:14:42.266Z"
+  },
+  {
+    "context_time": 1768313808696,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "HD Audio Driver for Display A...",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-13T14:16:48.696Z"
+  },
+  {
+    "context_time": 1767256785617,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": "1FP37HBBV3HXQ0KTBKWR",
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-01T08:39:45.617Z"
+  },
+  {
+    "context_time": 1768681096353,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "HD Audio Driver for Display A...",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-17T20:18:16.353Z"
+  },
+  {
+    "context_time": 1767906485183,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "Realtek(R) Audio",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-08T21:08:05.183Z"
+  },
+  {
+    "context_time": 1763699700317,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_OFF",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-21T04:35:00.317Z"
+  },
+  {
+    "context_time": 1768531185563,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "HD Audio Driver for Display A...",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-16T02:39:45.563Z"
+  },
+  {
+    "context_time": 1767535176240,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "Realtek(R) Audio",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-04T13:59:36.240Z"
+  },
+  {
+    "context_time": 1768251613987,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": "BRAFFBXAOZJPLUY5WDEF",
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-12T21:00:13.987Z"
+  },
+  {
+    "context_time": 1768405008855,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-14T15:36:48.855Z"
+  },
+  {
+    "context_time": 1768666618374,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "HD Audio Driver for Display A...",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-17T16:16:58.374Z"
+  },
+  {
+    "context_time": 1768398038864,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-14T13:40:38.864Z"
+  },
+  {
+    "context_time": 1767256784101,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": "1FP37HBBV3HXQ0KTBKWR",
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-01T08:39:44.101Z"
+  },
+  {
+    "context_time": 1763702066012,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_OFF",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-21T05:14:26.012Z"
+  },
+  {
+    "context_time": 1767443909499,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": "A1NPRFPBNKD3SDMZD02C",
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-03T12:38:29.499Z"
+  },
+  {
+    "context_time": 1766067839813,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "Realtek(R) Audio",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-12-18T14:23:59.813Z"
+  },
+  {
+    "context_time": 1764117582311,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": "KRVGVBE9RHIY4MO5IRLL",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-26T00:39:42.311Z"
+  },
+  {
+    "context_time": 1764314529965,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": "OJJCTIWGOB2DYWYBDW35",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-28T07:22:09.965Z"
+  },
+  {
+    "context_time": 1767543636318,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "Realtek(R) Audio",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-04T16:20:36.318Z"
+  },
+  {
+    "context_time": 1767487596743,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": "T6IBC7FXPY525LOCFF3B",
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-04T00:46:36.743Z"
+  },
+  {
+    "context_time": 1763843471816,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": "K4FXESZX7O0UFKG9WSN3",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-22T20:31:11.816Z"
+  },
+  {
+    "context_time": 1768362751074,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "Smokin' Buds",
+    "message_output_device_type": "BLUETOOTH",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-14T03:52:31.074Z"
+  },
+  {
+    "context_time": 1764292229835,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": "OJJCTIWGOB2DYWYBDW35",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-28T01:10:29.835Z"
+  },
+  {
+    "context_time": 1766877072260,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "LINE_OUT",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-12-27T23:11:12.260Z"
+  },
+  {
+    "context_time": 1768493133064,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "HD Audio Driver for Display A...",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-15T16:05:33.064Z"
+  },
+  {
+    "context_time": 1766060030538,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "Realtek(R) Audio",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-12-18T12:13:50.538Z"
+  },
+  {
+    "context_time": 1767518110891,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "HD Audio Driver for Display A...",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-04T09:15:10.891Z"
+  },
+  {
+    "context_time": 1764125631986,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "Realtek(R) Audio",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-26T02:53:51.986Z"
+  },
+  {
+    "context_time": 1768308860852,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "Smokin' Buds",
+    "message_output_device_type": "BLUETOOTH",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-13T12:54:20.852Z"
+  },
+  {
+    "context_time": 1768612191155,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "HD Audio Driver for Display A...",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-17T01:09:51.155Z"
+  },
+  {
+    "context_time": 1768357261365,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "Smokin' Buds",
+    "message_output_device_type": "BLUETOOTH",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-14T02:21:01.365Z"
+  },
+  {
+    "context_time": 1764885932941,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-12-04T22:05:32.941Z"
+  },
+  {
+    "context_time": 1764924426769,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "Realtek(R) Audio",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-12-05T08:47:06.769Z"
+  },
+  {
+    "context_time": 1768668065792,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "HD Audio Driver for Display A...",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-17T16:41:05.792Z"
+  },
+  {
+    "context_time": 1767152327255,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "Realtek(R) Audio",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-12-31T03:38:47.255Z"
+  },
+  {
+    "context_time": 1768665170285,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "HD Audio Driver for Display A...",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-17T15:52:50.285Z"
+  },
+  {
+    "context_time": 1763756052463,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "Realtek(R) Audio",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-21T20:14:12.463Z"
+  },
+  {
+    "context_time": 1768125823601,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "Realtek(R) Audio",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-11T10:03:43.601Z"
+  },
+  {
+    "context_time": 1764795206575,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_OFF",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-12-03T20:53:26.575Z"
+  },
+  {
+    "context_time": 1763762387745,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": "VE4VCV6KGXEHWZRNSNCQ",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-21T21:59:47.745Z"
+  },
+  {
+    "context_time": 1768410349176,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "HD Audio Driver for Display A...",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-14T17:05:49.176Z"
+  },
+  {
+    "context_time": 1766116116675,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "Realtek(R) Audio",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-12-19T03:48:36.675Z"
+  },
+  {
+    "context_time": 1765147940243,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "Realtek(R) Audio",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-12-07T22:52:20.243Z"
+  },
+  {
+    "context_time": 1763808093360,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": "K4FXESZX7O0UFKG9WSN3",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-22T10:41:33.360Z"
+  },
+  {
+    "context_time": 1765776995307,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "Realtek(R) Audio",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-12-15T05:36:35.307Z"
+  },
+  {
+    "context_time": 1767877979877,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "HD Audio Driver for Display A...",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-08T13:12:59.877Z"
+  },
+  {
+    "context_time": 1764288659475,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": "4HTXSYSCMISHBVOA6BVW",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-28T00:10:59.475Z"
+  },
+  {
+    "context_time": 1766789250900,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": "WXXCDLRPGCEB6CLX0R5V",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-12-26T22:47:30.900Z"
+  },
+  {
+    "context_time": 1768675050275,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-17T18:37:30.275Z"
+  },
+  {
+    "context_time": 1768394381698,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "HD Audio Driver for Display A...",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-14T12:39:41.698Z"
+  },
+  {
+    "context_time": 1765489180495,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "Realtek(R) Audio",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-12-11T21:39:40.495Z"
+  },
+  {
+    "context_time": 1764287343424,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "Realtek(R) Audio",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-27T23:49:03.424Z"
+  },
+  {
+    "context_time": 1763758746682,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": "7WNI3TFRDKH0JGXT9IEM",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-21T20:59:06.682Z"
+  },
+  {
+    "context_time": 1766302767179,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": "PYHH2LFYHNJOFEMOHFQE",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-12-21T07:39:27.179Z"
+  },
+  {
+    "context_time": 1768538526820,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "Realtek(R) Audio",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-16T04:42:06.820Z"
+  },
+  {
+    "context_time": 1766112413682,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": "PD0AJFDE50LWBYKH0G1T",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-12-19T02:46:53.682Z"
+  },
+  {
+    "context_time": 1768125694237,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": "UOATVZBYTAAGLCIB3QKB",
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-11T10:01:34.237Z"
+  },
+  {
+    "context_time": 1765110971928,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "Realtek(R) Audio",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-12-07T12:36:11.928Z"
+  },
+  {
+    "context_time": 1763699701758,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_OFF",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-21T04:35:01.758Z"
+  },
+  {
+    "context_time": 1765750290845,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_OFF",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-12-14T22:11:30.845Z"
+  },
+  {
+    "context_time": 1763762382639,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": "VE4VCV6KGXEHWZRNSNCQ",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-21T21:59:42.639Z"
+  },
+  {
+    "context_time": 1768307544445,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": "RZ8HJLNAVXUMZLQSHOFU",
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-13T12:32:24.445Z"
+  },
+  {
+    "context_time": 1768398177362,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-14T13:42:57.362Z"
+  },
+  {
+    "context_time": 1763762382638,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": "VE4VCV6KGXEHWZRNSNCQ",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-21T21:59:42.638Z"
+  },
+  {
+    "context_time": 1764827311058,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "Realtek(R) Audio",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-12-04T05:48:31.058Z"
+  },
+  {
+    "context_time": 1764289612747,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": "CQDG0FB3AHQ2KR2B5OLI",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-28T00:26:52.747Z"
+  },
+  {
+    "context_time": 1768114594621,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "Smokin' Buds",
+    "message_output_device_type": "BLUETOOTH",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-11T06:56:34.621Z"
+  },
+  {
+    "context_time": 1767646841538,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": "8DJHVWYEEHDGJQKCVDJQ",
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-05T21:00:41.538Z"
+  },
+  {
+    "context_time": 1768114946907,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-11T07:02:26.907Z"
+  },
+  {
+    "context_time": 1768678200367,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "HD Audio Driver for Display A...",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-17T19:30:00.367Z"
+  },
+  {
+    "context_time": 1768647460590,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "HD Audio Driver for Display A...",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-17T10:57:40.590Z"
+  },
+  {
+    "context_time": 1768646752131,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": "MEIEKQSXTTOESUBHIZJY",
+    "message_mdns_token": null,
+    "timestamp_utc": "2026-01-17T10:45:52.131Z"
+  },
+  {
+    "context_time": 1766067833549,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_OFF",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-12-18T14:23:53.549Z"
+  },
+  {
+    "context_time": 1764795129814,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_OFF",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-12-03T20:52:09.814Z"
+  },
+  {
+    "context_time": 1761443032705,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": "CA7Z1TNNNA14KTGXWBZ9",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-10-26T01:43:52.705Z"
+  },
+  {
+    "context_time": 1761865336631,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": "AMRO9J6MZKYIQSMI4J9B",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-10-30T23:02:16.631Z"
+  },
+  {
+    "context_time": 1762171076942,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": "S6JNMYNCFJ0H5OCT3A8O",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-03T11:57:56.942Z"
+  },
+  {
+    "context_time": 1761646578208,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": "HHQBMIZEIHRLOYPAQ31K",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-10-28T10:16:18.208Z"
+  },
+  {
+    "context_time": 1763133247043,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": "NTUSUYUYZQRZRZFUT0NU",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-14T15:14:07.043Z"
+  },
+  {
+    "context_time": 1763103397654,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": "QKTDQT9181ZQM8ZCHS3K",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-14T06:56:37.654Z"
+  },
+  {
+    "context_time": 1761957537154,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": "GVTBVLL7KIJWGCAT7VDZ",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-01T00:38:57.154Z"
+  },
+  {
+    "context_time": 1762221666719,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "LINE_OUT",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-04T02:01:06.719Z"
+  },
+  {
+    "context_time": 1763519687743,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": "YEJA2BEGNYYN1AT9JWJL",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-19T02:34:47.743Z"
+  },
+  {
+    "context_time": 1761330972310,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": "STDYINJT4XCK7KRC0MJZ",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-10-24T18:36:12.310Z"
+  },
+  {
+    "context_time": 1761450618288,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-10-26T03:50:18.288Z"
+  },
+  {
+    "context_time": 1761275244951,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "Realtek(R) Audio",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-10-24T03:07:24.951Z"
+  },
+  {
+    "context_time": 1761330974064,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "LINE_OUT",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-10-24T18:36:14.064Z"
+  },
+  {
+    "context_time": 1763537714703,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": "1WQDJBO6MI2SZYFOG4GQ",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-19T07:35:14.703Z"
+  },
+  {
+    "context_time": 1761703429857,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": "7MYDMLB6TJSCTGQLRHDC",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-10-29T02:03:49.857Z"
+  },
+  {
+    "context_time": 1763525030844,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": "QZWZL5DCF9GEDBYQLXAJ",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-19T04:03:50.844Z"
+  },
+  {
+    "context_time": 1762221761215,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "LINE_OUT",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-04T02:02:41.215Z"
+  },
+  {
+    "context_time": 1761216469113,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "Realtek(R) Audio",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-10-23T10:47:49.113Z"
+  },
+  {
+    "context_time": 1761187516192,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_OFF",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-10-23T02:45:16.192Z"
+  },
+  {
+    "context_time": 1763531018350,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": "QZWZL5DCF9GEDBYQLXAJ",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-19T05:43:38.350Z"
+  },
+  {
+    "context_time": 1762235101883,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "LINE_OUT",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-04T05:45:01.883Z"
+  },
+  {
+    "context_time": 1762515825276,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": "HHZWVQQZYAIKNNYDIBYI",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-07T11:43:45.276Z"
+  },
+  {
+    "context_time": 1761929250197,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "Realtek(R) Audio",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-10-31T16:47:30.197Z"
+  },
+  {
+    "context_time": 1762142987277,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": "S6JNMYNCFJ0H5OCT3A8O",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-03T04:09:47.277Z"
+  },
+  {
+    "context_time": 1762739592998,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "Realtek(R) Audio",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-10T01:53:12.998Z"
+  },
+  {
+    "context_time": 1762676456156,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "Realtek(R) Audio",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-09T08:20:56.156Z"
+  },
+  {
+    "context_time": 1762240593652,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "LINE_OUT",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-04T07:16:33.652Z"
+  },
+  {
+    "context_time": 1762006936205,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": "GVTBVLL7KIJWGCAT7VDZ",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-01T14:22:16.205Z"
+  },
+  {
+    "context_time": 1762770829150,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "Realtek(R) Audio",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-10T10:33:49.150Z"
+  },
+  {
+    "context_time": 1762506451533,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "Realtek(R) Audio",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-07T09:07:31.533Z"
+  },
+  {
+    "context_time": 1763001954177,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "Realtek(R) Audio",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-13T02:45:54.177Z"
+  },
+  {
+    "context_time": 1762234087142,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": "WXKZC5AAHYFPUOXL68IR",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-04T05:28:07.142Z"
+  },
+  {
+    "context_time": 1761905835481,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": "01RWBILSUPKDOY2XPFEZ",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-10-31T10:17:15.481Z"
+  },
+  {
+    "context_time": 1762994498237,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-13T00:41:38.237Z"
+  },
+  {
+    "context_time": 1762155863603,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": "S6JNMYNCFJ0H5OCT3A8O",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-03T07:44:23.603Z"
+  },
+  {
+    "context_time": 1763170268320,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "Realtek(R) Audio",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-15T01:31:08.320Z"
+  },
+  {
+    "context_time": 1763535041301,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "LINE_OUT",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-19T06:50:41.301Z"
+  },
+  {
+    "context_time": 1762515827320,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "LINE_OUT",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-07T11:43:47.320Z"
+  },
+  {
+    "context_time": 1762221664892,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": "WC2POKD0FT2YZFHSGW7T",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-04T02:01:04.892Z"
+  },
+  {
+    "context_time": 1762175857046,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-03T13:17:37.046Z"
+  },
+  {
+    "context_time": 1761048031935,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-10-21T12:00:31.935Z"
+  },
+  {
+    "context_time": 1761306154298,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "Realtek(R) Audio",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-10-24T11:42:34.298Z"
+  },
+  {
+    "context_time": 1763531020204,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": "QZWZL5DCF9GEDBYQLXAJ",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-19T05:43:40.204Z"
+  },
+  {
+    "context_time": 1761130139622,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-10-22T10:48:59.622Z"
+  },
+  {
+    "context_time": 1763550494615,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": "1WQDJBO6MI2SZYFOG4GQ",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-19T11:08:14.615Z"
+  },
+  {
+    "context_time": 1762517283793,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "LINE_OUT",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-07T12:08:03.793Z"
+  },
+  {
+    "context_time": 1761865336626,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": "AMRO9J6MZKYIQSMI4J9B",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-10-30T23:02:16.626Z"
+  },
+  {
+    "context_time": 1761916241661,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "Realtek(R) Audio",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-10-31T13:10:41.661Z"
+  },
+  {
+    "context_time": 1761828652001,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "Realtek(R) Audio",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-10-30T12:50:52.001Z"
+  },
+  {
+    "context_time": 1762508050153,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": "JJZVPZKFYIUSMMFC3EUZ",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-07T09:34:10.153Z"
+  },
+  {
+    "context_time": 1762517639787,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "LINE_OUT",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-07T12:13:59.787Z"
+  },
+  {
+    "context_time": 1762517385263,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": "1SF5ZNPCMSVSLOIZACD3",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-07T12:09:45.263Z"
+  },
+  {
+    "context_time": 1762000856290,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": "GVTBVLL7KIJWGCAT7VDZ",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-01T12:40:56.290Z"
+  },
+  {
+    "context_time": 1762239986958,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": "DKL6T8IALUI4VKXVHEKP",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-04T07:06:26.958Z"
+  },
+  {
+    "context_time": 1761703436277,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": "7MYDMLB6TJSCTGQLRHDC",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-10-29T02:03:56.277Z"
+  },
+  {
+    "context_time": 1761641969619,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "LINE_OUT",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-10-28T08:59:29.619Z"
+  },
+  {
+    "context_time": 1761240368249,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "Realtek(R) Audio",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-10-23T17:26:08.249Z"
+  },
+  {
+    "context_time": 1761378103598,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "Realtek(R) Audio",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-10-25T07:41:43.598Z"
+  },
+  {
+    "context_time": 1761448920267,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-10-26T03:22:00.267Z"
+  },
+  {
+    "context_time": 1763519689230,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "LINE_OUT",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-19T02:34:49.230Z"
+  },
+  {
+    "context_time": 1763516907504,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": "VZ2IHJYNI5TCCFBS1VB4",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-19T01:48:27.504Z"
+  },
+  {
+    "context_time": 1762171075461,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": "S6JNMYNCFJ0H5OCT3A8O",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-03T11:57:55.461Z"
+  },
+  {
+    "context_time": 1762211365854,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": "QYXQSUZMXZH2KV5YUQCJ",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-03T23:09:25.854Z"
+  },
+  {
+    "context_time": 1761187514339,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_OFF",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-10-23T02:45:14.339Z"
+  },
+  {
+    "context_time": 1763298412265,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": "K6S8GT5DQLHFUXPEYNKO",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-16T13:06:52.265Z"
+  },
+  {
+    "context_time": 1763550492703,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": "1WQDJBO6MI2SZYFOG4GQ",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-19T11:08:12.703Z"
+  },
+  {
+    "context_time": 1763516910011,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "LINE_OUT",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-19T01:48:30.011Z"
+  },
+  {
+    "context_time": 1762508053575,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "LINE_OUT",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-07T09:34:13.575Z"
+  },
+  {
+    "context_time": 1761308910738,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "Realtek(R) Audio",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-10-24T12:28:30.738Z"
+  },
+  {
+    "context_time": 1762246027829,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": "HLHBUD3WNFSAQDJERRXX",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-04T08:47:07.829Z"
+  },
+  {
+    "context_time": 1761623932891,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "LINE_OUT",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-10-28T03:58:52.891Z"
+  },
+  {
+    "context_time": 1762142812391,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": "VO0TL3U7NF7EJRKPIYO6",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-03T04:06:52.391Z"
+  },
+  {
+    "context_time": 1763544516518,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": "1WQDJBO6MI2SZYFOG4GQ",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-19T09:28:36.518Z"
+  },
+  {
+    "context_time": 1762219391374,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": "WC2POKD0FT2YZFHSGW7T",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-04T01:23:11.374Z"
+  },
+  {
+    "context_time": 1761443037575,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-10-26T01:43:57.575Z"
+  },
+  {
+    "context_time": 1761889271970,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "LINE_OUT",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-10-31T05:41:11.970Z"
+  },
+  {
+    "context_time": 1763535039039,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": "QZWZL5DCF9GEDBYQLXAJ",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-19T06:50:39.039Z"
+  },
+  {
+    "context_time": 1762517250342,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": "LSGHQZ0NFSPOPSXWNI4F",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-07T12:07:30.342Z"
+  },
+  {
+    "context_time": 1762162442288,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": "S6JNMYNCFJ0H5OCT3A8O",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-03T09:34:02.288Z"
+  },
+  {
+    "context_time": 1761623931291,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": "DYLSH1XK3RNYJJDBIVBT",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-10-28T03:58:51.291Z"
+  },
+  {
+    "context_time": 1762255188580,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "Realtek(R) Audio",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-04T11:19:48.580Z"
+  },
+  {
+    "context_time": 1761905829779,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": "01RWBILSUPKDOY2XPFEZ",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-10-31T10:17:09.779Z"
+  },
+  {
+    "context_time": 1761900326928,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": "01RWBILSUPKDOY2XPFEZ",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-10-31T08:45:26.928Z"
+  },
+  {
+    "context_time": 1761353102333,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "Realtek(R) Audio",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-10-25T00:45:02.333Z"
+  },
+  {
+    "context_time": 1761445873814,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "Realtek(R) Audio",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-10-26T02:31:13.814Z"
+  },
+  {
+    "context_time": 1762686778870,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "Realtek(R) Audio",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-09T11:12:58.870Z"
+  },
+  {
+    "context_time": 1762508044432,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": "RD7MCNV778TVHFJTQDGQ",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-07T09:34:04.432Z"
+  },
+  {
+    "context_time": 1761443034249,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": "CA7Z1TNNNA14KTGXWBZ9",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-10-26T01:43:54.249Z"
+  },
+  {
+    "context_time": 1761641967755,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": "2N4OP42NY2GUVQAI5SXA",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-10-28T08:59:27.755Z"
+  },
+  {
+    "context_time": 1761037706534,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "Realtek(R) Audio",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-10-21T09:08:26.534Z"
+  },
+  {
+    "context_time": 1762999696372,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "Realtek(R) Audio",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-13T02:08:16.372Z"
+  },
+  {
+    "context_time": 1762989962898,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": "J0QET9FMF4D19R1TKZLM",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-12T23:26:02.898Z"
+  },
+  {
+    "context_time": 1762809237850,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "Realtek(R) Audio",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-10T21:13:57.850Z"
+  },
+  {
+    "context_time": 1762218235586,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "LINE_OUT",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-04T01:03:55.586Z"
+  },
+  {
+    "context_time": 1761333650762,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": "IC0G1CDRKAJFSYXKWBAR",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-10-24T19:20:50.762Z"
+  },
+  {
+    "context_time": 1762495571929,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "Realtek(R) Audio",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-07T06:06:11.929Z"
+  },
+  {
+    "context_time": 1761895447951,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": "QLT8T3LMQFCMLMOYFOYR",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-10-31T07:24:07.951Z"
+  },
+  {
+    "context_time": 1761896160921,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "LINE_OUT",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-10-31T07:36:00.921Z"
+  },
+  {
+    "context_time": 1763431688851,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-18T02:08:08.851Z"
+  },
+  {
+    "context_time": 1761889269987,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": "TCGGBXGRIZG7V2QCC257",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-10-31T05:41:09.987Z"
+  },
+  {
+    "context_time": 1762155055137,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": "S6JNMYNCFJ0H5OCT3A8O",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-03T07:30:55.137Z"
+  },
+  {
+    "context_time": 1762989960116,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": "J0QET9FMF4D19R1TKZLM",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-12T23:26:00.116Z"
+  },
+  {
+    "context_time": 1761174169264,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-10-22T23:02:49.264Z"
+  },
+  {
+    "context_time": 1761896020834,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "LINE_OUT",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-10-31T07:33:40.834Z"
+  },
+  {
+    "context_time": 1762520076266,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "LINE_OUT",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-07T12:54:36.266Z"
+  },
+  {
+    "context_time": 1762082382694,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "Realtek(R) Audio",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-02T11:19:42.694Z"
+  },
+  {
+    "context_time": 1761957538634,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": "GVTBVLL7KIJWGCAT7VDZ",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-01T00:38:58.634Z"
+  },
+  {
+    "context_time": 1761289381919,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "Realtek(R) Audio",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-10-24T07:03:01.919Z"
+  },
+  {
+    "context_time": 1762142813878,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "LINE_OUT",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-03T04:06:53.878Z"
+  },
+  {
+    "context_time": 1763298414702,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": "K6S8GT5DQLHFUXPEYNKO",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-16T13:06:54.702Z"
+  },
+  {
+    "context_time": 1762233498326,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "LINE_OUT",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-04T05:18:18.326Z"
+  },
+  {
+    "context_time": 1763103400010,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "LINE_OUT",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-14T06:56:40.010Z"
+  },
+  {
+    "context_time": 1762000862339,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": "GVTBVLL7KIJWGCAT7VDZ",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-01T12:41:02.339Z"
+  },
+  {
+    "context_time": 1763471219624,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "BUILT_IN_SPEAKER",
+    "message_social_radar_token": "VZ2IHJYNI5TCCFBS1VB4",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-18T13:06:59.624Z"
+  },
+  {
+    "context_time": 1763133244791,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": "NTUSUYUYZQRZRZFUT0NU",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-14T15:14:04.791Z"
+  },
+  {
+    "context_time": 1761710659654,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "Realtek(R) Audio",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-10-29T04:04:19.654Z"
+  },
+  {
+    "context_time": 1762240588513,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": "DKL6T8IALUI4VKXVHEKP",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-04T07:16:28.513Z"
+  },
+  {
+    "context_time": 1762211367430,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "LINE_OUT",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-03T23:09:27.430Z"
+  },
+  {
+    "context_time": 1762840841026,
+    "message_device_id": "bf3f646b330ae282444eafdc113eeb502809d6b0",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "Realtek(R) Audio",
+    "message_output_device_type": "UNKNOWN_OUTPUT_DEVICE_TYPE",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-11T06:00:41.026Z"
+  },
+  {
+    "context_time": 1762233496930,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": "IPORGXRS1KSKFUOGX4ZK",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-04T05:18:16.930Z"
+  },
+  {
+    "context_time": 1762155053259,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": "S6JNMYNCFJ0H5OCT3A8O",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-03T07:30:53.259Z"
+  },
+  {
+    "context_time": 1763522885491,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "LINE_OUT",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-19T03:28:05.491Z"
+  },
+  {
+    "context_time": 1762218233948,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": "HACE461YGABZM1WWLFZU",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-04T01:03:53.948Z"
+  },
+  {
+    "context_time": 1763544513821,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": "1WQDJBO6MI2SZYFOG4GQ",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-19T09:28:33.821Z"
+  },
+  {
+    "context_time": 1763471213877,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": "VZ2IHJYNI5TCCFBS1VB4",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-18T13:06:53.877Z"
+  },
+  {
+    "context_time": 1762508046914,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_UNAVAILABLE",
+    "message_output_device_name": "CPH2625",
+    "message_output_device_type": "LINE_OUT",
+    "message_social_radar_token": null,
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-07T09:34:06.914Z"
+  },
+  {
+    "context_time": 1762006932989,
+    "message_device_id": "54aa880e81df9f6981c9ea886b383f5496abbcaa",
+    "message_broadcast_status": "BROADCAST_ON",
+    "message_output_device_name": null,
+    "message_output_device_type": null,
+    "message_social_radar_token": "GVTBVLL7KIJWGCAT7VDZ",
+    "message_mdns_token": null,
+    "timestamp_utc": "2025-11-01T14:22:12.989Z"
+  }
+]
